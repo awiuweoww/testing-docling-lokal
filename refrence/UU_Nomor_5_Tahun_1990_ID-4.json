@@ -1,0 +1,2644 @@
+{
+  "chunks": [
+    {
+      "text": "Summary : This is a black-and-white logo featuring a stylized eagle with outstretched wings, holding a shield divided into four quadrants with various symbols, and a banner with the text \"Bhinneka Tunggal Ika\" below.\n\nlogo: Garuda Pancasila (Indonesia national emblem)\n\n# Main Elements :\n  • Central figure is a heraldic eagle (Garuda) with detailed feathers and prominent wings spread wide.\n  • The eagle's head is turned to its right (viewer’s left).\n  • The eagle is clutching a ribbon/banner in its talons.\n\n# Shield & Symbols :\n  • Shield is divided into four quadrants and a central star:\n    – Top left: Bull’s head symbol.\n    – Top right: Banyan tree symbol.\n    – Bottom left: Chain symbol.\n    – Bottom right: Rice and cotton symbol.\n    – Center: White five-pointed star on a black background.\n  • Shield is positioned on the eagle’s chest.\n\n# Banner Text :\n  • Banner below the eagle reads: \"Bhinneka Tunggal Ika\" (Indonesia’s national motto, meaning \"Unity in Diversity\").\n\n# Design Details :\n  • Black-and-white line art style.\n  • No colour or shading.\n  • Symmetrical composition, with the eagle and shield as the focal points.\n\n# Dimensions & Placement :\n  • Eagle occupies the majority of the vertical space.\n  • Banner is horizontally aligned below the eagle’s talons.\n\n# Analysis :\n  • The logo is the official national emblem of Indonesia, symbolizing unity, strength, and the foundational principles of the nation (Pancasila), as represented by the shield’s five symbols and the motto on the banner.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4284832179546356,
+            "t": 0.09867967665195465,
+            "r": 0.575154185295105,
+            "b": 0.21957848966121674
+          },
+          "page": 0
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "a645f22e-a213-43b1-89c0-89126c3b8d5f"
+    },
+    {
+      "text": "UNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 5 TAHUN 1990\nTENTANG\nKONSERVASI SUMBER DAYA ALAM HAYATI DAN EKOSISTEMNYA\n\nDENGAN RAHMAT TUHAN YANG MAHA ESA\n\nPRESIDEN REPUBLIK INDONESIA,",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.22629046440124512,
+            "t": 0.2295956164598465,
+            "r": 0.7765936851501465,
+            "b": 0.3893657326698303
+          },
+          "page": 0
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "94955f04-b884-454f-a2c1-494d60d535de"
+    },
+    {
+      "text": "- Menimbang : \n  - a. bahwa sumber daya alam hayati Indonesia dan ekosistemnya yang mempunyai kedudukan serta peranan penting bagi kehidupan adalah karunia Tuhan Yang Maha Esa, oleh karena itu perlu dikelola dan dimanfaatkan secara lestari, selaras, serasi dan seimbang bagi kesejahteraan masyarakat Indonesia pada khususnya dan umat manusia pada umumnya, baik masa kini maupun masa depan;\n  - b. bahwa pembangunan sumber daya alam hayati dan ekosistemnya pada hakikatnya adalah bagian integral dari pembangunan nasional yang berkelanjutan sebagai pengalaman Pancasila;\n  - c. bahwa unsur-unsur sumber daya alam hayati dan ekosistemnya pada dasarnya saling tergantung antara satu dengan yang lainnya dan saling mempengaruhi sehingga kerusakan dan kepunahan salah satu unsur akan berakibat terganggunya ekosistem;\n  - d. bahwa untuk menjaga agar pemanfaatan sumber daya alam hayati dapat berlangsung dengan cara sebaik-baiknya, maka diperlukan langkah-langkah konservasi schingga sumber daya alam hayati dan ekosistemnya selalu terpelihara dan mampu mewujudkan keseimbangan serta melekat dengan pembangunan itu sendiri;\n  - e. bahwa peraturan perundang-undangan yang ada dan masih berlaku merupakan produk hukum warisan pemerintah kolonial yang bersifat parsial, sehingga perlu dicabut karena sudah tidak sesuai dengan perkembangan hukum dan kepentingan nasional;\n  - f. bahwa peraturan perundang-undangan produk hukum nasional yang ada belum menampung dan mengatur secara menyeluruh mengenai konservasi sumber daya alam hayati dan ekosistemnya;",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.10800647735595703,
+            "t": 0.40054643154144287,
+            "r": 0.8964184522628784,
+            "b": 0.8913205862045288
+          },
+          "page": 0
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "2d9c121a-c8bc-4c53-900c-3a4c83541ad1"
+    },
+    {
+      "text": "g. bahwa sehubungan dengan hal-hal di atas, dipandang perlu menetapkan ketentuan mengenai konservasi sumber daya alam hayati dan ekosistemnya dalam suatu Undang-undang;",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.24286794662475586,
+            "t": 0.10485343635082245,
+            "r": 0.8897430896759033,
+            "b": 0.16938422620296478
+          },
+          "page": 1
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "d4e1c8b0-bd59-4754-bb94-8324730ff546"
+    },
+    {
+      "text": "Mengingat :\n  1. Pasal 5 ayat (1), Pasal 20 ayat (1), dan Pasal 33 Undang-Undang Dasar 1945;\n  2. Undang-undang Nomor 5 Tahun 1967 tentang Ketentuan-ketentuan Pokok Kehutanan (Lembaran Negara Tahun 1967 Nomor 8, Tambahan Lembaran Negara Nomor 2823);\n  3. Undang-undang Nomor 4 Tahun 1982 tentang Ketentuan-ketentuan Pokok Pengelolaan Lingkungan Hidup (Lembaran Negara Tahun 1982 Nomor 12, Tambahan Lembaran Negara Nomor 3215);\n  4. Undang-undang Nomor 20 Tahun 1982 tentang Ketentuan-ketentuan Pokok Pertahanan Keamanan Negara Republik Indonesia (Lembaran Negara Tahun 1982 Nomor 51, Tambahan Lembaran Negara Nomor 3234) sebagaimana telah diubah dengan Undang-undang Nomor 1 Tahun 1988 (Lembaran Negara Tahun 1988 Nomor 3, Tambahan Lembaran Negara Nomor 3368);\n  5. Undang-undang Nomor 9 Tahun 1985 tentang Perikanan (Lembaran Negara Tahun 1985 Nomor 46, Tambahan Lembaran Negara Nomor 3299);",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.10889735817909241,
+            "t": 0.1796165406703949,
+            "r": 0.8938018083572388,
+            "b": 0.5127356052398682
+          },
+          "page": 1
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "98cee42a-29c9-445e-b353-1b9ff7ffa5af"
+    },
+    {
+      "text": "Dengan persetujuan  \nDEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2708500921726227,
+            "t": 0.5262569785118103,
+            "r": 0.7315137386322021,
+            "b": 0.5695609450340271
+          },
+          "page": 1
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "11c147c8-7215-4de6-a020-ac7390036263"
+    },
+    {
+      "text": "MEMUTUSKAN:",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.42923012375831604,
+            "t": 0.5813189148902893,
+            "r": 0.5727330446243286,
+            "b": 0.6068971753120422
+          },
+          "page": 1
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "c44e1616-e929-401f-80db-e750aa7e74b6"
+    },
+    {
+      "text": "Menetapkan :  UNDANG-UNDANG  REPUBLIK INDONESIA TENTANG KONSERVASI SUMBER DAYA ALAM HAYATI DAN EKOSISTEMNYA.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11058884859085083,
+            "t": 0.6181716918945312,
+            "r": 0.8905460238456726,
+            "b": 0.6644214391708374
+          },
+          "page": 1
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "3d642eb2-da87-46a6-b9fb-7070cceacd42"
+    },
+    {
+      "text": "BAB I\nKETENTUAN UMUM",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.41007018089294434,
+            "t": 0.677060067653656,
+            "r": 0.5912289619445801,
+            "b": 0.7223432660102844
+          },
+          "page": 1
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "c93724f3-e886-4663-8be8-2d468e066f40"
+    },
+    {
+      "text": "Pasal 1\nDalam Undang-undang ini yang dimaksud dengan:\n1.\tSumber daya alam hayati adalah unsur-unsur hayati di alam yang terdiri dari sumber daya alam nabati (tumbuhan) dan sumber daya alam hewani (satwa) yang bersama dengan unsur nonhayati di sekitarnya secara keseluruhan membentuk ekosistem.\n2.\tKonservasi sumber daya alam hayati adalah pengelolaan sumber daya alam hayati yang pemanfaatannya dilakukan secara bijaksana untuk menjamin",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1085253655910492,
+            "t": 0.7357823848724365,
+            "r": 0.893561601638794,
+            "b": 0.8974432945251465
+          },
+          "page": 1
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "5916187e-359c-4ea9-9fed-db6915d7b20d"
+    },
+    {
+      "text": "www.djpp.depkumham.go.id",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.02281448245048523,
+            "t": 0.018167756497859955,
+            "r": 0.19414706528186798,
+            "b": 0.04324517771601677
+          },
+          "page": 2
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "6dbebaf8-d108-462e-a36a-d3166dbba931"
+    },
+    {
+      "text": "3. Ekosistem sumber daya alam hayati adalah sistem hubungan timbal balik antara unsur dalam alam, baik hayati maupun nonhayati yang saling tergantung dan pengaruh mempengaruhi.\n4. Tumbuhan adalah semua jenis sumber daya alam nabati, baik yang hidup di darat maupun di air.\n5. Satwa adalah semua jenis sumber daya alam hewani yang hidup di darat dan/atau di air, dan/atau di udara.\n6. Tumbuhan liar adalah tumbuhan yang hidup di alam bebas dan/atau dipelihara, yang masih mempunyai kemurnian jenisnya.\n7. Satwa liar adalah semua binatang yang hidup di darat, dan/atau di air, dan/atau di udara yang masih mempunyai sifat-sifat liar, baik yang hidup bebas maupun yang dipelihara oleh manusia.\n8. Habitat adalah lingkungan tempat tumbuhan atau satwa dapat hidup dan berkembang secara alami.\n9. Kawasan suaka alam adalah kawasan dengan ciri khas tertentu, baik di darat maupun di perairan yang mempunyai fungsi pokok sebagai kawasan pengawetan keanekaragaman tumbuhan dan satwa serta ekosistemnya yang juga berfungsi sebagai wilayah sistem penyangga kehidupan.\n10. Cagar alam adalah kawasan suaka alam yang karena keadaan alamnya mempunyai kekhasan tumbuhan, satwa, dan ekosistemnya atau ekosistem tertentu yang perlu dilindungi dan perkembangannya berlangsung secara alami.\n11. Suaka margasatwa adalah kawasan suaka alam yang mempunyai ciri khas berupa keanekaragaman dan/atau keunikan jenis satwa yang untuk kelangsungan hidupnya dapat dilakukan pembinaan terhadap habitatnya.\n12. Cagar biosfer adalah suatu kawasan yang terdiri dari ekosistem asli, ekosistem unik, dan/atau ekosistem yang telah mengalami degradasi yang keseluruhan unsur alamnya dilindungi dan dilestarikan bagi kepentingan penelitian dan pendidikan.\n13. Kawasan pelestarian alam adalah kawasan dengan ciri khas tertentu, baik di darat maupun di perairan yang mempunyai fungsi perlindungan sistem penyangga kehidupan, pengawetan keanekaragaman jenis tumbuhan dan satwa, serta pemanfaatan secara lestari sumber daya alam hayati dan ekosistemnya.\n14. Taman national adalah kawasan pelestarian alam yang mempunyai ekosistem asli, dikelola dengan sistem zonasi yang dimanfaatkan untuk tujuan penelitian, ilmu pengetahuan, pendidikan, menunjang budidaya, pariwisata, dan rekreasi.\n15. Taman hutan raya adalah kawasan pelestarian alam untuk tujuan koleksi tumbuhan dan/atau satwa yang alami atau buatan, jenis asli dan atau bukan asli, yang dimanfaatkan bagi kepentingan penelitian, ilmu pengetahuan, pendidikan, menunjang budidaya, pariwisata, dan rekreasi.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.10629886388778687,
+            "t": 0.10367467999458313,
+            "r": 0.9013946652412415,
+            "b": 0.8984867334365845
+          },
+          "page": 2
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "7808f989-8388-4227-a072-780d559233a3"
+    },
+    {
+      "text": "www.djpp.depkumham.go.id",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.023417659103870392,
+            "t": 0.02125062420964241,
+            "r": 0.1911540925502777,
+            "b": 0.03764893487095833
+          },
+          "page": 3
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "6372f4c5-a8c9-4a6e-a32e-7618a5d262ad"
+    },
+    {
+      "text": "16.  Taman wisata alam adalah kawasan pelestarian alam yang terutama dimanfaatkan untuk pariwisata dan rekreasi alam.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11170369386672974,
+            "t": 0.10183866322040558,
+            "r": 0.8912511467933655,
+            "b": 0.15015049278736115
+          },
+          "page": 3
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "b0e0bdc4-7ee0-4b05-89a9-fb76430f1a68"
+    },
+    {
+      "text": "Pasal 2\nKonservasi sumber daya alam hayati dan ekosistemnya berasaskan pelestarian kemampuan dan pemanfaatan sumber daya alam hayati dalam ekosistemnya secara serasi dan seimbang.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11129775643348694,
+            "t": 0.16187596321105957,
+            "r": 0.8897311687469482,
+            "b": 0.24307912588119507
+          },
+          "page": 3
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "6596f07c-166d-4b5c-8279-14ca79fc6893"
+    },
+    {
+      "text": "Pasal 3  \nKonservasi sumber daya alam hayati dan ekosistemnya bertujuan mengusahakan terwujudnya kelestarian sumber daya alam hayati serta keseimbangan ekosistemnya sehingga dapat lebih mendukung upaya peningkatan kesejahteraan masyarakat dan mutu kehidupan manusia.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11180955171585083,
+            "t": 0.2571762800216675,
+            "r": 0.8886842131614685,
+            "b": 0.35787850618362427
+          },
+          "page": 3
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "22b52c37-eaf2-433c-8d51-c124187c3917"
+    },
+    {
+      "text": "Pasal 4\nKonservasi sumber daya alam hayati dan ekosistemnya merupakan tanggung jawab dan kewajiban Pemerintah serta masyarakat.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11244940757751465,
+            "t": 0.3718709945678711,
+            "r": 0.887060284614563,
+            "b": 0.43466717004776
+          },
+          "page": 3
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "ec4ebfed-ceeb-4e0b-873c-7fe931bab07a"
+    },
+    {
+      "text": "Pasal 5\nKonservasi sumber daya alam hayati dan ekosistemnya dilakukan melalui kegiatan :\na.    perlindungan sistem penyangga kehidupan;\nb.    pengawetan keanekaragaman jenis tumbuhan dan satwa beserta ekosistemnya;\nc.    pemanfaatan secara lestari sumber daya alami hayati dan ekosistemnya.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11221712827682495,
+            "t": 0.4485042989253998,
+            "r": 0.8786202073097229,
+            "b": 0.5503118634223938
+          },
+          "page": 3
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "1a790875-9abc-426d-b729-a8b6bcdb837b"
+    },
+    {
+      "text": "BAB II\nPERLINDUNGAN SISTEM PENYANGGA KEHIDUPAN",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.28538939356803894,
+            "t": 0.5629236698150635,
+            "r": 0.7153100967407227,
+            "b": 0.6059063673019409
+          },
+          "page": 3
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "222ed2dd-9344-41b0-9b5b-e651a4481c3c"
+    },
+    {
+      "text": "Pasal 6  \nSistem penyangga kehidupan merupakan satu proses alami dari berbagai unsur hayati dan nonhayati yang menjamin kelangsungan kehidupan makhluk.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11296704411506653,
+            "t": 0.6193318367004395,
+            "r": 0.885506272315979,
+            "b": 0.6832404136657715
+          },
+          "page": 3
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "fb7623ed-8161-41a0-8b60-7fc93635b672"
+    },
+    {
+      "text": "Pasal 7\nPerlindungan sistem penyangga kehidupan ditujukan bagi terpeliharanya proses ekologis yang menunjang kelangsungan kehidupan untuk meningkatkan kesejahteraan masyarakat dan mutu kehidupan manusia.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11300581693649292,
+            "t": 0.6967357993125916,
+            "r": 0.8863034844398499,
+            "b": 0.7777741551399231
+          },
+          "page": 3
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "242bbb28-c67e-4d70-8b94-559c6b00a3ce"
+    },
+    {
+      "text": "Pasal 8\n\n(1) Untuk mewujudkan tujuan sebagaimana dimaksud dalam Pasal 7, Pemerintah menetapkan :\n    a. wilayah tertentu sebagai wilayah perlindungan sistem penyangga kehidupan;",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11429902911186218,
+            "t": 0.7931841015815735,
+            "r": 0.8861402273178101,
+            "b": 0.8926634192466736
+          },
+          "page": 3
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "358938cd-c8d5-478b-ad0c-1c3cc3141086"
+    },
+    {
+      "text": "b.    pola dasar pembinaan wilayah perlindungan sistem penyangga kehidupan;\nc.    pengaturan cara pemanfaatan wilayah perlindungan sistem penyangga kehidupan.\n(2)  Ketentuan lebih lanjut sebagaimana dimaksud dalam ayat (1) diatur dengan Peraturan Pemerintah.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11055412888526917,
+            "t": 0.10301241278648376,
+            "r": 0.8938297033309937,
+            "b": 0.2063847780227661
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "af51fa80-a73f-42b7-b87e-0526c6d30687"
+    },
+    {
+      "text": "Pasal 9\n(1) Setiap pemegang hak atas tanah dan hak pengusahaan di perairan dalam wilayah sistem penyangga kehidupan wajib menjaga kelangsungan fungsi perlindungan wilayah tersebut.\n(2) Dalam rangka pelaksanaan perlindungan sistem penyangga kehidupan, Pemerintah mengatur serta melakukan tindakan penertiban terhadap penggunaan dan pengelolaan tanah dan hak pengusahaan di perairan yang terletak dalam wilayah perlindungan sistem penyangga kehidupan sebagaimana dimaksud dalam Pasal 8.\n(3) Tindakan penertiban sebagaimana dimaksud dalam ayat (2) dilaksanakan sesuai dengan peraturan perundang-undangan yang berlaku.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1088857650756836,
+            "t": 0.21859468519687653,
+            "r": 0.8938279151916504,
+            "b": 0.43711185455322266
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "d9bc3cf8-86e6-4303-a61d-5c421371ba39"
+    },
+    {
+      "text": "Pasal 10  \nWilayah sistem penyangga kehidupan yang mengalami kerusakan secara alami dan/atau oleh karena peinanfaatannya serta oleh sebab-sebab lainnya diikuti dengan upaya rehabilitasi secara berencana dan berkesinambungan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.10781916975975037,
+            "t": 0.44839945435523987,
+            "r": 0.8925535678863525,
+            "b": 0.5328235030174255
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "65c35858-7636-40d7-a347-aca8b005a185"
+    },
+    {
+      "text": "BAB III\nPENGAWETAN KEANEKARAGAMAN JENIS TUMBUHAN",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.26547062397003174,
+            "t": 0.543332040309906,
+            "r": 0.7350988388061523,
+            "b": 0.5917702317237854
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "79238c0a-91dc-41f1-9e4e-c1f07f35eeb8"
+    },
+    {
+      "text": "DAN SATWA BESERTA EKOSISTEMNYA",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.3299299478530884,
+            "t": 0.5980433225631714,
+            "r": 0.6745806932449341,
+            "b": 0.6289618015289307
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "5c42ba32-af1e-4a35-afee-eed5ec22c210"
+    },
+    {
+      "text": "Pasal 11\nPengawetan keanekaragaman tumbuhan dan satwa beserta ekosistemnya, dilaksanakan melalui kegiatan :\na.     pengawetan keanekaragaman tumbuhan dan satwa beserta ekosistemnya;\nb.     pengawetan jenis tumbuhan dan satwa.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.10592308640480042,
+            "t": 0.637920081615448,
+            "r": 0.8918373584747314,
+            "b": 0.7434661984443665
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "73ad9b33-7b0f-4c04-8194-3b5e210e2909"
+    },
+    {
+      "text": "Pasal 12  \nPengawetan keanekaragaman tumbuhan dan satwa beserta ekosistemnya, dilaksanakan dengan menjaga keutuhan kawasan suaka alam agar tetap dalam keadaan asli.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.10499253869056702,
+            "t": 0.770495593547821,
+            "r": 0.8942441940307617,
+            "b": 0.8578659892082214
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "925d9118-efa0-437b-a469-6a295a65d3f9"
+    },
+    {
+      "text": "Pasal 13\n(1) Pengawetan jenis tumbuhan dan satwa dilaksanakan di dalam dan di luar kawasan suaka alam.\n(2) Pengawetan jenis tumbuhan dan satwa di dalam kawasan suaka alam dilakukan dengan membiarkan agar populasi semua jenis tumbuhan dan satwa tetap seimbang menurut proses alami di habitatnya.\n(3) Pengawetan jenis tumbuhan dan satwa di luar kawasan suaka alam dilakukan dengan menjaga dan mengembangbiakkan jenis tumbuhan dan satwa untuk menghindari bahaya kepunahan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.108237624168396,
+            "t": 0.10332170128822327,
+            "r": 0.8956621885299683,
+            "b": 0.28301823139190674
+          },
+          "page": 5
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "3a7039d1-5b7d-43ca-a424-25d5ca76dbae"
+    },
+    {
+      "text": "BAB IV\nKAWASAN SUAKA ALAM",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.39074185490608215,
+            "t": 0.2953622043132782,
+            "r": 0.6122851371765137,
+            "b": 0.34112223982810974
+          },
+          "page": 5
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "45771fec-2eab-4a55-9da4-44740e6e96b0"
+    },
+    {
+      "text": "Pasal 14\nKawasan suaka alam sebagaimana dimaksud dalam Pasal 12 terdiri dari:\na.      cagar alam;\nb.      suaka margasatwa.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.10734125971794128,
+            "t": 0.35429346561431885,
+            "r": 0.7583571672439575,
+            "b": 0.4364811182022095
+          },
+          "page": 5
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "d62cb836-e39f-4e1b-b160-f2ceda8c1ee8"
+    },
+    {
+      "text": "Pasal 15  \nKawasan suaka alam selain mempunyai fungsi pokok sebagai kawasan pengawetan keanekaragaman tumbuhan dan satwa beserta ekosistemnya, juga berfungsi sebagai wilayah perlindungan sistem penyangga kehidupan sebagaimana dimaksud dalam Pasal 8 ayat (1).",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.10675525665283203,
+            "t": 0.4491724371910095,
+            "r": 0.8924769163131714,
+            "b": 0.5519904494285583
+          },
+          "page": 5
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "4eaa22a8-f864-4e40-9e35-692bd33e8aa3"
+    },
+    {
+      "text": "Pasal 16  \n(1) Pengelolaan kawasan suaka alam dilaksanakan oleh Pemerintah sebagai upaya pengawetan keanekaragaman tumbuhan dan satwa beserta ekosistemnya.  \n(2) Ketentuan lebih lanjut yang diperlukan bagi penetapan dan pemanfaatan suatu wilayah sebagai kawasan suaka alam dan penetapan wilayah yang berbatasan dengannya sebagai daerah penyangga diatur dengan Peraturan Pemerintah.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.10764375329017639,
+            "t": 0.5629239678382874,
+            "r": 0.8943837881088257,
+            "b": 0.687802255153656
+          },
+          "page": 5
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "54f3c348-4d76-4d96-aa01-6aa350da81f3"
+    },
+    {
+      "text": "Pasal 17\n(1) Di dalam cagar alam dapat dilakukan kegiatan untuk kepentingan penelitian dan pengembangan, ilmu pengetahuan, pendidikan, dan kegiatan lainnya yang menunjang budidaya.\n(2) Di dalam suaka margasatwa dapat dilakukan kegiatan untuk kepentingan penelitian dan pengembangan, ilmu pengetahuan, pendidikan, wisata terbatas, dan kegiatan lainnya yang menunjang budidaya.\n(3) Ketentuan lebih lanjut sebagaimana dimaksud dalam ayat (1) dan ayat (2) diatur dengan Peraturan Pemerintah.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.10738486051559448,
+            "t": 0.6969430446624756,
+            "r": 0.8951898217201233,
+            "b": 0.8775553703308105
+          },
+          "page": 5
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "65ab1d41-ff37-4404-9ff8-ce1ab8e56d36"
+    },
+    {
+      "text": "Pasal 18\n(1) Dalam rangka kerja saina konservasi internasional, khususnya dalam kegiatan sebagaimana dimaksud dalam Pasal 17, kawasan suaka alam dan kawasan tertentu lainnya dapat ditetapkan sebagai cagar biosfer.\n(2) Penetapan suatu kawasan suaka alam dan kawasan tertentu lainnya sebagai cagai biosfer diatur lebih lanjut dengan Peraturan Pemerintah.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.10691279172897339,
+            "t": 0.10492942482233047,
+            "r": 0.8954448103904724,
+            "b": 0.22709566354751587
+          },
+          "page": 6
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "046e85bc-d50f-441f-8a91-4f2b0ac968c6"
+    },
+    {
+      "text": "Pasal 19\n(1) Setiap orang dilarang melakukatn kegiatan yang dapat mengakibatkan perubahan terhadap keutuhan kawasan suaka alam.\n(2) Ketentuan sebagaimana dimaksud dalam ayat (1) tidak termasuk kegiatan pembinaan Habitat untuk kepentingan satwa di dalam suaka marga satwa.\n(3) Perubahan terhadap keutuhan kawasan suaka alam sebagaimana dimaksud dalam ayat (1) meliputi mengurangi, menghilangkan fungsi dan luas kawasan suaka alam, serta menambah jenis tumbuhan dan satwa lain yang tidak asli.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.10785791277885437,
+            "t": 0.2377384603023529,
+            "r": 0.8961833715438843,
+            "b": 0.39945653080940247
+          },
+          "page": 6
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "55256355-6de9-477f-922b-7eff42b0f2fd"
+    },
+    {
+      "text": "BAB V\nPENGAWETAN JENIS TUMBUHAN DAN SATWA",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2928508520126343,
+            "t": 0.4098431468009949,
+            "r": 0.7074207067489624,
+            "b": 0.45562100410461426
+          },
+          "page": 6
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "ce447f2f-abdc-4a84-98aa-d3a9f77b80b7"
+    },
+    {
+      "text": "Pasal 20\n(1)  Tumbuhan dan satwa digolongkan dalam jenis:\n      a.  tumbuhan dan satwa yang dilindungi;\n      b.  tumbuhan dan satwa yang tidak dilindungi.\n(2)  Jenis tumbuhan dan satwa yang dilindungi sebagaimana dimaksud dalam ayat (1) digolongkan dalam :\n      a.  tumbuhan dan satwa dalam bahaya kepunahan;\n      b.  tumbuhan dan satwa yang populasinya jarang.\n(3)  Ketentuan lebih lanjut sebagaimana dimaksud dalam ayat (2) diatur dengan Peraturan Pemerintah.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.10710138082504272,
+            "t": 0.4675525426864624,
+            "r": 0.8962668776512146,
+            "b": 0.6645337343215942
+          },
+          "page": 6
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "43b0994c-b87e-4a03-b594-5245a2b1e72b"
+    },
+    {
+      "text": "Pasal 21\n\n1) Setiap orang dilarang untuk :\n   a. mengambil, menebang, memiliki, merusak, memusnahkan, memelihara, mengangkut, dan memperniagakan tumbuhan yang dilindungi atau bagian-bagiannya dalam keadaan hidup atau mati;\n   b. mengeluarkan tumbuhan yang dilindungi atau bagian-bagiannya dalam keadaan hidup atau mati dari suatu tempat di Indonesia ke tempat lain di dalam atau di luar Indonesia.\n(2) Setiap orang dilarang untuk :\n   a. menangkap, melukai, membunuh, menyimpan, memiliki, memelihara, mengangkut, dan memperniagakan satwa yang dilindungi dalam keadaan",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.10827997326850891,
+            "t": 0.6767622828483582,
+            "r": 0.8967386484146118,
+            "b": 0.8968172669410706
+          },
+          "page": 6
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "34c90e01-6cb9-4964-9c31-42d2c916ea73"
+    },
+    {
+      "text": "- b. menyimpan, memiliki, memelihara, mengangkut, dan meperniagakan satwa yang dilindungi dalam keadaan mati;\n- c. mengeluarkan satwa yang dilindungi dari suatu tempat di Indonesia ke tempat lain di dalam atau di luar Indonesia;\n- d. memperniagakan, menyimpan atau memiliki kulit, tubuh atau bagian-bagian lain satwa yang dilindungi atau barang-barang yang dibuat dari bagian-bagian satwa tersebut atau mengeluarkannya dari suatu tempat di Indonesia ke tempat lain di dalam atau di luar Indonesia;\n- e. mengambil, merusak, memusnahkan, memperniagakan, menyimpan atau memiliki telur dan/atau sarang satwa yang dilindungi.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.16262537240982056,
+            "t": 0.10257623344659805,
+            "r": 0.8950667977333069,
+            "b": 0.32314255833625793
+          },
+          "page": 7
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "a54dd897-4ad7-48a0-8a59-0a447bdd7a60"
+    },
+    {
+      "text": "Pasal 22\n(1)\tPengecualian dari larangan sebagaimana dimaksud dalam Pasal 21 hanya dapat dilakukan untuk keperluan penelitian, ilmu pengetahuan, dan/atau penyelamatan jenis tumbuhan dan satwa yang bersangkutan.\n(2)\tTermasuk dalam penyelamatan sebagaimana dimaksud dalam ayat (1) adalah pemberian atau penukaran jenis tumbuhan dan satwa kepada pihak lain di luar negeri dengan izin Pemerintah.\n(3)\tPengecualian dari larangan menangkap, melukai, dan membunuh satwa yang dilindungi dapat pula dilakukan dalam hal oleh karena suatu sebab satwa yang dilindungi membahayakan kehidupan manusia.\n(4)\tKetentuan lebih lanjut sebagaimana diinaaksud dalam ayat (1), ayat (2), dan ayat (3) diatur dengan Peraturan Pemerintah.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.10764172673225403,
+            "t": 0.3339790105819702,
+            "r": 0.8959805965423584,
+            "b": 0.571934700012207
+          },
+          "page": 7
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "81f398cc-90c1-498b-9740-40148c2e57cd"
+    },
+    {
+      "text": "Pasal 23\n(1) Apabila diperlukan, dapat dilakukan pemasukan tumbuhan dan satwa liar dari luar negeri ke dalam wilayah Negara Republik Indonesia.\n(2) Ketentuan lebih lanjut sebagaimana dimaksud dalam ayat (1) diatur dengan Peraturan Pemerintah.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1077808141708374,
+            "t": 0.5985896587371826,
+            "r": 0.8945786952972412,
+            "b": 0.7065808773040771
+          },
+          "page": 7
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "323a70d1-11a7-4082-982a-f393ce4d80b0"
+    },
+    {
+      "text": "Pasal 24  \n(1) Apabila terjadi pelanggaran terhadap larangan sebagaimana dimaksud dalam Pasal 21, tumbuhan dan satwa tersebut dirampas untuk negara.  \n(2) Jenis tumbuhan dan satwa yang dilindungi atau bagian-bagiannya yang dirampas untuk negara dikembalikan ke habitatnya atau diserahkan kepada lembaga-lembaga yang bergerak di bidang konservasi tumbuhan dari satwa, kecuali apabila keadaannya sudah tidak memungkinkan untuk dimanfaatkan sehingga dinilai lebih baik dimusnahkan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1076459288597107,
+            "t": 0.7142239212989807,
+            "r": 0.8973610997200012,
+            "b": 0.8795743584632874
+          },
+          "page": 7
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "45ecb834-b70e-4dff-8fad-0cf07d800ee9"
+    },
+    {
+      "text": "Pasal 25\n(1) Pengawasan jenis tumbuhan dan satwa yang dilindungi hanya dapat dilakukan dalam bentuk pemeliharaan atau pengembangbiakan oleh lembaga-lembaga yang dibentuk untuk itu.\n(2) Ketentuan lebih lanjut sebagaimana dimaksud dalam ayat (1) diatur dengan Peraturan Pemerintah.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.10862404108047485,
+            "t": 0.10570669174194336,
+            "r": 0.8926766514778137,
+            "b": 0.2250126302242279
+          },
+          "page": 8
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "791eaab2-b04e-4dbd-bfd7-c9e0ffa6cabd"
+    },
+    {
+      "text": "BAB VI\nPEMANFAATAN SECARA LESTARI",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.3541182577610016,
+            "t": 0.2387096881866455,
+            "r": 0.6499443054199219,
+            "b": 0.2832159399986267
+          },
+          "page": 8
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "0730dbda-d9fc-4c7d-82a7-6ce41ed064c6"
+    },
+    {
+      "text": "SUMBER DAYA ALAM HAYATI DAN EKOSISTEMNYA\n\nPasal 26\nPemanfaatan secara lestari sumber daya alam hayati dan ekosistemnya dilakukan melalui kegiatan :\na.    pemanfaatan kondisi lingkungan kawasan pelestarian alam;\nb.    pemanfaatan jenis tumbuhan dan satwa liar.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.10938876867294312,
+            "t": 0.29445043206214905,
+            "r": 0.8894574046134949,
+            "b": 0.4363657534122467
+          },
+          "page": 8
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "c2dac9d2-c231-462e-aa89-f35a886eba23"
+    },
+    {
+      "text": "Pasal 27\nPemanfaatan kondisi lingkungan kawasan pelestarian alam dilakukan dengan tetap menjaga kelestarian fungsi kawasan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.10977762937545776,
+            "t": 0.44902312755584717,
+            "r": 0.8910413384437561,
+            "b": 0.5126051902770996
+          },
+          "page": 8
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "c1b6f234-46cd-4229-ab9c-7058a6e8edfe"
+    },
+    {
+      "text": "Pasal 28  \nPemanfaatan jenis tumbuhan dan satwa liar dilakukan dengan memperhatikan kelangsungan potensi, daya dukung, dan keanekaragaman jenis tumbuhan dan satwa liar.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.10955542325973511,
+            "t": 0.5253379344940186,
+            "r": 0.8914439082145691,
+            "b": 0.6077568531036377
+          },
+          "page": 8
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "a1a25265-0d4a-4e5a-b4e2-51eb0ac8b68c"
+    },
+    {
+      "text": "BAB VII\nKAWASAN PELESTARIAN ALAM",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.3644142150878906,
+            "t": 0.620958685874939,
+            "r": 0.6368672847747803,
+            "b": 0.6639871597290039
+          },
+          "page": 8
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "2108a26b-aacb-4496-8a40-a4543eb076f3"
+    },
+    {
+      "text": "Pasal 29\n(1) Kawasan pelestarian alam sebagaimana dimaksud dalam Pasal 1 angka 13 terdiri dari :\n    a.    taman nasional;\n    b.    taman hutan raya;\n    c.    taman wisata alam.\n(2) Ketentuan lebih lanjut mengenai penetapan suatu wilayah sebagai kawasan pelestarian alam dan penetapan wilayah yang berbatasan dengannya sebagai daerah penyangga diatur dengan Peraturan Pemerintah.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.10914984345436096,
+            "t": 0.6780647039413452,
+            "r": 0.8925434350967407,
+            "b": 0.8570451736450195
+          },
+          "page": 8
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "74932851-2d12-49af-8d1b-1e79e888fe8e"
+    },
+    {
+      "text": "www.djpp.depkumham.go.id",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.023306578397750854,
+            "t": 0.02082681842148304,
+            "r": 0.1913900524377823,
+            "b": 0.03824646770954132
+          },
+          "page": 9
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "d1ec706a-38e7-4689-9ed3-6ec55789acf4"
+    },
+    {
+      "text": "Pasal 30  \nKawasan pelestarian alam mempunyai fungsi perlindungan sistem penyangga kehidupan, pengawetan keanekaragaman jenis tumbuhan dan satwa, serta pemanfaatan secara lestari sumber daya alam hayati dan ekosistemnya.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11053383350372314,
+            "t": 0.1089625209569931,
+            "r": 0.8909695148468018,
+            "b": 0.18704210221767426
+          },
+          "page": 9
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "de4c52b6-7be5-4d7c-8cbe-645aa935f18f"
+    },
+    {
+      "text": "Pasal 31\n\n(1) Di dalam taman nasional, taman hutan raya, dan taman wisata alam dapat dilakukan kegiatan untuk kepentingan penelitian, ilmu pengetahuan, pendidikan, menunjang budidaya, budaya, dan wisata alam.\n(2) Kegiatan sebagaimana dimaksud dalam ayat (1) harus dilakukan tanpa mengurangi fungsi pokok masing-masing kawasan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11265850067138672,
+            "t": 0.2010178565979004,
+            "r": 0.8899977207183838,
+            "b": 0.32182449102401733
+          },
+          "page": 9
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "452aee98-c349-499b-b4fa-83e0066607d1"
+    },
+    {
+      "text": "Pasal 32  \nKawasan taman nasional dikelola dengan sistem zonasi yang terdiri dari zona inti, zona pemanfaatan, dan zona lain sesuai dengan keperluan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1115952730178833,
+            "t": 0.33346226811408997,
+            "r": 0.8880627155303955,
+            "b": 0.3976879417896271
+          },
+          "page": 9
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "13a26931-c48a-4711-9b0a-1ac769a4840a"
+    },
+    {
+      "text": "Pasal 33\n(1) Setiap orang dilarang melakukan kegiatan yang dapat mengakibatkan perubahan terhadap keutuhan zona inti taman nasional.\n(2) Perubahan terhadap keutuhan zona inti taman nasional sebagaimana dimaksud dalam ayat (1) meliputi mengurangi, menghilangkan fungsi dan luas zona inti taman nasional, serta menambah jenis tumbuhan dan satwa lain yang tidak asli.\n(3) Setiap orang dilarang melakukan kegiatan yang tidak sesuai dengan fungsi zona pemanfaatan dan zona lain dari taman nasional, taman hutan raya, dan taman wisata alam.\n\nPasal 34\n(1) Pengelolaan taman nasional, taman hutan raya, dan taman wisata alam dilaksanakan oleh Pemerintah.\n(2) Di dalam zona pemanfaatan taman nasional, taman hutan raya, dan taman wisata alam dapat dibangun sarana kepariwisataan berdasarkan rencana pengelolaan.\n(3) Untuk kegiatan kepariwisataan dan rekreasi, Pemerintah dapat memberikan hak pengusahaan atas zona pemanfaatan taman nasional, taman hutan raya, dan taman wisata alam dengan mengikutsertakan rakyat.\n(4) Ketentuan lebih lanjut sebagaimana dimaksud dalam ayat (1), ayat (2), dan ayat (3) diatur dengan Peraturan Pemerintah.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11108484864234924,
+            "t": 0.43047791719436646,
+            "r": 0.8912599086761475,
+            "b": 0.8362904191017151
+          },
+          "page": 9
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "56e64035-096a-457d-87ca-7cb2831907cf"
+    },
+    {
+      "text": "www.djpp.depkumham.go.id",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.02335449308156967,
+            "t": 0.020769912749528885,
+            "r": 0.19136428833007812,
+            "b": 0.038116805255413055
+          },
+          "page": 10
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "f4688db1-684f-456e-a5a1-bfd1ec522599"
+    },
+    {
+      "text": "Pasal 35  \nDalam keadaan tertentu dan sangat diperlukan untuk mempertahankan atau memulihkan kelestarian sumber daya alam hayati beserta ekosistemnya, Pemerintah dapat menghentikan kegiatan pemanfaatan dan menutup taman nasional, taman hutan raya, dan taman wisata alam sebagian atau seluruhnya untuk selama waktu tertentu.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11069023609161377,
+            "t": 0.1068183183670044,
+            "r": 0.88946533203125,
+            "b": 0.20634347200393677
+          },
+          "page": 10
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "423cd38a-da5d-4fb2-83aa-0ec335d3230b"
+    },
+    {
+      "text": "BAB VIII\nPEMANFAATAN JENIS TUMBUHAN DAN SATWA LIAR",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.27538925409317017,
+            "t": 0.21830397844314575,
+            "r": 0.7271352410316467,
+            "b": 0.2629762291908264
+          },
+          "page": 10
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "ae997657-e961-4822-8bb9-65c849c94bd7"
+    },
+    {
+      "text": "Pasal 36\n(1) Pemanfaatan jenis tumbuhan dan satwa liar dapat dilaksanakan dalam bentuk :\n    a.    pengkajian, penelitian dan pengembangan;\n    b.    penangkaran;\n    c.    perburuan;\n    d.    perdagangan;\n    e.    peragaan;\n    f.    pertukaran;\n    g.    budidaya tanaman obat-obatan;\n    h.    pemeliharaan untuk kesenangan.\n(2) Ketentuan lebih lanjut sebagaimana dimaksud dalam ayat (1) diatur dengan Peraturan Pemerintah.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11089280247688293,
+            "t": 0.2758539021015167,
+            "r": 0.8881469964981079,
+            "b": 0.5094990730285645
+          },
+          "page": 10
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "a128269b-1473-4fa5-9270-140e01d0ab3e"
+    },
+    {
+      "text": "BAB IX\nPERANSERTA RAKYAT",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.40089476108551025,
+            "t": 0.5243690609931946,
+            "r": 0.5991848707199097,
+            "b": 0.5676935315132141
+          },
+          "page": 10
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "86bed5b6-137e-46c5-811e-173ff18d3b0d"
+    },
+    {
+      "text": "Pasal 37",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.45795345306396484,
+            "t": 0.5836959481239319,
+            "r": 0.5674170255661011,
+            "b": 0.6046558022499084
+          },
+          "page": 10
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "af48e6ac-218c-40bd-a3d2-b186efe4cd02"
+    },
+    {
+      "text": "1) Peranserta rakyat dalam konservasi sumber daya alam hayati dan ekosistemnya diarahkan dan digerakkan oleh Pemerintah melalui berbagai kegiatan yang berdaya guna dan berhasil guna.\n2) Dalam mengembangkan peranserta rakyat sebagaimana dimaksud dalam ayat (1), Pemerintah menumbuhkan dan meningkatkan sadar konservasi sumber daya alam hayati dan ekosistemnya di kalangan rakyat melalui pendidikan dan penyuluhan.\n3) Ketentuan lebih lanjut sebagaimana dimaksud dalam ayat (1) dan ayat (2) diatur dengan Peraturan Pemerintah.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11083915829658508,
+            "t": 0.5962651968002319,
+            "r": 0.8897656202316284,
+            "b": 0.77797532081604
+          },
+          "page": 10
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "2da42df5-fc4d-420e-8825-311a111295a8"
+    },
+    {
+      "text": "BAB X\nPENYERAHAN URUSAN DAN TUGAS PEMBANTUAN",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.28131669759750366,
+            "t": 0.10454422235488892,
+            "r": 0.7188565135002136,
+            "b": 0.1493566334247589
+          },
+          "page": 11
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "7afc39a1-996a-4598-ad39-a746d2bc3c60"
+    },
+    {
+      "text": "Pasal 38\n\n(1) Dalam rangka pelaksanaan konservasi sumberdaya alam hayati dan ekosistemnya, Pemerintah dapat menyerahkan sebagian urusan di bidang tersebut kepada Pemerintah Daerah sebagaimana dimaksud dalam Undang-undang Nomor 5 Tahun 1974 tentang Pokok-pokok Pemerintahan di Daerah.\n(2) Ketentuan lebih lanjut sebagaimana dimaksud dalam ayat (1) diatur dengan Peraturan Pemerintah.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.10898694396018982,
+            "t": 0.16207125782966614,
+            "r": 0.8927042484283447,
+            "b": 0.3209243714809418
+          },
+          "page": 11
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "06583edf-0901-4490-82cc-d99b6208c273"
+    },
+    {
+      "text": "BAB XI\nPENYIDIKAN",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.438582181930542,
+            "t": 0.33430537581443787,
+            "r": 0.5639559030532837,
+            "b": 0.37801477313041687
+          },
+          "page": 11
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "e9416c7f-f6a1-46da-9e5e-ed969215935d"
+    },
+    {
+      "text": "Pasal 39\n\n(1) Selain Pejabat Penyidik Kepolisian Negara Republik Indonesia, juga pejabat Pegawai Negeri Sipil tertentu di lingkungan departemen yang lingkup tugas dan tanggung jawabnya meliputi pembinaan konservasi sumber daya alam hayati dan ekosistemnya, diberi wewenang khusus sebagai penyidik sebagaimana dimaksud dalam Undang-Undang Nomor 8 Tahun 1981 tentang Hukum Acara Pidana, untuk melakukan penyidikan tindak pidana di bidang konservasi sumber daya alam hayati dan ekosistemnya.\n(2) Kewenangan penyidik sebagaimana dimaksud dalam ayat (1), tidak mengurangi kewenangan penyidik sebagaimana diatur dalam Undang-undang Nomor 5 Tahun 1983 tentang Zona Ekonomi Eksklusif Indonesia dan Undang-undang Nomor 9 Tahun 1985 tentang Perikanan.\n(3) Penyidik sebagaimana dimaksud dalam ayat (1), berwenang untuk:\na. melakukan pemeriksaan atas kebenaran laporan atau keterangan berkenaan dengan tindak pidana di bidang konservasi sumber daya alam hayati dan ekosistemnya;\nb. melakukan pemeriksaan terhadap orang yang diduga melakukan tindak pidana di bidang konservasi sumber daya alam hayati dan ekosistemnya;\nc. memeriksa tanda pengenal seseorang yang berada dalam kawasan suaka alam dan kawasan pelestarian alam;\nd. melakukan penggeledahan dan penyitaan barang bukti tindak pidana di bidang konservasi sumber daya alam hayati dan ekosistemnya;\ne. meminta keterangan dan bahan bukti dari orang atau badan sehubungan dengan tindak pidana di bidang konservasi sumber daya alam hayati dan ekosistemnya;\nf. membuat dan menandatangani berita acara;",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.10852786898612976,
+            "t": 0.3923167586326599,
+            "r": 0.8988934755325317,
+            "b": 0.8962934613227844
+          },
+          "page": 11
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "ea883ee4-526c-463b-b547-c44345069388"
+    },
+    {
+      "text": "g.   menghentikan penyidikan apabila tidak terdapat cukup bukti tentang adanya tindak pidana di bidang konservasi sumber daya alam hayati dan ekosistemnya.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1424667239189148,
+            "t": 0.10528632998466492,
+            "r": 0.8934527039527893,
+            "b": 0.16340196132659912
+          },
+          "page": 12
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "5a1a1ac1-8b42-471a-bceb-dfd6e3b9446b"
+    },
+    {
+      "text": "(4) Penyidik sebagaimana dimaksud dalam ayat (1) memberitahukan dimulainya penyidikan dan melaporkan hasil penyidikannya kepada Penuntut Umum melalui Pejabat Penyidik Kepolisian Negara Republik Indonesia sesuai dengan ketentuan Pasal 107 Undang-undang Nomor 8 Tahun 1981 tentang Hukum Acara Pidana.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11302459239959717,
+            "t": 0.1640777289867401,
+            "r": 0.8909728527069092,
+            "b": 0.24575749039649963
+          },
+          "page": 12
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "4642cc32-e5bb-40a8-9ee9-d3d7c5e06ab3"
+    },
+    {
+      "text": "BAB XII\nKETENTUAN PIDANA",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.40585553646087646,
+            "t": 0.2578965425491333,
+            "r": 0.5957144498825073,
+            "b": 0.30184781551361084
+          },
+          "page": 12
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "e1b20162-f631-42fc-88e2-c2731f88d8d9"
+    },
+    {
+      "text": "Pasal 40\n\n1. Barangsiapa dengan sengaja melakukan pelanggaran terhadap ketentuan sebagaimana dimaksud dalam Pasal 19 ayat (1) dan Pasal 33 ayat (1) dipidana dengan pidana penjara paling lama 10 (sepuluh) tahun dan denda paling banyak Rp 200.000.000,00 (dua ratus juta rupiah).\n2. Barangsiapa dengan sengaja melakukan pelanggaran terhadap ketentuan sebagaimana dimaksud dalam Pasal 21 ayat (1) dan ayat (2) serta Pasal 33 ayat (3) dipidana dengan pidana penjara paling lama 5 (lima) tahun dan denda paling banyak Rp 100.000.000,00(seratusjuta rupiah).\n3. Barangsiapa karena kelalaiannya melakukan pelanggaran terhadap ketentuan sebagaimana dimaksud dalam Pasal 19 ayat (1) dan Pasal 32 ayat (1) dipidana dengan pidana kurungan paling lama 1 (satu) tahun dan denda paling banyak Rp. 100.000.000,00 (seratusjuta rupiah).\n4. Barangsiapa karena kelalaiannya melakukan pelanggaran terhadap ketentuan sebagaimana dimaksud dalam Pasal 21 ayat (1) dan ayat (2) serta Pasal 33 ayat (3) dipidana dengan pidana kurungan paling lama 1 (satu) tahun dan denda paling banyak Rp 50.000.000,00 (lima puluh juta rupiah).\n5. Tindak pidana sebagaimana dimaksud dalam ayat (1) dan ayat (2) adalah kejahatan dan tindak pidana sebagaimana dimaksud dalam ayat (3) dan ayat (4) adalah pelanggaran.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.10941708087921143,
+            "t": 0.31687796115875244,
+            "r": 0.8939858675003052,
+            "b": 0.7023752927780151
+          },
+          "page": 12
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "032c83b9-2ce8-4ab4-99e4-f437838cfda2"
+    },
+    {
+      "text": "BAB XIII\nKETENTUAN PERALIHAN",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.3885849416255951,
+            "t": 0.7161845564842224,
+            "r": 0.6106470227241516,
+            "b": 0.7592760920524597
+          },
+          "page": 12
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "10307546-cd0e-42c2-b54c-9209fe283199"
+    },
+    {
+      "text": "Pasal 41",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4587882459163666,
+            "t": 0.7747705578804016,
+            "r": 0.5407984852790833,
+            "b": 0.7950332760810852
+          },
+          "page": 12
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "eebc6e1c-52c6-4433-a747-0f90ba811d05"
+    },
+    {
+      "text": "Hutan suaka alam dan taman wisata yang telah ditunjuk dan ditetapkan berdasarkan peraturan perundang-undangan yang berlaku sebelum berlakunya Undang-undang ini dianggap telah ditetapkan sebagai kawasan suaka alam dan taman wisata alam berdasarkan Undang-undang ini.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11028933525085449,
+            "t": 0.7944874167442322,
+            "r": 0.8906072378158569,
+            "b": 0.8735824227333069
+          },
+          "page": 12
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "81a5b34c-f18d-4b61-a976-a16db4275102"
+    },
+    {
+      "text": "www.djpp.depkumham.go.id",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.023430660367012024,
+            "t": 0.017349518835544586,
+            "r": 0.19366051256656647,
+            "b": 0.040252551436424255
+          },
+          "page": 13
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "4e89f9d7-56d6-4b38-a720-5c9656783d3f"
+    },
+    {
+      "text": "Pasal 42\nSemua peraturan pelaksanaan dari peraturan perundang-undangan di bidang konservasi sumber daya alam hayati dan ekosistemnya yang telah ada sepanjang tidak bertentangan dengan Undang-undang ini, tetap berlaku sampai dengan dikeluarkannya peraturan pelaksanaan yang barti berdasarkan Undang-undang ini.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.10900458693504333,
+            "t": 0.1050950437784195,
+            "r": 0.892842173576355,
+            "b": 0.2086302489042282
+          },
+          "page": 13
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "7f04a1d2-5a6f-4271-99cd-76f5ecfb392c"
+    },
+    {
+      "text": "BAB XIV\nKETENTUAN PENUTUP",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.39383670687675476,
+            "t": 0.21950775384902954,
+            "r": 0.6061847805976868,
+            "b": 0.26451337337493896
+          },
+          "page": 13
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "ad08cffe-13b0-4fd6-83ae-6552f6aefcc9"
+    },
+    {
+      "text": "Pasal 43\nPada saat mulai berlakunya Undang-undang ini maka:\n1. Ordonansi Perburuan (Jachtordonnantie 1931 Staatsblad 1931 Nummer 133);\n2. Ordonansi Perlindungan Binatang-binatang Liar (Dierenbeschermingsordonnantie 1931 Staatsblad 1931 Nummer 134);\n3. Ordonansi Perburuan Jawa dan Madura (Jachtcrdonnantie Java en Madoera 1940 Staatsblad 1939 Nummer 733);\n4. Ordonansi Perlindungan Alam (Natuurbeschermingsordonnantie 1941 Staatsblad 1941 Nummer 167);\ndinyatakan tidak berlaku lagi.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.10618004202842712,
+            "t": 0.2753463387489319,
+            "r": 0.8946110010147095,
+            "b": 0.4744890332221985
+          },
+          "page": 13
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "dc7273b6-dc0d-4dfb-8202-24bf944468e2"
+    },
+    {
+      "text": "Pasal 44  \nUndang-undang ini dapat disebut Undang-undang Konservasi Hayati.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11021926999092102,
+            "t": 0.48507940769195557,
+            "r": 0.7233351469039917,
+            "b": 0.5345706939697266
+          },
+          "page": 13
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "69729c28-9aca-4235-848a-9e5f55a8bbd5"
+    },
+    {
+      "text": "Pasal 45  \nUndang-undang ini mulai berlaku pada tanggal diundangkan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1097145676612854,
+            "t": 0.5426298379898071,
+            "r": 0.65869140625,
+            "b": 0.5915013551712036
+          },
+          "page": 13
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "e6e40120-b093-4e8a-b5dc-e5d32d10a37a"
+    },
+    {
+      "text": "Agar    setiap    orang    mengetahuinya,    memerintahkan    pengundangan Undang-undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.10921892523765564,
+            "t": 0.5997846722602844,
+            "r": 0.8947062492370605,
+            "b": 0.6625058054924011
+          },
+          "page": 13
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "30d0924a-bff0-4a86-8367-8ad625662240"
+    },
+    {
+      "text": "Disahkan di Jakarta\npada tanggal 10 Agustus 1990\nPRESIDEN REPUBLIK INDONESIA",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4621434509754181,
+            "t": 0.6580392718315125,
+            "r": 0.7525926828384399,
+            "b": 0.7259592413902283
+          },
+          "page": 13
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "d4a272df-7d3d-4c67-a0a3-e07b32cb4eff"
+    },
+    {
+      "text": "SOEHARTO",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.46285802125930786,
+            "t": 0.7332006096839905,
+            "r": 0.5755161643028259,
+            "b": 0.7601285576820374
+          },
+          "page": 13
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "e1696d09-98c8-4f2e-ad3f-0f38cefa160a"
+    },
+    {
+      "text": "Diundangkan di Jakarta\npada tanggal 10 Agustus 1990\nMENTERI/SEKRETARIS NEGARA\nREPUBLIK INDONESIA",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.10958416759967804,
+            "t": 0.7719821929931641,
+            "r": 0.39219456911087036,
+            "b": 0.858596920967102
+          },
+          "page": 13
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "c2d3943f-80b7-41be-985c-d89c993297af"
+    },
+    {
+      "text": "MOERDIONO",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11126479506492615,
+            "t": 0.8669624924659729,
+            "r": 0.23216399550437927,
+            "b": 0.8938941359519958
+          },
+          "page": 13
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "c58bc6ec-8ee2-4ec7-9f57-d452e319a973"
+    },
+    {
+      "text": "www.djpp.depkumham.go.id",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.022712551057338715,
+            "t": 0.01941278576850891,
+            "r": 0.1940571665763855,
+            "b": 0.04260844737291336
+          },
+          "page": 14
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "e79daefd-8c06-49c3-96ba-4a791dc9c6ee"
+    },
+    {
+      "text": "PENJELASAN\nATAS\nUNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 5 TAHUN 1990\nTENTANG\nKONSERVASI SUMBER DAYA ALAM  HAYATI DAN EKOSISTEMNYA",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.22272825241088867,
+            "t": 0.10330463945865631,
+            "r": 0.7794952392578125,
+            "b": 0.22544072568416595
+          },
+          "page": 14
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "6949b3e2-9755-4ab0-981c-4938deade5cd"
+    },
+    {
+      "text": "UMUM\n    Bangsa Indonesia dianugerahi Tuhan Yang Maha Esa kekayaan berupa sumber daya alam yang berlimpah, baik di darat, di perairan maupun di udara yang merupakan modal dasar pembangunan nasional di segala bidang. Modal dasar sumber daya alam tersebut harus dilindungi, dipelihara, dilestarikan, dan dimanfaatkan secara optimal bagi kesejahteraan masyarakat Indonesia pada khususnya dan mutu kehidupan manusia pada umumnya menurut cara yang menjamin keserasian, keselarasan dan keseimbangan, baik antara manusia dengan Tuhan penciptanya, antara manusia dengan masyarakat maupun antara manusia dengan ekosistemnya. Oleh karena itu, pengelolaan sumber daya alam hayati dan ekosistemnya sebagai bagian dari modal dasar tersebut pada hakikatnya merupakan bagian integral dari pembangunan nasional yang berkelanjutan sebagai pengamalan Pancasila.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.10964000225067139,
+            "t": 0.23821821808815002,
+            "r": 0.8902908563613892,
+            "b": 0.4704686105251312
+          },
+          "page": 14
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "da0c2b84-4e1d-46ff-bb3d-5b84a9e1a979"
+    },
+    {
+      "text": "Sumber daya alam hayati dan ekosistemnya merupakan bagian terpenting dari sumber daya alam yang terdiri dari alam hewani, alam nabati ataupun berupa fenomena alam, baik secara masing-masing maupun bersama-sama mempunyai fungsi dan manfaat sebagai unsur pembentuk lingkungan hidup, yang kehadirannya tidak dapat diganti. Mengingat sifatnya yang tidak dapat diganti dan mempunyai kedudukan serta peranan penting bagi kehidupan manusia, maka upaya konservasi sumber daya alam hayati dan ekosistemnya adalah menjadi kewajiban mutlak dari tiap generasi. Tindakan yang tidak bertanggung jawab yang dapat menimbulkan kerusakan pada kawasan suaka alam dan kawasan pelestarian alam ataupun tindakan yang melanggar ketentuan tentang perlindungan tumbuhan dan satwa yang dilindungi, diancam dengan pidana yang berat berupa pidana badan dan denda. Pidana yang berat tersebut dipandang perlu karena kerusakan atau kepunahan salah satu unsur sumber daya alam hayati dan ekosistemnya akan mengakibatkan kerugian besar bagi masyarakat yang tidak dapat dinilai dengan materi, sedangkan pemulihannya kepada keadaan semula tidak mungkin lagi.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1101868748664856,
+            "t": 0.4712318181991577,
+            "r": 0.8911306262016296,
+            "b": 0.7564212083816528
+          },
+          "page": 14
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "0bedbb33-01c9-4634-925c-3519448ef108"
+    },
+    {
+      "text": "Oleh karena sifatnya yang luas dan menyangkut kepentingan masyarakat secara keseluruhan, maka upaya konservasi sumber daya alam hayati dan ekosistemnya merupakan tanggung jawab dan kewajiban Pemerintah serta masyarakat. Peranserta rakyat akan diarahkan dan digerakkan oleh Pemerintah melalui kegiatan yang berdaya guna dan berhasil guna. Untuk itu, Pemerintah berkewajiban meningkatkan pendidikan dan penyuluhan bagi masyarakat dalam rangka sadar konservasi.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11132743954658508,
+            "t": 0.7574594020843506,
+            "r": 0.8911948204040527,
+            "b": 0.8718101978302002
+          },
+          "page": 14
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "66e2b108-0722-43b5-b43a-7c75f6842388"
+    },
+    {
+      "text": "Berhasilnya konservasi sumber daya alam hayati dan ekosistemnya berkaitan",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.17091307044029236,
+            "t": 0.872442901134491,
+            "r": 0.8897526264190674,
+            "b": 0.8923463225364685
+          },
+          "page": 14
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "d412069f-64f2-4b84-8a72-ac7ad35b99c8"
+    },
+    {
+      "text": "www.djpp.depkumham.go.id",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.0235869362950325,
+            "t": 0.019254229962825775,
+            "r": 0.19283264875411987,
+            "b": 0.042095135897397995
+          },
+          "page": 15
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "4a6edee1-a5f7-4125-9599-33d5d291ce03"
+    },
+    {
+      "text": "1. menjamin terpeliharanya proses ekologis yang menunjang sistem penyangga kehidupan bagi kelangsungan pembangunan dan kesejahteraan manusia (perlindungan sistem penyangga kehidupan);\n2. menjamin terpeliharanya keanekaragaman sumber genetik dan tipe-tipe ekosistemnya sehingga mampu menunjang pembangunan, ilmu pengetahuan, dan teknologi yang memungkinkan pemenuhan kebutuhan manusia yang menggunakan sumber daya alam hayati bagi kesejahteraan (pengawetan sumber plasma nutfah);\n3. mengendalikan cara-cara pemanfaatan sumber daya alam hayati sehingga terjamin kelestariannya. Akibat sampingan ilmu pengetahuan dan teknologi yang kurang bijaksana, belum harmonisnya penggunaan dan peruntukan tanah serta belum berhasilnya sasaran konservasi secara optimal, baik di darat maupun di perairan dapat mengakibatkan timbulnya gejala erosi genetik, polusi, dan penurunan potensi sumber daya alam hayati (pemanfaatan secara lestari).",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.10919603705406189,
+            "t": 0.10652190446853638,
+            "r": 0.8936939239501953,
+            "b": 0.4142875075340271
+          },
+          "page": 15
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "2a8bd1e4-02c6-4bb9-b15b-2d49d580f7d5"
+    },
+    {
+      "text": "Mengingat Negara Republik Indonesia adalah negara berdasar atas hukum, maka pengelolaan konservasi sumber daya alam hayati beserta ekosistemnya perlu diberi dasar hukum yang jelas, tegas, dan menyeluruh guna menjamin kepastian hukum bagi usaha pengelolaan tersebut.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11020520329475403,
+            "t": 0.4134373664855957,
+            "r": 0.8907022476196289,
+            "b": 0.4893249273300171
+          },
+          "page": 15
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "9ed5dfeb-2821-48dd-91db-2a8f288936ce"
+    },
+    {
+      "text": "Dewasa ini kenyataan menunjukkan bahwa peraturan perundang-undangan yang mengatur konservasi sumber daya alam hayati dan ekosistemnya yang bersifat nasional belum ada. Peraturan perundang-undangan warisan pemerintah kolonial yang beraneka­ragam coraknya, sudah tidak sesuai lagi dengan tingkat perkembangan hukum dan kebutuhan bangsa Indonesia.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11151733994483948,
+            "t": 0.49000027775764465,
+            "r": 0.8896348476409912,
+            "b": 0.5853224992752075
+          },
+          "page": 15
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "759b328d-eef9-4d18-81ad-8fdb6345a45a"
+    },
+    {
+      "text": "Perubahan-perubahan yang menyangkut aspek-aspek pemerintahan, perkembangan kependudukan, ilmu pengetahuan, dan tuntutan keberhasilan pembangunan pada saat ini menghendaki peraturan perundang-undangan di bidang konservasi sumber daya alam hayati dan ekosistemnya yang bersifat nasional sesuai dengan aspirasi bangsa Indonesia.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1121106743812561,
+            "t": 0.5857186317443848,
+            "r": 0.8890528082847595,
+            "b": 0.6806436777114868
+          },
+          "page": 15
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "f342dc95-677a-4f6f-b6a3-a31e25311265"
+    },
+    {
+      "text": "Upaya pemanfaatan secara lestari sebagai salah satu aspek konservasi sumber daya alam hayati dan ekosistemnya, belum sepenuhnya dikembangkan sesuai dengan kebutuhan. Demikian pula pengelolaan kawasan pelestarian alam dalam bentuk taman nasional, taman hutan raya, dan taman wisata alam, yang menyatukan fungsi perlindungan sistem penyangga kehidupan, pengawetan keanekaragaman jenis tumbuhan dan satwa beserta ekosistemnya, dan pemanfaatan secara lestari.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1122998297214508,
+            "t": 0.6808353662490845,
+            "r": 0.8900324106216431,
+            "b": 0.7950072288513184
+          },
+          "page": 15
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "d1064cf0-72b0-47f7-84f0-07da5d12c628"
+    },
+    {
+      "text": "Peraturan perundang-undangan yang bersifat nasional yang ada kaitannya dengan konservasi sumber daya alam hayati dan ekosistemnya seperti Undang-undang Nomor 5 Tahun 1967 tentang ketentuan-ketentuan Pokok Kehutanan, Undang-undang Nomor 4 Tahun 1982 tentang Ketentuan-ketentuan Pokok Pengelolaan Lingkungan Hidup, Undang-undang Nomor 20 Tahun 1982 tentang Ketentuan-ketentuan Pokok",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11248239874839783,
+            "t": 0.7957136631011963,
+            "r": 0.8897261619567871,
+            "b": 0.8935037851333618
+          },
+          "page": 15
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "1374fcb8-a015-45fd-b807-acfde239b9ad"
+    },
+    {
+      "text": "www.djpp.depkumham.go.id",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.023341841995716095,
+            "t": 0.01882828399538994,
+            "r": 0.1933380663394928,
+            "b": 0.042351074516773224
+          },
+          "page": 16
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "168ff902-9f6a-4129-bf17-617344e4bce2"
+    },
+    {
+      "text": "Pertahanan Keamanan Negara Republik Indonesia sebagaimana telah diubah dengan Undang-undang Nomor 1 Tahun 1988, dan Undang-undang Nomor 9 Tahun 1985 tentang Perikanan belum mengatur secara lengkap dan belum sepenuhnya dapat dipakai sebagai dasar hukum untuk pengaturan lebih lanjut.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11138039827346802,
+            "t": 0.10617262125015259,
+            "r": 0.889449417591095,
+            "b": 0.18394893407821655
+          },
+          "page": 16
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "d7908b7d-4830-49a2-9bf2-daae09181670"
+    },
+    {
+      "text": "Undang-undang konservasi sumber daya alam hayati dan ekosistemnya yang bersifat nasional dan menyeluruh sangat diperlukan sebagai dasar hukum untuk mengatur perlindungan sistem penyangga kehidupan, pengawetan keanekaragaman jenis tumbuhan dan satwa beserta ekosistemnya, dan pemanfaatan secara lestari sumber daya alam hayati dan ekosistemnya agar dapat menjamin pemanfaatannya bagi kesejahteraan masyarakat dan peningkatan mutu kehidupan manusia.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11187314987182617,
+            "t": 0.18471591174602509,
+            "r": 0.8897233009338379,
+            "b": 0.29896098375320435
+          },
+          "page": 16
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "fbb97570-82d6-4ab1-8ac8-eade87a36ca2"
+    },
+    {
+      "text": "Undang-undang ini memuat ketentuan-ketentuan yang bersifat pokok dan mencakup semua segi di bidang konservasi sumber daya alam hayati dan ekosistemnya, sedangkan pelaksanaannya diatur dengan Peraturan Pemerintah.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11330369114875793,
+            "t": 0.2990761399269104,
+            "r": 0.8896013498306274,
+            "b": 0.35842710733413696
+          },
+          "page": 16
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "9f6b072e-c415-4358-8482-98f1f21f912e"
+    },
+    {
+      "text": "PASAL DEMI PASAL\n\nPasal 1\n    Angka 1\n        Cukup jelas\n    Angka 2\n        Cukup jelas\n    Angka 3\n        Cukup jelas\n    Angka 4\n        Cukup jelas\n    Angka 5\n        Cukup jelas\n    Angka 6\n        Cukup jelas\n    Angka 7\n        Ikan dan ternak tidak termasuk di dalam pengertian satwa liar, tetapi termasuk di dalam pengertian satwa.\n    Angka 8\n        Cukup jelas\n    Angka 9\n        Cukup jelas\n    Angka 10\n        Cukup jelas\n    Angka 11\n        Cukup jelas",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11206790804862976,
+            "t": 0.3729926347732544,
+            "r": 0.8847017288208008,
+            "b": 0.8766188621520996
+          },
+          "page": 16
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "d1f54786-e920-4436-8634-9a0d906834df"
+    },
+    {
+      "text": "www.djpp.depkumham.go.id",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.023225612938404083,
+            "t": 0.018313519656658173,
+            "r": 0.1953994631767273,
+            "b": 0.043839335441589355
+          },
+          "page": 17
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "49b4f366-cf7b-4666-a169-01d0c5652f15"
+    },
+    {
+      "text": "Angka 12\n        Cukup jelas\nAngka 13\n        Cukup jelas\nAngka 14\n        Cukup jelas\nAngka 15\n        Cukup jelas\nAngka 16\n        Cukup jelas",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.16627714037895203,
+            "t": 0.10360505431890488,
+            "r": 0.34969475865364075,
+            "b": 0.30390065908432007
+          },
+          "page": 17
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "dd0d58fc-74c6-4e5e-8836-e0dc1651e741"
+    },
+    {
+      "text": "Pasal 2\nPada dasarnya semua sumber daya alam termasuk sumber daya alam hayati harus dimanfaatkan untuk kesejahteraan masyarakat dan umat manusia sesuai dengan kemampuan dan fungsinya.\nNamun, pemanfaatannya harus sedemikian rupa sesuai dengan Undangundang ini sehingga dapat berlangsung secara lestari untuk masa kini dan masa depan.\nPemanfaatan dan pelestarian seperti tersebut di atas harus dilaksanakan secara serasi dan seimbang sebagai perwujudan dari asas konservasi sumber daya alam hayati dan ekosistemnya.\n\nPasal 3\nSumber daya alam hayati merupakan unsur ekosistem yang dapat dimanfaatkan untuk meningkatkan kesejahteraan masyarakat dan mutu kehidupan manusia.\nNamun, keseimbangan ekosistem harus tetap terjamin.\n\nPasal 4\nMengingat pentingnya konservasi sumber daya alam hayati dan ekosistemnya bagi peningkatan kesejahteraan masyarakat dan mutu kehidupan manusia, maka masyarakat juga mempunyai kewajiban dan tanggung jawab dalam kegiatan konservasi.\n\nPasal 5\nKonservasi sumber daya alam hayati dan ekosistemnya dilakukan melalui tiga kegiatan :\na. Perlindungan sistem penyangga kehidupan. Kehidupan adalah merupakan suatu sistem yang terdiri dari proses yang berkait satu dengan lainnya dan saling mempengaruhi, yang apabila terputus akan mempengaruhi kehidupan. Agar manusia tidak dihadapkan pada perubahan yang tidak diduga yang akan mempengaruhi kemampuan pemanfaatan sumber daya alam hayati, maka proses ekologis yang mengandung kehidupan itu perlu dijaga dan dilindungi.\nPerlindungan sistem penyangga kehidupan ini meliputi usaha-usaha dan tindakan-tindakan yang berkaitan dengan perlindungan mata air, tebing,",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.10793298482894897,
+            "t": 0.3135713040828705,
+            "r": 0.897258460521698,
+            "b": 0.8985224962234497
+          },
+          "page": 17
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "0de665ed-8917-4238-9d12-62d0652f42a2"
+    },
+    {
+      "text": "tepian sungai, danau, dan jurang, pemeliharaan fungsi hidrologi hutan, perlindungan pantai, pengelolaan daerah aliran sungai; perlindungan terhadap gejala keunikan dan keindahan alam, dan lain-lain.\nPengawetan keanekaragaman jenis tumbuhan dan satwa beserta ekosistemnya.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.20328626036643982,
+            "t": 0.10429525375366211,
+            "r": 0.8898482322692871,
+            "b": 0.20400533080101013
+          },
+          "page": 18
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "4170d5e2-5247-47cc-95c7-388a4d799b8c"
+    },
+    {
+      "text": "Sumber daya alam hayati dan ekosistemnya terdiri dari unsur-unsur hayati dan nonhayati (baik fisik maupun nonfisik).\nSemua unsur ini sangat berkait dan pengaruh mempengaruhi. Punahnya salah satu unsur tidak dapat diganti dengan unsur yang lain. Usaha dan",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2067001461982727,
+            "t": 0.2039111852645874,
+            "r": 0.8891192078590393,
+            "b": 0.2800293564796448
+          },
+          "page": 18
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "13862966-5973-4fa0-9cef-8abab6d49343"
+    },
+    {
+      "text": "tindakan konservasi untuk menjamin keanekaragaman jenis meliputi penjagaan agar unsur-unsur tersebut tidak punah dengan tujuan agar masing-masing unsur dapat berfungsi dalam alam dan agar senantiasa siap untuk sewaktu-waktu dimanfaatkan bagi kesejahteraan manusia.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.21574628353118896,
+            "t": 0.28141090273857117,
+            "r": 0.8887403011322021,
+            "b": 0.3562639057636261
+          },
+          "page": 18
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "1c86056e-70f2-4e10-ab30-03b277dc8592"
+    },
+    {
+      "text": "Pengawetan jenis tumbuhan dan satwa dapat dilaksanakan di dalam kawasan (konservasi in-situ) ataupun di luar kawasan (konservasi exsitu).\nc. Pemanfaatan secara lestari sumber daya alam hayati dan ekosistemnya.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.17359912395477295,
+            "t": 0.3566034436225891,
+            "r": 0.8870337009429932,
+            "b": 0.415416419506073
+          },
+          "page": 18
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "21252e53-50f8-48c2-b205-6161e7bdc7fc"
+    },
+    {
+      "text": "Usaha pemanfaatan secara lestari sumber daya alam hayati dan ekosistemnya pada hakikatnya merupakan usaha pengendalian/pembatasan dalam pemanfaatan sumber daya alam hayati dan ekosistemnya sehingga pemanfaatan tersebut dapat dilaksanakan secara terus menerus pada masa mendatang.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.21284538507461548,
+            "t": 0.41390833258628845,
+            "r": 0.888199508190155,
+            "b": 0.5096853971481323
+          },
+          "page": 18
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "16906656-69cd-4c55-b545-eeec0564ec66"
+    },
+    {
+      "text": "Pasal 6  \nUnsur hayati adalah makhluk hidup yang terdiri dari manusia, tumbuhan, satwa, dan jasad renik. Unsur nonhayati terdiri dari sinar matahari, air, udara, dan tanah. Hubungan antara unsur hayati dan nonhayati harus berlangsung dalam keadaan seimbang sebagai suatu sistem penyangga kehidupan dan karena itu perlu dilindungi.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11397156119346619,
+            "t": 0.5089658498764038,
+            "r": 0.8871368169784546,
+            "b": 0.6252584457397461
+          },
+          "page": 18
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "cadfa1b6-764b-439c-9986-887b1b7ee66a"
+    },
+    {
+      "text": "Pasal 7\n        Cukup jelas\nPasal 8",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1131666749715805,
+            "t": 0.6406848430633545,
+            "r": 0.2828579545021057,
+            "b": 0.6996369361877441
+          },
+          "page": 18
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "af3355fd-1662-4da4-bf0b-9cda88190eae"
+    },
+    {
+      "text": "Ayat (1)\nPerlindungan sistem penyangga kehidupan dilaksanakan dengan cara menetapkan suatu wilayah tertentu sebagai wilayah perlindungan. Guna pengaturannya Pemerintah menetapkan pola dasar pembinaan pemanfaatan wilayah tersebut sehingga fungsi perlindungan dan pelestariannya tetap terjamin.\nWilayah perlindungan sistem penyangga kehidupan ini meliputi antara lain hutan lindung, daerah aliran sungai, areal tepi sungai, daerah pantai, bagian tertentu dari zona ekonomi eksklusif Indonesia, daerah pasang surut, jurang, dan areal berpolusi berat. Pemanfaatan areal atau wilayah",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.17058706283569336,
+            "t": 0.7018953561782837,
+            "r": 0.8906582593917847,
+            "b": 0.8923612833023071
+          },
+          "page": 18
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "f7830f2c-9a62-4389-b968-1a0ce31acc40"
+    },
+    {
+      "text": "www.djpp.depkumham.go.id",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.022782593965530396,
+            "t": 0.018389668315649033,
+            "r": 0.19639049470424652,
+            "b": 0.04422946646809578
+          },
+          "page": 19
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "448889c0-e5a4-4152-a08a-4dea5b2ab93b"
+    },
+    {
+      "text": "tersebut tetap pada subyek yang diberi hak, tetapi pemanfaatan itu harus mematuhi ketentuan yang ditetapkan Pemerintah.\nDalam menetapkan wilayah tertentu sebagai wilayah sistem penyangga kehidupan, perlu diadakan penelitian dan inventarisasi, baik terhadap wilayah yang sudah ditetapkan maupun yang akan ditetapkan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.22614461183547974,
+            "t": 0.10504905879497528,
+            "r": 0.8925356268882751,
+            "b": 0.2041749209165573
+          },
+          "page": 19
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "bf1f2c38-e295-46c9-be17-5705cc9f4b94"
+    },
+    {
+      "text": "Ayat (2)\n    Dalam Peraturan Pemerintah ini perlu diperhatikan kepentingan yang serasi antara kepentingan pemegang hak dengan kepentingan perlindungan sistem penyangga kehidupan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.17116183042526245,
+            "t": 0.20249037444591522,
+            "r": 0.8895576596260071,
+            "b": 0.2819286286830902
+          },
+          "page": 19
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "6245319d-0e8e-4d68-bcab-f88e15174cb2"
+    },
+    {
+      "text": "Pasal 9  \nAyat (1)  \n      Yang dimaksud dengan hak pengusahaan di perairan adalah hak yang diberikan oleh Pemerintah untuk memanfaatkan sumber daya alam yang ada di perairan, baik yang bersifat ekstratif maupun nonekstratif, bukan hak penguasaan atas wilayah perairan tersebut. Yang dimaksud dengan perairan adalah perairan Indonesia yang meliputi perairan pedalaman (sungai, danau, waduk, rawa, dan genangan air lainnya), laut wilayah Indonesia, dan zona ekonomi eksklusif Indonesia.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11216819286346436,
+            "t": 0.27878767251968384,
+            "r": 0.8905425071716309,
+            "b": 0.45356154441833496
+          },
+          "page": 19
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "dce268a1-86b1-496d-be8d-c63d62412ce0"
+    },
+    {
+      "text": "Ayat (2)        Cukup jelas\nAyat (3)",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.16895252466201782,
+            "t": 0.45127880573272705,
+            "r": 0.3448910117149353,
+            "b": 0.5089142918586731
+          },
+          "page": 19
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "de126611-3c13-4fa9-8961-5041d938bfa8"
+    },
+    {
+      "text": "Termasuk dalam pengertian penertiban terhadap penggunaan dan pengelolaan tanah dan hak pengusahaan di perairan meliputi pencabutan hak atas tanah dan hak pengusahaan di perairan yang pelaksanaannya sesuai dengan peraturan perundang-undangan yang berlaku. Dalam hal penertiban tersebut berupa pencabutan hak atas tanah, maka kepada pemegang hak diberikan ganti rugi sesuai dengan peraturan perundang-undangan yang berlaku.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2286509871482849,
+            "t": 0.5096313953399658,
+            "r": 0.8903979659080505,
+            "b": 0.645583987236023
+          },
+          "page": 19
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "a378876e-f6a0-4602-a3a5-f335a26a671d"
+    },
+    {
+      "text": "Pasal 10  \nWilayah sistem penyangga kehidupan yang mengalami kerusakan karena bencana alam seperti longsor, erosi, kebakaran, dan gempa bumi, atau karena pemanfaatannya yang tidak tepat serta oleh sebab-sebab lainnya perlu segera direhabilitasi agar dapat berfungsi sebagaimana mestinya. Rehabilitasi ini perlu mengikutsertakan masyarakat, khususnya mereka yang berhak di atas wilayah tersebut.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11394408345222473,
+            "t": 0.6428004503250122,
+            "r": 0.8889157772064209,
+            "b": 0.7746297121047974
+          },
+          "page": 19
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "2ffe233c-409c-4192-a39e-375518d15662"
+    },
+    {
+      "text": "Pasal 11\nYang dimaksud dengan pengawetan disini adalah usaha untuk menjaga agar keanekaragaman jenis tumbuhan dan satwa beserta ekosistemnya tidak punah. Pengawetan diluar kawasan meliputi pengaturan mengenai pembatasan tindakan-tindakan yang dapat dilakukan terhadap tumbuhan dan satwa sebagaimana diatur dalam Pasal 20 sampai dengan Pasal 25 Undang-undang ini.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11378863453865051,
+            "t": 0.7757214307785034,
+            "r": 0.8893758058547974,
+            "b": 0.8938127756118774
+          },
+          "page": 19
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "75bec2ce-c178-49eb-ab46-3d5d9b3be180"
+    },
+    {
+      "text": "www.djpp.depkumham.go.id",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.02293788641691208,
+            "t": 0.018065642565488815,
+            "r": 0.19707143306732178,
+            "b": 0.04506790265440941
+          },
+          "page": 20
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "1fd0679f-a551-4eeb-b50e-2585fadbd4ff"
+    },
+    {
+      "text": "Pengaturan diluar kawasan berupa pengawetan jenis (spesies) tumbuhan dan satwa. Pengawetan di dalam kawasan dilakukan dalam bentuk kawasan suaka alam dan zona inti taman nasional.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.16810142993927002,
+            "t": 0.10519599914550781,
+            "r": 0.8909165859222412,
+            "b": 0.16548678278923035
+          },
+          "page": 20
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "fb091f46-ee13-4c18-a58e-744146806e81"
+    },
+    {
+      "text": "Pasal 12\nUpaya pengawetan keanekaragaman tumbuhan dan satwa berupa kawasan suaka alam yang karena fungsi pokoknya adalah pengawetan keanekaragaman tumbuhan dan satwa beserta ekosistemnya, maka keutuhan dan keaslian dari kawasan suaka alam tersebut perlu dijaga dari gangguan agar prosesnya berjalan secara alami.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11259594559669495,
+            "t": 0.16498476266860962,
+            "r": 0.8906018733978271,
+            "b": 0.2802286446094513
+          },
+          "page": 20
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "a604f905-de0b-4364-8c23-9cdfbd89d1da"
+    },
+    {
+      "text": "Pasal 13\n    Ayat (1)      Cukup jelas\n    Ayat (2)      Cukup jelas\n    Ayat (3)      Cukup jelas",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1131163090467453,
+            "t": 0.27992483973503113,
+            "r": 0.35448819398880005,
+            "b": 0.4146976172924042
+          },
+          "page": 20
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "8329b79f-c1ba-4328-b6fd-e4e5e9959d33"
+    },
+    {
+      "text": "Pasal 14\n        Cukup jelas\nPasal 15\n        Cukup jelas\nPasal 16",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11065442860126495,
+            "t": 0.41230055689811707,
+            "r": 0.28996509313583374,
+            "b": 0.5098257064819336
+          },
+          "page": 20
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "09007d8e-f28e-4a52-9a74-d6804ab42744"
+    },
+    {
+      "text": "Ayat (1)\nPengelolaan kawasan suaka alam merupakan kewajiban Pemerintah sebagai konsekuensi penguasaan oleh negara atas sumber daya alam sebagaimana dimaksud dalam Pasal 33 Undang-Undang Dasar 1945.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.16877776384353638,
+            "t": 0.5103062391281128,
+            "r": 0.8897235989570618,
+            "b": 0.5866724252700806
+          },
+          "page": 20
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "58406d9c-f1e6-4e16-9a20-5e32514677cf"
+    },
+    {
+      "text": "Ayat (2)\n    Yang dimaksud dengan daerah penyangga adalah wilayah yang berada di luar kawasan suaka alam, baik sebagai kawasan hutan lain, tanah negara bebas maupun tanah yang dibebani hak yang diperlukan dan mampu menjaga keutuhan kawasan suaka alam. Pengelolaan atas daerah penyangga tetap berada di tangan yang berhak, sedangkan cara-cara pengelolaan harus mengikuti ketentuan- ketentuan yang ditetapkan dalam Peraturan Pemerintah.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1702343225479126,
+            "t": 0.585249662399292,
+            "r": 0.8918067216873169,
+            "b": 0.73870849609375
+          },
+          "page": 20
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "d225c45a-ad23-43d2-9f54-6bf0488e891f"
+    },
+    {
+      "text": "Pasal 17\n    Ayat (1)\n        Fungsi penunjang budidaya dapat dilaksanakan dalam bentuk penggunaan plasma nutfah yang terdapat dalam cagar alam yang bersangkutan untuk keperluan permuliaan jenis dan penangkaran. Plasma nutfah adalah unsur-unsur gen yang menentukan sifat kebakaan suatu jenis.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11202391982078552,
+            "t": 0.7376021146774292,
+            "r": 0.8901169300079346,
+            "b": 0.856215238571167
+          },
+          "page": 20
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "11af1559-7324-4650-a0e3-d764f9f3bff3"
+    },
+    {
+      "text": "www.djpp.depkumham.go.id",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.023858346045017242,
+            "t": 0.02095702290534973,
+            "r": 0.1907220482826233,
+            "b": 0.038713302463293076
+          },
+          "page": 21
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "ba5165dc-6e16-49e4-b572-520ae7b3434b"
+    },
+    {
+      "text": "Ayat (2)\n    Yang dimaksud dengan wisata terbatas adalah suatu kegiatan untuk mengunjungi, melihat, dan menikmati keindahan alam di suaka margasatwa dengan persyaratan tertentu.\nAyat (3)\n    Cukup jelas",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1672811210155487,
+            "t": 0.10332902520895004,
+            "r": 0.890902042388916,
+            "b": 0.22427859902381897
+          },
+          "page": 21
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "f82d6c16-d28e-4414-84d8-f60312d30fed"
+    },
+    {
+      "text": "Pasal 18\n    Ayat (1)\n        Adanya cagar biosfer dimaksudkan sebagai tempat penelitian, ilmu pengetahuan, dan pendidikan, serta mengamati dan mengevaluasi perubahan-perubahan yang terjadi pada kawasan yang bersangkutan. Dengan ditentukannya suatu kawasan suaka alam dan kawasan tertentu lainnya sebagai cagar biosfer, maka kawasan yang bersangkutan menjadi bagian dari pada jaringan konservasi internasional. Namun, kewenangan penentuan kegiatan penelitian, ilmu pengetahuan dan pendidikan, serta mengamati dan mengevaluasi perubahan- perubahan di dalam cagar biosfer sepenuhnya berada di tangan Pemerintah.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11395061016082764,
+            "t": 0.23955842852592468,
+            "r": 0.8876670598983765,
+            "b": 0.4524693787097931
+          },
+          "page": 21
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "29da4c03-c4d3-4bd7-a0a3-f1e4a5efa335"
+    },
+    {
+      "text": "Ayat (2)\n        Cukup jelas\nPasal 19\n    Ayat (1)\n        Yang dimaksud dengan perubahan terhadap keutuhan suaka alam adalah melakukan perusakan terhadap keutuhan kawasan dan ekosistemnya, perburuan satwa yang berada dalam kawasan, dan memasukkan jenis-jenis bukan asli.\n    Ayat (2)\n        Yang dimaksud dengan pembinaan habitat satwa adalah kegiatan yang dilakukan di dalam kawasan dengan tujuan agar satwa dapat hidup dan berkembang secara alami. Contoh kegiatan tersebut antara lain pembuatan padang rumput untuk makanan satwa, pembuatan fasilitas air minum, dan sebagainya.\n    Ayat (3)\n        Yang dimaksud dengan jenis tumbuhan dan satwa yang tidak asli adalah jenis tumbuhan dan jenis satwa yang tidak pernah terdapat di dalam kawasan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11457774043083191,
+            "t": 0.4524856209754944,
+            "r": 0.8852777481079102,
+            "b": 0.7901963591575623
+          },
+          "page": 21
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "636d390f-23df-4e08-8b1b-1028fab55a42"
+    },
+    {
+      "text": "Pasal 20\n    Ayat (1)\n        Dalam rangka mengawetkan jenis, maka ditetapkan jenis-jenis tumbuhan satwa yang dilindungi.\n        Jenis tumbuhan dan satwa yang dilindungi dimaksudkan untuk melindungi",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1144576370716095,
+            "t": 0.7946562767028809,
+            "r": 0.88529372215271,
+            "b": 0.892939567565918
+          },
+          "page": 21
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "7dc9b45f-e22b-4b4b-a75f-6c438ecc9f7a"
+    },
+    {
+      "text": "www.djpp.depkumham.go.id",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.0227818563580513,
+            "t": 0.018400371074676514,
+            "r": 0.19609814882278442,
+            "b": 0.044573478400707245
+          },
+          "page": 22
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "bb09837b-3da4-4008-881e-1c689e55e084"
+    },
+    {
+      "text": "spesies tumbuhan dan satwa agar jenis tumbuhan dan satwa tersebut tidak mengalami kepunahan.\nPenetapan ini dapat diubah sewaktu-waktu tergantung dari tingkat keperluannya yang ditentukan oleh tingkat bahaya kepunahan yang mengancam jenis bersangkutan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2273045778274536,
+            "t": 0.10573308169841766,
+            "r": 0.8921581506729126,
+            "b": 0.20306675136089325
+          },
+          "page": 22
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "a865eddc-d461-4d46-89c7-a07cb62b7cd2"
+    },
+    {
+      "text": "Ayat (2)\nJenis tumbuhan dan satwa dalam bahaya kepunahan meliputi jenis tumbuhan dan satwa yang dalam keadaan bahaya nyaris punah dan menuju kepunahan. Tumbuhan dan satwa yang endemik adalah tumbuhan dan satwa yang terbatas penyebarannya, sedangkan jenis yang terancam punah adalah karena populasinya sudah sangat kecil serta mempunyai tingkat perkembangbiakan yang sangat lambat, baik karena pengaruh habitat maupun ekosistemnya. Jenis tumbuhan dan satwa yang populasinya jarang dalam arti populasinya kecil atau jarang sehingga pembiakannya sangat sulit.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.17117735743522644,
+            "t": 0.20307226479053497,
+            "r": 0.8901394605636597,
+            "b": 0.39542365074157715
+          },
+          "page": 22
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "5ba9aecd-d7f7-491b-83b5-28093249650b"
+    },
+    {
+      "text": "Pasal 21\nAyat (1)      Cukup jelas\nAyat (2)      Cukup jelas\nAyat (3)      Cukup jelas",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11367735266685486,
+            "t": 0.39280378818511963,
+            "r": 0.348825067281723,
+            "b": 0.5300412774085999
+          },
+          "page": 22
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "ba7453b0-bac6-4d51-816f-5e5e729b6ec8"
+    },
+    {
+      "text": "Pasal 22\nAyat (1)\nYang dimaksud dengan penyelamatan jenis tumbuhan dan satwa adalah suatu upaya penyelamatan yang harus dilakukan apabila dalam keadaan tertentu tumbuhan dan satwa terancam hidupnya bila tetap berada dihabitatnya dalam bentuk pengembangbiakan dan pengobatan, baik di dalam maupun di luar negeri.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11315587162971497,
+            "t": 0.5282323956489563,
+            "r": 0.889450192451477,
+            "b": 0.6612879633903503
+          },
+          "page": 22
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "49b6329a-5f4c-46ca-8033-5d6001ebada8"
+    },
+    {
+      "text": "Ayat (2)\nYang dimaksud dengan pemberian atau penukaran jenis tumbuhan dan satwa kepada pihak lain di luar negeri adalah untuk keperluan tukar menukar antar lembaga-lembaga yang bergerak di bidang konservasi tumbuhan dan satwa dan hadiah Pemerintah.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1707276999950409,
+            "t": 0.6615145206451416,
+            "r": 0.8898336887359619,
+            "b": 0.7572202682495117
+          },
+          "page": 22
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "bf37d1cf-7922-4732-b5ee-7d031013b526"
+    },
+    {
+      "text": "Ayat (3)\nMembahayakan di sini berarti tidak hanya mengancam jiwa manusia melainkan juga menimbulkan gangguan atau keresahan terhadap ketenteraman hidup manusia, atau kerugian materi seperti rusaknya lahan atau tanaman atau hasil pertanian.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.17136988043785095,
+            "t": 0.7574289441108704,
+            "r": 0.8899253606796265,
+            "b": 0.8556445240974426
+          },
+          "page": 22
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "a939ecf2-855c-4907-a8db-4bd9b9d2c53c"
+    },
+    {
+      "text": "Ayat (4)\n    Dalam Peraturan Pemerintah tersebut antara lain diatur cara-cara mengatasi bahaya, cara melakukan penangkapan hidup-hidup, penggiringan dan pemindahan satwa yang bersangkutan, sedangkan pemusnahan hanya dilaksanakan kalau cara lain ternyata tidak memberi hasil efektif.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.16848233342170715,
+            "t": 0.10416267812252045,
+            "r": 0.8906451463699341,
+            "b": 0.22162626683712006
+          },
+          "page": 23
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "b1a6b8f4-4b77-44e8-9371-4dbabf7b3741"
+    },
+    {
+      "text": "Pasal 23\nAyat (1)\n    Yang dimaksud dengan apabila diperlukan adalah untuk koleksi tumbuhan dan satwa untuk kebun binatang, taman safari, dan untuk permuliaan jenis tumbuhan dan satwa. Pemasukan jenis tumbuhan dan satwa liar ke dalam wilayah Republik Indonesia perlu diatur untuk mencegah terjadinya polusi genetik dan menjaga kemantapan ekosistem yang ada, guna pemanfaatan optimal bagi bangsa Indonesia.\nAyat (2)\n    Cukup jelas",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11105599999427795,
+            "t": 0.22116096317768097,
+            "r": 0.8903721570968628,
+            "b": 0.40749114751815796
+          },
+          "page": 23
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "384d4a8f-2d6b-4e99-8bf1-29348f246a78"
+    },
+    {
+      "text": "Pasal 24  \nAyat (1)  \nYang dimaksud dengan dirampas untuk negara adalah bahwa di samping dirampas sesuai dengan ketentuan sebagaimana dimaksud dalam Undang-undang Nomor 8 Tahun 1981 tentang Hukum Acara Pidana, juga memberikan kewenangan kepada pejabat yang ditetapkan oleh Pemerintah untuk menguasai dan menyelamatkan tumbuhan dan satwa sebelum proses pengadilan dilaksanakan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11180010437965393,
+            "t": 0.4121689796447754,
+            "r": 0.8903354406356812,
+            "b": 0.5663935542106628
+          },
+          "page": 23
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "04314908-1f14-4d4f-9cdf-0a519b659bc4"
+    },
+    {
+      "text": "Ayat (2)\n    Tumbuhan dan satwa yang dilindungi harus dipertahankan agar tetap berada di habitatnya. Oleh karena itu, tumbuhan dan satwa yang dirampas harus dikembalikan ke habitatnya. Kalau tidak mungkin dikembalikan ke habitatnya karena dinilai tidak dapat beradaptasi dengan habitatnya dan/atau untuk dijadikan barang bukti di pengadilan, maka tumbuhan dan satwa tersebut diserahkan atau dititipkan kepada lembaga yang bergerak di bidang konservasi tumbuhan dan satwa.\n    Apabila keadaan sudah tidak memungkinkan karena rusak, cacat, dan tidak memungkinkan hidup, lebih baik dimusnahkan. Lembaga yang dimaksud dalam ayat ini dapat berupa lembaga pemerintah dan lembaga non pemerintah, misalnya kebun binatang, kebun botani, museum biologic herbarium, taman safari dan sebagainya yang ditunjuk dan ditetapkan oleh Pemerintah.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.17093563079833984,
+            "t": 0.5667674541473389,
+            "r": 0.8900179862976074,
+            "b": 0.8336787223815918
+          },
+          "page": 23
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "8b4896bc-5e5b-47e7-a3ea-516e261dfcf3"
+    },
+    {
+      "text": "Pasal 25\n    Ayat (1)\n        Lihat penjelasan Pasal 24 ayat (2)",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11236250400543213,
+            "t": 0.8329324722290039,
+            "r": 0.537692129611969,
+            "b": 0.8970005512237549
+          },
+          "page": 23
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "76f92339-3cb9-49d1-9cb7-6606db8e12d4"
+    },
+    {
+      "text": "www.djpp.depkumham.go.id",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.025019049644470215,
+            "t": 0.021279850974678993,
+            "r": 0.19049593806266785,
+            "b": 0.038128435611724854
+          },
+          "page": 24
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "e7d6f89e-bfb8-4a05-a585-1eeb859e1980"
+    },
+    {
+      "text": "Ayat (2)\n    Cukup jelas\nPasal 26\n    Yang dimaksud dengan kondisi lingkungan adalah potensi kawasan berupa ekosistem, keadaan iklim, fenomena alam, kekhasan jenis tumbuhan dan satwa, dan peninggalan budaya yang berada dalam kawasan tersebut.\nPasal 27\n    Cukup jelas\nPasal 28\n    Cukup jelas\nPasal 29\n    Ayat (1)\n        Wilayah taman nasional, taman hutan raya, dan taman wisata alam meliputi areal daratan dan perairan.\n    Ayat (2)\n        Lihat penjelasan Pasal 16 ayat (2)\nPasal 30\n    Cukup jelas\nPasal 31\n    Ayat (1)\n        Cukup jelas\n    Ayat (2)\n        Cukup jelas",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.10914254188537598,
+            "t": 0.10223388671875,
+            "r": 0.8954664468765259,
+            "b": 0.5390575528144836
+          },
+          "page": 24
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "83c0b029-80a3-4ac5-952e-a2a28bd4a011"
+    },
+    {
+      "text": "Pasal 32\nYang dimaksud dengan zona inti adalah bagian kawasan taman nasional yang mutlak dilindungi dan tidak diperbolehkan adanya perubahan apa pun oleh aktivitas manusia.\nYang dimaksud dengan zona pemanfaatan adalah bagian dari kawasan taman nasional yang dijadikan pusat rekreasi dan kunjungan wisata. Yang dimaksud dengan zona lain adalah zona di luar kedua zona tersebut karena fungsi dan kondisinya ditetapkan sebagai zona tertentu seperti zona rimba, zona pemanfaatan traditional zona rehabilitasi, dan sebagainya.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11415442824363708,
+            "t": 0.5459949970245361,
+            "r": 0.8898580074310303,
+            "b": 0.7183514833450317
+          },
+          "page": 24
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "72a6c206-71e3-4499-8438-31af496bca6b"
+    },
+    {
+      "text": "Pasal 33\n    Ayat (1)        Lihat penjelasan Pasal 19 ayat (1)\n    Ayat (2)        Cukup jelas\n    Ayat (3)        Cukup jelas",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11455392837524414,
+            "t": 0.7177234888076782,
+            "r": 0.5406047701835632,
+            "b": 0.8558244705200195
+          },
+          "page": 24
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "bb0f0834-7dae-4547-b383-fa1b6d51c896"
+    },
+    {
+      "text": "www.djpp.depkumham.go.id",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.02430173009634018,
+            "t": 0.021212583407759666,
+            "r": 0.19093692302703857,
+            "b": 0.038125865161418915
+          },
+          "page": 25
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "3df3a5ae-9840-439b-85f1-dba57e9d624d"
+    },
+    {
+      "text": "Pasal 34\nAyat (1)\n    Pada dasarnya pengelolaan kawasan pelestarian alam merupakan kewajiban dari Pemerintah sebagai konsekuensi penguasaan oleh negara atas sumber daya alam sebagaimana dimaksud dalam Pasal 33 Undang-Undang Dasar 1945.\n    Dalam pelaksanaan kegiatan pengelolaan atas zona pemanfaatan taman nasional, taman hutan raya, dan taman wisata alam, Pemerintah dapat memberikan hak pengusahaan kepada koperasi, badan usaha milik negara, perusahaan swasta dan perorangan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11046460270881653,
+            "t": 0.09997115284204483,
+            "r": 0.8913736343383789,
+            "b": 0.30082088708877563
+          },
+          "page": 25
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "efa155a4-fc41-4f74-949f-ed4e32dc1323"
+    },
+    {
+      "text": "Ayat (2)\nCukup jelas",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1707240343093872,
+            "t": 0.2979918420314789,
+            "r": 0.34526771306991577,
+            "b": 0.3374374806880951
+          },
+          "page": 25
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "95f8dfc5-fb09-4587-a89a-5b5bdd4a9178"
+    },
+    {
+      "text": "Ayat (3)\nPengertian mengikutsertakan rakyat di sini adalah memberi kesempatan kepada rakyat sekitarnya untuk ikut berperan dalam usaha di kawasan tersebut.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.16951677203178406,
+            "t": 0.33583807945251465,
+            "r": 0.8898500204086304,
+            "b": 0.41264569759368896
+          },
+          "page": 25
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "976a6bba-fe41-40c4-8076-f26146a0fb24"
+    },
+    {
+      "text": "Ayat (4)\n        Cukup jelas",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1719471514225006,
+            "t": 0.4123918116092682,
+            "r": 0.3441961109638214,
+            "b": 0.45245906710624695
+          },
+          "page": 25
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "58c84b16-4f6d-4bf4-9859-ae8401f636cf"
+    },
+    {
+      "text": "Pasal 35\nYang dimaksud dengan dalam keadaan tertentu dan sangat diperlukan adalah keadaan dan situasi yang terjadi di kawasan pelestarian alam karena bencana alam (gunung meletus, keluar gas beracun, bahaya kebakaran), dan kerusakan akibat pemanfaatan terus menerus yang dapat membahayakan pengunjung atau kehidupan tumbuhan dan satwa.\n\nPasal 36\nAyat (1)\n    Dalam pemanfaatan jenis tumbuhan dan satwa liar harus dilakukan dengan tetap menjaga keseimbangan populasi dengan habitatnya.\nAyat (2)\n    Cukup jelas",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.10943904519081116,
+            "t": 0.44949236512184143,
+            "r": 0.8914260864257812,
+            "b": 0.6833471059799194
+          },
+          "page": 25
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "132a24c2-0973-4b49-bde8-74efdf553e69"
+    },
+    {
+      "text": "Pasal 37\n    Ayat (1)\n        Peranserta rakyat dapat berupa perorangan dan kelompok masyarakat baik yang terorganisasi maupun tidak. Agar rakyat dapat berperan secara aktif dalam kegiatan konservasi sumber daya alam hayati dan ekosistemnya, maka melalui kegiatan penyuluhan, Pemerintah perlu mengarahkan dan menggerakkan rakyat dengan mengikutsertakan kelompok-kelompok masyarakat.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11158409714698792,
+            "t": 0.6969058513641357,
+            "r": 0.8892669677734375,
+            "b": 0.8558380603790283
+          },
+          "page": 25
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "75f571b5-efac-4268-b28f-fd538aa6a270"
+    },
+    {
+      "text": "www.djpp.depkumham.go.id",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.022969670593738556,
+            "t": 0.017829522490501404,
+            "r": 0.19775569438934326,
+            "b": 0.04492875933647156
+          },
+          "page": 26
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "aab0c737-bd21-4bae-82ac-98e2987a30aa"
+    },
+    {
+      "text": "Ayat (2)\n    Dalam upaya menumbuhkan dan meningkatkan sadar konservasi di kalangan rakyat, maka perlu ditanamkan pengertian dan motivasi tentang konservasi sejak dini melalui jalur pendidikan sekolah dan luar sekolah.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.16902336478233337,
+            "t": 0.10418964922428131,
+            "r": 0.8925833702087402,
+            "b": 0.20327754318714142
+          },
+          "page": 26
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "39791403-9a1e-4ce8-b918-fc1a4089d7a3"
+    },
+    {
+      "text": "Ayat (3)\nCukup jelas\n\nPasal 38\nAyat (1)\n    Selain Pemerintah Pusat dapat menyerahkan sebagian urusan di bidang konservasi sumber daya alam hayati dan ekosistemnya kepada Pemerintah Daerah, juga Pemerintah Pusat dapat menugaskan kepada Pemerintah Daerah Tingkat I untuk melaksanakan urusan tersebut sebagai tugas pembantuan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11174201965332031,
+            "t": 0.20196735858917236,
+            "r": 0.890650749206543,
+            "b": 0.387239933013916
+          },
+          "page": 26
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "f0e7c0ff-1a28-40af-a6ec-3aa30b4bcb98"
+    },
+    {
+      "text": "Ayat (2)\n        Cukup jelas\nPasal 39\n    Ayat (1)\n        Cukup jelas\n    Ayat (2)\n        Cukup jelas\n    Ayat (3)\n        Cukup jelas\n    Ayat (4)\n        Cukup jelas\nPasal 40\n    Ayat (1)\n        Cukup jelas\n    Ayat (2)\n        Cukup jelas\n    Ayat (3)\n        Cukup jelas\n    Ayat (4)\n        Cukup jelas\n    Ayat (5)\n        Cukup jelas",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.10869156569242477,
+            "t": 0.37673020362854004,
+            "r": 0.35344189405441284,
+            "b": 0.7968869209289551
+          },
+          "page": 26
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "232d6ae3-d7a0-463b-8627-9056b1623911"
+    },
+    {
+      "text": "Pasal 41\nBerdasarkan Ordonansi Perlindungan Alam Tahun 1941 Stbl. 1941 Nomor 167 (Natuurbeschermingsordonnantie 1941 Staatsblad 1941 Nummer 167) dan Undang-undang Nomor 5 Tahun 1967 tentang Ketentuan- ketentuan Pokok Kehutanan telah ditetapkan hutan suaka alam dan taman wisata.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1111050546169281,
+            "t": 0.794266402721405,
+            "r": 0.893896222114563,
+            "b": 0.8962134718894958
+          },
+          "page": 26
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "e3be90f1-c019-4176-9f87-fce065b24ae1"
+    },
+    {
+      "text": "www.djpp.depkumham.go.id",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.022554688155651093,
+            "t": 0.018505703657865524,
+            "r": 0.19482070207595825,
+            "b": 0.04270101338624954
+          },
+          "page": 27
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "61aaf56e-3958-4d4e-b267-022334178ccd"
+    },
+    {
+      "text": "Dengan ditetapkannya Undang-undang ini, maka hutan suaka alam dan taman wisata dianggap telah ditetapkan sebagai kawasan suaka alam dan taman wisata alam.\nPasal 42\n  Cukup jelas\nPasal 43\n  Cukup jelas\nPasal 44\n  Cukup jelas\nPasal 45\n  Cukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.10815894603729248,
+            "t": 0.10303854942321777,
+            "r": 0.8924181461334229,
+            "b": 0.32170695066452026
+          },
+          "page": 27
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "f9c9b618-7fc5-4de4-b31e-d3fabbf808ca"
+    }
+  ]
+}

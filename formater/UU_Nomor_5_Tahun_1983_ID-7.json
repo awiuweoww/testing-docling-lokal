@@ -1,0 +1,2452 @@
+{
+  "chunks": [
+    {
+      "text": "figure",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4590897404290492,
+            "t": 0.040342539075821165,
+            "r": 0.5853967604294322,
+            "b": 0.11704784726339673
+          },
+          "page": 0
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "26d8a49e-c6ea-466d-aa20-820bdd8f5c8d"
+    },
+    {
+      "text": "PRESIDEN REPUBLIK INDONESIA",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.44313725490196076,
+            "t": 0.13672619047619042,
+            "r": 0.6037943333333337,
+            "b": 0.15492889019665532
+          },
+          "page": 0
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "4da73043-4208-46f6-bc51-2bbac21d83bc"
+    },
+    {
+      "text": "UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 5 TAHUN 1983 TENTANG ZONA EKONOMI EKSKLUSIF INDONESIA",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.3133333333333333,
+            "t": 0.17369047619047612,
+            "r": 0.7333286274509804,
+            "b": 0.22739177489177492
+          },
+          "page": 0
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "0c3f8110-416e-4e71-a49f-0e36fae2c79b"
+    },
+    {
+      "text": "DENGAN RAHMAT TUHAN YANG MAHA ESA",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2994117647058824,
+            "t": 0.26511904761904764,
+            "r": 0.7470272941176475,
+            "b": 0.2731060606060607
+          },
+          "page": 0
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "85a807f2-3ec6-489c-b062-1d7214ad78eb"
+    },
+    {
+      "text": "Presiden Republik Indonesia,",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.39882352941176474,
+            "t": 0.29559523809523813,
+            "r": 0.6476131764705886,
+            "b": 0.3035822510822512
+          },
+          "page": 0
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "24eb1e77-7fb5-404f-bd79-67a3eecbc2a6"
+    },
+    {
+      "text": "Menimbang :\nbahwa pada tanggal 21 Maret 1980 telah dikeluarkan Pengumuman Pemerintah Republik Indonesia tentang Zona Ekonomi Eksklusif Indonesia;\nbahwa peningkatan kesejahteraan bangsa dengan memanfaatkan segenap sumber daya alam yang tersedia, baik hayati maupun non hayati, adalah tujuan dan tekad bulat Pemerintah dan Bangsa Indonesia;\nbahwa untuk mencapai tujuan tersebut, sumber daya alam yang terdapat di dasar laut dan tanah di bawahnya serta ruang air di atasnya harus dilindungi dan dikelola dengan cara yang tepat, terarah dan bijaksana;\nbahwa semua kegiatan penelitian ilmiah mengenai kelautan di perairan yang berada di bawah kedaulatan dan yurisdiksi Indonesia harus diatur dan dilaksanakan untuk dan sesuai dengan kepentingan Indonesia;\nbahwa lingkungan laut di perairan yang berada di bawah kedaulatan dan yurisdiksi Republik Indonesia harus dilindungi dan dilestarikan;\nbahwa segenap sumber daya alam hayati dan non hayati yang terdapat di Zona Ekonomi Eksklusif Indonesia baik potensial maupun efektif adalah modal dan milik bersama Bangsa Indonesia sesuai dengan Wawasan Nusantara;\nbahwa baik praktek negara maupun Konvensi Hukum Laut yang dihasilkan oleh Konperensi Perserikatan Bangsa-Bangsa tentang Hukum Laut Ketiga menunjukkan telah diakuinya rezim zona ekonomi eksklusif selebar 200 (dua ratus) mil laut sebagai bagian dari hukum laut internasional yang baru;\nbahwa berhubung dengan hal-hal tersebut di atas perlu ditetapkan undang-undang sebagai landasan bagi pelaksanaan hak berdaulat, hak-hak lain, yurisdiksi, dan kewajiban-kewajiban Republik Indonesia di Zona Ekonomi Eksklusif Indonesia;\nMengingat : …",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.13901960784313724,
+            "t": 0.3413095238095238,
+            "r": 0.9076470588235295,
+            "b": 0.9283441558441559
+          },
+          "page": 0
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "990a8dd6-4d0b-4b4a-bf45-b25f8c6a8966"
+    },
+    {
+      "text": "figure",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4594345591426675,
+            "t": 0.04061494554792132,
+            "r": 0.5852468652662888,
+            "b": 0.11676565049186585
+          },
+          "page": 1
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "18878292-93eb-4e07-90dc-04a98af715c1"
+    },
+    {
+      "text": "PRESIDEN REPUBLIK INDONESIA\n- 2 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.44313725490196076,
+            "t": 0.13672619047619042,
+            "r": 0.6037943333333337,
+            "b": 0.1760822510822511
+          },
+          "page": 1
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "44470810-0751-4380-8221-b5912f024e53"
+    },
+    {
+      "text": "Mengingat :\nPasal 5 ayat (1), Pasal 11, Pasal 20 ayat. (1), dan Pasal 33 ayat (3) Undang-Undang Dasar 1945;\nKetetapan Majelis Permusyawaratan Rakyat Republik Indonesia Nomor II/MPR/1983 tentang Garis-garis Besar Haluan Negara;\nUndang-undang Nomor 4 Prp Tahun 1960 tentang Perairan Indonesia (Lembaran Negara Tahun 1960 Nomor 22, Tambahan Lembaran Negara Nomor 1942);\nUndang-undang Nomor 44 Prp Tahun 1960 tentang Pertambangan Minyak dan Gas Bumi (Lembaran Negara Tahun 1960 Nomor 133, Tambahan Lembaran Negara Nomor 2070);\nUndang-undang Nomor 11 Tahun 1967 tentang Ketentuanketentuan Pokok Pertambangan (Lembaran Negara Tahun 1967 Nomor 22, Tambahan Lembaran Negara Nomor 2831);\nUndang-undang Nomor 1 Tahun 1973 tentang Landas Kontinen Indonesia (Lembaran Negara Tahun 1973 Nomor 1, Tambahan Lembaran Negara Nomor 2294);\nUndang-undang Nomor. 8 Tahun 1981 tentang Kitab Undangundang Hukum Acara Pidana (Lembaran Negara Tahun 1981 Nomor 76, Tambahan Lembaran Negara Nomor 3209);\nUndang-undang Nomor 4 Tahun 1982 tentang Ketentuanketentuan Pokok Pengelolaan Lingkungan Hidup (Lembaran Negara Tahun 1982 Nomor 12, Tambahan Lembaran Negara Nomor 3215);\nUndang-undang Nomor 20 Tahun 1982 tentang Ketentuanketentuan Pokok Pertahanan Keamanan Negara Republik Indonesia (Lembaran Negara Tahun 1982 Nomor 51, Tambahan Lembaran Negara Nomor 3234);",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.13901960784313724,
+            "t": 0.19202380952380946,
+            "r": 0.90764,
+            "b": 0.5962012987012987
+          },
+          "page": 1
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "7b462b4f-5330-41f1-b8d8-45440e38e28a"
+    },
+    {
+      "text": "Dengan persetujuan DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.27941176470588236,
+            "t": 0.6186904761904761,
+            "r": 0.8260378823529415,
+            "b": 0.6419155844155844
+          },
+          "page": 1
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "d43f74e5-f377-4bb1-bec8-8d32e3d58c85"
+    },
+    {
+      "text": "MEMUTUSKAN :",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4711764705882353,
+            "t": 0.6644047619047619,
+            "r": 0.6341103529411766,
+            "b": 0.6723917748917748
+          },
+          "page": 1
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "87e9e73f-30a2-4294-aa99-5a837f2f12c3"
+    },
+    {
+      "text": "Menetapkan :\nUNDANG-UNDANG TENTANG ZONA EKONOMI EKSKLUSIF INDONESIA",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.13901960784313724,
+            "t": 0.6948809523809525,
+            "r": 0.9076189803921574,
+            "b": 0.7181060606060605
+          },
+          "page": 1
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "d299d94d-ae90-40e8-a752-b7cee0bfd0f9"
+    },
+    {
+      "text": "BAB I\nKETENTUAN UMUM",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4223529411764706,
+            "t": 0.7405952380952381,
+            "r": 0.6241011764705884,
+            "b": 0.7638203463203463
+          },
+          "page": 1
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "018550f9-fa70-46b9-87c4-8a689da7c449"
+    },
+    {
+      "text": "Pasal 1",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.49294117647058827,
+            "t": 0.7863095238095238,
+            "r": 0.5535249411764707,
+            "b": 0.7942965367965368
+          },
+          "page": 1
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "a1a97b04-f2a7-4268-adff-935599574586"
+    },
+    {
+      "text": "Dalam undang-undang ini yang dimaksud dengan:\nSumber daya alam hayati adalah semua jenis binatang dan tumbuhan termasuk bagian-bagiannya yang terdapat di dasar laut dan ruang air Zona Ekonomi Eksklusif Indonesia;\nSumber daya alam non hayati adalah unsur alam bukan sumber daya alam hayati yang terdapat di dasar laut dan tanah di bawahnya serta ruang air Zona Ekonomi Eksklusif Indonesia;\nc. Penelitian …",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.13901960784313724,
+            "t": 0.8167857142857143,
+            "r": 0.9076470588235295,
+            "b": 0.9314393939393939
+          },
+          "page": 1
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "c169c4df-d7e0-40f8-b3db-05dcff1ffef6"
+    },
+    {
+      "text": "figure",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4590122497159671,
+            "t": 0.04046048815288241,
+            "r": 0.5854799856547437,
+            "b": 0.11699669701712472
+          },
+          "page": 2
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "36b591f2-c385-4ee6-b1f6-90933a3bd281"
+    },
+    {
+      "text": "PRESIDEN REPUBLIK INDONESIA",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.44313725490196076,
+            "t": 0.13672619047619042,
+            "r": 0.6037943333333337,
+            "b": 0.15492889019665532
+          },
+          "page": 2
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "f6e62de8-d5e5-4a55-a0b9-2d2e0a789295"
+    },
+    {
+      "text": "- 3 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.5017647058823529,
+            "t": 0.16809523809523805,
+            "r": 0.5370517647058823,
+            "b": 0.1760822510822511
+          },
+          "page": 2
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "46b8d9d7-c6b3-4bd9-82f6-2303f0e56290"
+    },
+    {
+      "text": "Penelitian ilmiah adalah semua kegiatan yang berhubungan dengan penelitian mengenai semua aspek kelautan di permukaan air, ruang air, dasar laut, dan tanah di bawahnya di Zona Ekonomi Eksklusif Indonesia;\nKonservasi sumber daya alam adalah segala upaya yang bertujuan untuk melindungi dan melestarikan sumber daya alam di Zona Ekonomi Eksklusif Indonesia;\nPerlindungan dan pelestarian lingkungan laut adalah segala upaya yang bertujuan untuk menjaga dan memelihara keutuhan ekosistem laut di Zona Ekonomi Eksklusif Indonesia.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.13901960784313724,
+            "t": 0.19202380952380946,
+            "r": 0.9076446274509806,
+            "b": 0.3523917748917749
+          },
+          "page": 2
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "23bdc894-593e-4466-aa5d-555732e5edf4"
+    },
+    {
+      "text": "BAB II ZONA EKONOMI EKSKLUSIF INDONESIA",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.3211764705882353,
+            "t": 0.37488095238095237,
+            "r": 0.7252595294117649,
+            "b": 0.3981060606060607
+          },
+          "page": 2
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "d563af13-9f0f-4787-83fb-b9e06b37f678"
+    },
+    {
+      "text": "Pasal 2",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.49294117647058827,
+            "t": 0.42059523809523813,
+            "r": 0.5535249411764707,
+            "b": 0.4285822510822512
+          },
+          "page": 2
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "29e1065b-cf85-4c6e-86d5-da0265cd19c6"
+    },
+    {
+      "text": "Zona Ekonomi Eksklusif Indonesia adalah jalur di luar dan berbatasan dengan laut wilayah Indonesia sebagaimana ditetapkan berdasarkan undang-undang yang berlaku tentang perairan Indonesia yang meliputi dasar laut, tanah di bawahnya dan air di atasnya dengan batas terluar 200 (dua ratus) mil laut diukur dari garis pangkal laut wilayah Indonesia.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.13901960784313724,
+            "t": 0.4510714285714285,
+            "r": 0.9076165490196082,
+            "b": 0.5200108225108225
+          },
+          "page": 2
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "eec229b3-a1ab-4c9f-b5ef-b2e579917e16"
+    },
+    {
+      "text": "Pasal 3",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.49294117647058827,
+            "t": 0.5424999999999999,
+            "r": 0.5535249411764707,
+            "b": 0.550487012987013
+          },
+          "page": 2
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "511f12e9-c146-4fdc-970e-87a6c1938113"
+    },
+    {
+      "text": "Apabila Zona Ekonomi Eksklusif Indonesia tumpang tindih dengan zona ekonomi eksklusif negara-negara yang pantainya saling berhadapan atau berdampingan dengan Indonesia, maka batas zona ekonomi eksklusif antara Indonesia dan negara tersebut ditetapkan dengan persetujuan antara Republik Indonesia dan negara yang bersangkutan.\nSelama persetujuan sebagaimana dimaksud dalam ayat (1) belum ada dan tidak terdapat keadaan-keadaan khusus yang perlu dipertimbangkan, maka batas zona ekonomi eksklusif antara Indonesia dan negara tersebut adalah garis tengah atau garis sama jarak antara garis-garis pangkal laut wilayah Indonesia atau titik-titik terluar Indonesia dan garis-garis pangkal laut wilayah atau titik-titik terluar negara tersebut, kecuali jika dengan negara tersebut telah tercapai persetujuan tentang pengaturan sementara yang berkaitan dengan batas Zona Ekonomi Eksklusif Indonesia termaksud.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.13901960784313724,
+            "t": 0.5729761904761904,
+            "r": 0.9076658823529414,
+            "b": 0.7790584415584415
+          },
+          "page": 2
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "b5cefd96-7319-4302-9fc6-6924e6052a37"
+    },
+    {
+      "text": "BAB III HAK BERDAULAT, HAK-HAK LAIN, YURISDIKSI DAN KEWAJIBAN-KEWAJIBAN",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.28568627450980394,
+            "t": 0.8015476190476191,
+            "r": 0.7609545098039215,
+            "b": 0.8400108225108225
+          },
+          "page": 2
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "608e495a-4779-4c8c-8b81-f7f4b47900e0"
+    },
+    {
+      "text": "Pasal 4",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.49294117647058827,
+            "t": 0.8624999999999999,
+            "r": 0.5535249411764707,
+            "b": 0.870487012987013
+          },
+          "page": 2
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "ca7c7041-50a8-4fe0-8a28-8cdca2f82c58"
+    },
+    {
+      "text": "Di Zona Ekonomi Eksklusif Indonesia, Republik Indonesia mempunyai dan melaksanakan :\na. Hak …",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.13901960784313724,
+            "t": 0.8929761904761905,
+            "r": 0.9076470588235295,
+            "b": 0.9314393939393939
+          },
+          "page": 2
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "20b2af5d-1a88-44e3-b69a-f843102bdc90"
+    },
+    {
+      "text": "figure",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4590347888422947,
+            "t": 0.04040642011733282,
+            "r": 0.5854203467275582,
+            "b": 0.11699077818128797
+          },
+          "page": 3
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "e2cd71c9-53fe-4f41-aeb9-d394c3cde375"
+    },
+    {
+      "text": "PRESIDEN REPUBLIK INDONESIA\n- 4 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.44313725490196076,
+            "t": 0.13672619047619042,
+            "r": 0.6037943333333337,
+            "b": 0.1760822510822511
+          },
+          "page": 3
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "5bfdd463-9f57-4365-8a54-b2fbac2ae34f"
+    },
+    {
+      "text": "Hak berdaulat untuk melakukan eksplorasi dan eksploitasi, pengelolaan dan konservasi sumber daya alam hayati dan non hayati dari dasar laut dan tanah di bawahnya serta air di atasnya dan kegiatan-kegiatan lainnya untuk eksplorasi dan eksploitasi ekonomis zona tersebut, seperti pembangkitan tenaga dari air, arus dan angin;\nYurisdiksi yang berhubungan dengan :\npembuatan dan penggunaan pulau-pulau buatan, instalasi-instalasi dan bangunan-bangunan lainnya;\npenelitian ilmiah mengenai kelautan;\nperlindungan dan pelestarian lingkungan taut;\nHak-hak lain dan kewajiban-kewajiban lainnya berdasarkan Konvensi Hukum Laut yang berlaku.\nSepanjang yang bertalian dengan dasar laut dan tanah di bawahnya, hak berdaulat, hak-hak lain, yurisdiksi dan kewajiban-kewajiban Indonesia sebagaimana dimaksud dalam ayat (1) dilaksanakan menurut peraturan perundang-undangan Landas Kontinen Indonesia, persetujuan-persetujuan antara Republik Indonesia dengan negara-negara tetangga dan ketentuan-ketentuan hukum internasional yang berlaku-\nDi Zona Ekonomi Eksklusif Indonesia, kebebasan pelayaran dan penerbangan internasional serta kebebasan pemasangan kabel dan pipa bawah laut diakui sesuai dengan prinsip-prinsip hukum laut internasional yang berlaku.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.13901960784313724,
+            "t": 0.19202380952380946,
+            "r": 0.9076517647058824,
+            "b": 0.5657251082251082
+          },
+          "page": 3
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "5e34da6d-645d-4b69-8bc8-712d4754d1bc"
+    },
+    {
+      "text": "BAB IV KEGIATAN-KEGIATAN DI ZONA EKONOMI EKSKLUSIF INDONESIA",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.35333333333333333,
+            "t": 0.5882142857142857,
+            "r": 0.6933046274509805,
+            "b": 0.6266774891774892
+          },
+          "page": 3
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "74f03a1f-a243-4e61-a297-7bebb48fdbd4"
+    },
+    {
+      "text": "Pasal 5",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.49294117647058827,
+            "t": 0.6491666666666666,
+            "r": 0.5535249411764707,
+            "b": 0.6571536796536797
+          },
+          "page": 3
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "f8eb8735-15db-46ec-ba90-c8a4a3f7c990"
+    },
+    {
+      "text": "Dengan tidak mengurangi ketentuan Pasal 4 ayat (2), barang siapa melakukan eksplorasi dan/atau eksploitasi sumber daya alam atau kegiatan-kegiatan lainnya untuk eksplorasi dan/atau eksploitasi ekonomis seperti pembangkitan tenaga dari air, arus dan angin di Zona Ekonomi Eksklusif Indonesia, harus berdasarkan izin dari Pemerintah Republik Indonesia atau berdasarkan persetujuan internasional dengan Pemerintah Republik Indonesia dan dilaksanakan menurut syarat-syarat perizinan atau persetujuan internasional tersebut.\nDengan tidak mengurangi ketentuan ayat (1), eksplorasi dan/atau eksploitasi sumber daya alam hayati harus mentaati ketentuan tentang pengelolaan dan konservasi yang ditetapkan oleh Pemerintah Republik Indonesia.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.13901960784313724,
+            "t": 0.6796428571428571,
+            "r": 0.9076489411764707,
+            "b": 0.8400108225108225
+          },
+          "page": 3
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "dd9f0f3e-0fd9-4ba9-8b93-2acff8fc3c89"
+    },
+    {
+      "text": "(3)\nDengan …",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7564705882352941,
+            "t": 0.923452380952381,
+            "r": 0.9076470588235295,
+            "b": 0.9314393939393939
+          },
+          "page": 3
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "19895efc-b93e-4445-b044-1a13514aa95a"
+    },
+    {
+      "text": "figure",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.459033043555964,
+            "t": 0.040406393626379586,
+            "r": 0.5853683870602278,
+            "b": 0.11693069669935438
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "65e80e8e-d31e-46e4-96d6-c735db0391d7"
+    },
+    {
+      "text": "PRESIDEN REPUBLIK INDONESIA\n- 5 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.44313725490196076,
+            "t": 0.13672619047619042,
+            "r": 0.6037943333333337,
+            "b": 0.1760822510822511
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "1b0463cf-fdb7-4e2c-bd75-5f417ac20174"
+    },
+    {
+      "text": "Dengan tidak mengurangi ketentuan Pasal 4 ayat (2), eksplorasi dan eksploitasi suatu sumber daya alam hayati di daerah tertentu di Zona Ekonomi Eksklusif Indonesia oleh orang atau badan hukum atau Pemerintah Negara Asing dapat diizinkan jika jumlah tangkapan yang diperbolehkan oleh Pemerintah Republik Indonesia untuk jenis tersebut melebihi kemampuan Indonesia untuk memanfaatkannya.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.13901960784313724,
+            "t": 0.19202380952380946,
+            "r": 0.907600078431373,
+            "b": 0.2762012987012988
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "9e09733f-8aae-4296-9859-365ce192d182"
+    },
+    {
+      "text": "Pasal 6",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.49294117647058827,
+            "t": 0.2986904761904761,
+            "r": 0.5535249411764707,
+            "b": 0.30667748917748916
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "75363913-ff94-4c0f-a46b-4bd3e9c2d0f6"
+    },
+    {
+      "text": "Barangsiapa membuat dan/atau menggunakan pulau-pulau buatan atau instalasi-instalasi atau bangunan-bangunan lainnya di Zona Ekonomi Eksklusif Indonesia harus berdasarkan izin dari Pemerintah Republik Indonesia dan dilaksanakan menurut syarat-syarat perizinan tersebut.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.13901960784313724,
+            "t": 0.3291666666666666,
+            "r": 0.9076517647058824,
+            "b": 0.3828679653679654
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "d2c4f745-99b3-4ef1-8b68-6d97169ca6e6"
+    },
+    {
+      "text": "Pasal 7",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.49294117647058827,
+            "t": 0.40535714285714286,
+            "r": 0.5535249411764707,
+            "b": 0.41334415584415596
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "736f8232-8a51-4244-baa6-bcbda96f386b"
+    },
+    {
+      "text": "Barangsiapa melakukan kegiatan penelitian ilmiah di Zona Ekonomi Eksklusif Indonesia harus memperoleh persetujuan terlebih dahulu dari dan dilaksanakan berdasarkan syaratsyarat yang ditetapkan oleh Pemerintah Republik Indonesia.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.13901960784313724,
+            "t": 0.4358333333333333,
+            "r": 0.90764,
+            "b": 0.4742965367965368
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "3733b104-597e-48e0-9dee-2052565ac8dc"
+    },
+    {
+      "text": "Pasal 8",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.49294117647058827,
+            "t": 0.4967857142857143,
+            "r": 0.5535270588235295,
+            "b": 0.5047727272727273
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "ea52cd6a-687d-4024-8dc2-cec80555f8e2"
+    },
+    {
+      "text": "Barangsiapa melakukan kegiatan-kegiatan di Zona Ekonomi Eksklusif Indonesia, wajib melakukan langkah-langkah untuk mencegah, membatasi, mengendalikan dan menanggulangi pencemaran lingkungan laut.\nPembuangan di Zona Ekonomi Eksklusif Indonesia hanya dapat dilakukan setelah memperoleh keizinan dari Pemerintah Republik Indonesia.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.13901960784313724,
+            "t": 0.5272619047619048,
+            "r": 0.9076130196078437,
+            "b": 0.6114393939393938
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "8f65b38b-6a6b-4816-a01f-8690596a82b5"
+    },
+    {
+      "text": "BAB V GANTI RUGI",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.46176470588235297,
+            "t": 0.6339285714285714,
+            "r": 0.5846898823529412,
+            "b": 0.6571536796536797
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "0b25e0bf-29f2-454d-bf70-29ebc8d4e443"
+    },
+    {
+      "text": "Pasal 9",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.49294117647058827,
+            "t": 0.6796428571428571,
+            "r": 0.5535249411764707,
+            "b": 0.6876298701298701
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "b7516985-93d1-4b23-b34b-539a33a03a93"
+    },
+    {
+      "text": "Barangsiapa melakukan tindakan-tindakan yang bertentangan dengan ketentuan-ketentuan peraturan perundang-undangan Republik Indonesia dan hukum internasional yang bertalian dengan pulau-pulau buatan, instalasi-instalasi dan bangunan-bangunan lainnya di Zona Ekonomi Eksklusif Indonesia dan mengakibatkan kerugian, wajib memikul tanggung jawab dan membayar ganti rugi kepada pemilik pulau-pulau buatan, instalasiinstalasi dan bangunan-bangunan lainnya tersebut.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.13901960784313724,
+            "t": 0.7101190476190475,
+            "r": 0.90764,
+            "b": 0.7942965367965368
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "14463d4f-6aef-436d-a667-a3e834fccfb1"
+    },
+    {
+      "text": "Pasal 10",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.48764705882352943,
+            "t": 0.8167857142857143,
+            "r": 0.5588190588235294,
+            "b": 0.8247727272727273
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "a2b1c31a-e9ee-4ea2-bbd1-b09f2f5669d0"
+    },
+    {
+      "text": "Dengan tidak mengurangi ketentuan Pasal 7, barangsiapa di Zona Ekonomi Eksklusif Indonesia melakukan tindakan-tindakan yang bertentangan dengan ketentuan-ketentuan peraturan perundang-undangan Republik Indonesia dan hukum internasional yang berlaku di bidang penelitian ilmiah mengenai kelautan dan mengakibatkan kerugian, wajib memikul tanggung jawab dan membayar ganti rugi kepada Republik Indonesia.\nPasal 11 …",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.13901960784313724,
+            "t": 0.8472619047619048,
+            "r": 0.9076470588235295,
+            "b": 0.9314393939393939
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "85026c92-bf2b-4f49-9b65-a536aa50e015"
+    },
+    {
+      "text": "figure",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.45892802718418096,
+            "t": 0.040270824280996174,
+            "r": 0.585683635636872,
+            "b": 0.11711181913103376
+          },
+          "page": 5
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "bcef19c1-f8c2-4bd1-b1de-a9a9be16c428"
+    },
+    {
+      "text": "PRESIDEN REPUBLIK INDONESIA\n- 6 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.44313725490196076,
+            "t": 0.13672619047619042,
+            "r": 0.6037943333333337,
+            "b": 0.1760822510822511
+          },
+          "page": 5
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "add9fff5-351a-43bb-a210-1399c068dff4"
+    },
+    {
+      "text": "Pasal 11",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.48764705882352943,
+            "t": 0.19202380952380946,
+            "r": 0.5588190588235294,
+            "b": 0.20001082251082253
+          },
+          "page": 5
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "dad74265-8ad2-4c80-b1cd-e983784091c8"
+    },
+    {
+      "text": "Dengan tidak mengurangi ketentuan Pasal 8, dan dengan memperhatikan batas ganti rugi maksimum tertentu, barangsiapa di Zona Ekonomi Eksklusif Indonesia menyebabkan terjadinya pencemaran lingkungan laut dan/atau perusakan sumber daya alam memikul tanggung jawab mutlak dan membayar biaya rehabilitasi lingkungan laut dan/atau sumber daya alam tersebut dengan segera dan dalam jumlah yang memadai.\nDikecualikan dari tanggung jawab mutlak sebagaimana dimaksud dalam ayat (1), jika yang bersangkutan dapat membuktikan bahwa pencemaran lingkungan laut dan/atau perusakan sumber daya alam tersebut terjadi karena :\nakibat dari suatu peristiwa alam yang berada di luar kemampuannya;\nkerusakan yang seluruhnya atau sebagian, disebabkan oleh perbuatan atau kelalaian pihak ketiga.\nBentuk, jenis dan besarnya kerugian yang timbul sebagai akibat pencemaran lingkungan laut dan/atau perusakan sumber daya alam ditetapkan berdasarkan hasil penelitian ekologis.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.13901960784313724,
+            "t": 0.22249999999999998,
+            "r": 0.9077737254901962,
+            "b": 0.4895346320346321
+          },
+          "page": 5
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "660dbb84-43f1-4dc3-8332-17ff80a44e68"
+    },
+    {
+      "text": "Pasal 12",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.48764705882352943,
+            "t": 0.5120238095238095,
+            "r": 0.5588190588235294,
+            "b": 0.5200108225108225
+          },
+          "page": 5
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "e1de175b-a396-48ff-b337-96b1b2f72a0f"
+    },
+    {
+      "text": "Ketentuan tentang batas ganti rugi maksimum, tata cara penelitian ekologis dan penuntutan ganti rugi tersebut dalam Pasal 11 diatur dalam peraturan perundang-undangan sebagaimana dimaksud dalam Pasal 20.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.13901960784313724,
+            "t": 0.5424999999999999,
+            "r": 0.9076282352941176,
+            "b": 0.5809632034632035
+          },
+          "page": 5
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "15294e80-a4e3-49fa-904f-e2f521ae3789"
+    },
+    {
+      "text": "BAB VI PENEGAKAN HUKUM",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4158823529411765,
+            "t": 0.603452380952381,
+            "r": 0.6305609411764708,
+            "b": 0.6266774891774892
+          },
+          "page": 5
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "3da0c170-a102-4729-a834-c60bf5b4b31c"
+    },
+    {
+      "text": "Pasal 13",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.48764705882352943,
+            "t": 0.6491666666666666,
+            "r": 0.5588190588235294,
+            "b": 0.6571536796536797
+          },
+          "page": 5
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "e994e770-8a5a-4d7d-8f62-8ef5fd3afd36"
+    },
+    {
+      "text": "Dalam rangka melaksanakan hak berdaulat, hak-hak lain, yurisdiksi dan kewajibankewajiban sebagaimana dimaksud dalam Pasal 4 ayat (1), aparatur penegak hukum Republik Indonesia yang berwenang, dapat mengambil tindakan-tindakan penegakan hukum sesuai dengan Undang-undang Nomor 8 Tahun 1981 tentang Kitab Undangundang Hukum Acara Pidana, dengan pengecualian sebagai berikut :",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.13901960784313724,
+            "t": 0.6796428571428571,
+            "r": 0.9077890196078434,
+            "b": 0.7485822510822511
+          },
+          "page": 5
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "f2b3d185-a44b-47f8-9c4e-97a28ee07481"
+    },
+    {
+      "text": "(a) Penangkapan terhadap kapal dan/atau orang-orang yang diduga melakukan pelanggaran di Zona Ekonomi Eksklusif Indonesia meliputi tindakan penghentian kapal sampai dengan diserahkannya kapal dan/atau orang-orang tersebut dipelabuhan dimana perkara tersebut dapat diproses lebih lanjut;\n(b) Penyerahan kapal dan/atau orang-orang tersebut harus dilakukan secepat mungkin dan tidak boleh melebihi jangka waktu 7 (tujuh) hari, kecuali apabila terdapat keadaan force majeure;",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.13901960784313724,
+            "t": 0.7710714285714286,
+            "r": 0.9076272941176472,
+            "b": 0.8857251082251082
+          },
+          "page": 5
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "67d9f43c-1be5-44fc-a726-20213dcabb33"
+    },
+    {
+      "text": "(c) Untuk …",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7694117647058824,
+            "t": 0.923452380952381,
+            "r": 0.9076470588235295,
+            "b": 0.9314393939393939
+          },
+          "page": 5
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "4b3dc414-4f17-478d-86bf-f400b6299506"
+    },
+    {
+      "text": "figure",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4590030246310764,
+            "t": 0.0402434023599776,
+            "r": 0.5853995528875613,
+            "b": 0.11710982095627558
+          },
+          "page": 6
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "aff158f8-e938-4684-9002-e8db9194156d"
+    },
+    {
+      "text": "PRESIDEN REPUBLIK INDONESIA\n- 7 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.44313725490196076,
+            "t": 0.13672619047619042,
+            "r": 0.6037943333333337,
+            "b": 0.1760822510822511
+          },
+          "page": 6
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "cfef5aea-d7ab-4ac1-b7e1-d5bff8f5250f"
+    },
+    {
+      "text": "(c) Untuk kepentingan penahanan, tindak pidana yang diatur dalam Pasal 16 dan Pasal 17 termasuk dalam golongan tindak pidana sebagaimana dimaksud dalam Pasal 21 ayat (4) huruf b Undang-undang Nomor 8 Tahun 1981 tentang Kitab Undangundang Hukum Acara Pidana.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.13901960784313724,
+            "t": 0.19202380952380946,
+            "r": 0.90764,
+            "b": 0.2457251082251083
+          },
+          "page": 6
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "847d6ced-df36-4f3c-8f4e-46e2da3e9c19"
+    },
+    {
+      "text": "Pasal 14",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.48764705882352943,
+            "t": 0.26821428571428574,
+            "r": 0.5588190588235294,
+            "b": 0.2762012987012988
+          },
+          "page": 6
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "43cf3bed-c64b-405e-b087-e9a1796bb53a"
+    },
+    {
+      "text": "Aparatur penegak hukum di bidang penyidikan di Zona Ekonomi Eksklusif Indonesia adalah Perwira Tentara Nasional Indonesia Angkatan Laut yang ditunjuk oleh Panglima Angkatan Bersenjata Republik Indonesia.\nPenuntut umum adalah jaksa pada pengadilan negeri sebagaimana dimaksud dalam ayat (3).\nPengadilan yang berwenang mengadili pelanggaran terhadap ketentuan undangundang ini adalah pengadilan negeri yang daerah hukumnya meliputi pelabuhan dimana dilakukan penahanan terhadap kapal dan/atau orang-orang sebagaimana dimaksud dalam Pasal 13 huruf a.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.13901960784313724,
+            "t": 0.2986904761904761,
+            "r": 0.907780078431373,
+            "b": 0.45905844155844155
+          },
+          "page": 6
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "163e660f-8b5d-41e0-9941-cf3dc354c44d"
+    },
+    {
+      "text": "Pasal 15",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.48764705882352943,
+            "t": 0.481547619047619,
+            "r": 0.5588190588235294,
+            "b": 0.4895346320346321
+          },
+          "page": 6
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "f99d7f9a-47c5-4042-b4cc-c6798391393d"
+    },
+    {
+      "text": "Permohonan untuk membebaskan kapal dan/atau orang-orang yang ditangkap karena didakwa melakukan pelanggaran terhadap undang-undang ini atau peraturan perundang-undangan yang dikeluarkan berdasarkan undang-undang ini, dapat dilakukan setiap waktu sebelum ada keputusan dari pengadilan negeri yang berwenang.\nPermohonan untuk pembebasan sebagaimana dimaksud dalam ayat(1),dapat dikabulkan jika pemohon sudah menyerahkan sejumlah uang jaminan yang layak, yang penetapannya dilakukan oleh pengadilan negeri yang berwenang.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.13901960784313724,
+            "t": 0.5120238095238095,
+            "r": 0.9076264313725492,
+            "b": 0.6419155844155844
+          },
+          "page": 6
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "e0bd644c-76d7-4583-addf-946a858ad665"
+    },
+    {
+      "text": "BAB VII KETENTUAN PIDANA",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4164705882352941,
+            "t": 0.6644047619047619,
+            "r": 0.6299717647058825,
+            "b": 0.6876298701298701
+          },
+          "page": 6
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "f91d57bd-df4f-4b02-bfdb-b1acb4dec802"
+    },
+    {
+      "text": "Pasal 16",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.48764705882352943,
+            "t": 0.7101190476190475,
+            "r": 0.5588190588235294,
+            "b": 0.7181060606060605
+          },
+          "page": 6
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "cf6119a7-7bc8-47fc-8cea-74e94cce65c6"
+    },
+    {
+      "text": "Barangsiapa melakukan tindakan-tindakan yang bertentangan dengan ketentuan Pasal 5 ayat (1), Pasal 6, dan Pasal 7 dipidana dengan pidana denda setinggitingginya Rp 225.000.000,- (dua ratus dua puluh lima juta rupiah).\nHakim dalam keputusannya dapat menetapkan perampasan terhadap hasil kegiatan, kapal dan/atau alat perlengkapan lainnya yang digunakan untuk melakukan tindak pidana tersebut dalam ayat (1).\nBarangsiapa dengan sengaja melakukan tindakan-tindakan yang menyebabkan rusaknya lingkungan hidup dan/atau tercemarnya lingkungan hidup dalam Zona Ekonomi Eksklusif Indonesia, diancam dengan pidana sesuai dengan peraturan perundang-undangan yang berlaku di bidang lingkungan hidup.\nPasal 17 …",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.13901960784313724,
+            "t": 0.7405952380952381,
+            "r": 0.9076470588235295,
+            "b": 0.9314393939393939
+          },
+          "page": 6
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "02a774e5-899d-44e6-a7fd-dfb6a3414d4d"
+    },
+    {
+      "text": "figure",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4591657351824193,
+            "t": 0.04046697086758084,
+            "r": 0.5854412901635263,
+            "b": 0.11683904557001024
+          },
+          "page": 7
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "e69e08af-3863-42f6-89fc-21c6ffda8a22"
+    },
+    {
+      "text": "PRESIDEN REPUBLIK INDONESIA\n- 8 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.44313725490196076,
+            "t": 0.13672619047619042,
+            "r": 0.6037943333333337,
+            "b": 0.1760822510822511
+          },
+          "page": 7
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "5d5d6336-6543-4f5e-92e8-1528160b156c"
+    },
+    {
+      "text": "Pasal 17",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.48764705882352943,
+            "t": 0.19202380952380946,
+            "r": 0.5588218823529413,
+            "b": 0.20001082251082253
+          },
+          "page": 7
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "9a17e20b-e31b-4b56-be34-2547877f542d"
+    },
+    {
+      "text": "Barangsiapa merusak atau memusnahkan barang-barang bukti yang digunakan untuk melakukan tindak pidana sebagaimana dimaksud dalam Pasal 16 ayat (1), dengan maksud untuk menghindarkan tindakan-tindakan penyitaan terhadap barang-barang tersebut pada waktu dilakukan pemeriksaan, dipidana dengan pidana denda setinggi-tingginya Rp 75.000.000,- (tujuh puluh lima juta rupiah).",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.13901960784313724,
+            "t": 0.22249999999999998,
+            "r": 0.9076479215686275,
+            "b": 0.29143939393939405
+          },
+          "page": 7
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "a1262d10-8cdf-452d-970c-18b5561576d4"
+    },
+    {
+      "text": "Pasal 18",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.48764705882352943,
+            "t": 0.3444047619047619,
+            "r": 0.5588190588235294,
+            "b": 0.3523917748917749
+          },
+          "page": 7
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "9a7259ed-c61e-478c-88e7-dc229a54ebc7"
+    },
+    {
+      "text": "Tindak pidana sebagaimana dimaksud dalam Pasal 16 dan Pasal 17 adalah kejahatan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.13901960784313724,
+            "t": 0.37488095238095237,
+            "r": 0.8607243137254906,
+            "b": 0.3828679653679654
+          },
+          "page": 7
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "cd5006d8-8ddb-41ac-85a8-bad23f8a1952"
+    },
+    {
+      "text": "BAB VIII KETENTUAN PERALIHAN",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.3964705882352941,
+            "t": 0.4358333333333333,
+            "r": 0.649974117647059,
+            "b": 0.45905844155844155
+          },
+          "page": 7
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "c3edc8a1-6b8f-4f8c-935a-fa77d3c7d2a2"
+    },
+    {
+      "text": "Pasal 19",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.48764705882352943,
+            "t": 0.481547619047619,
+            "r": 0.5588190588235294,
+            "b": 0.4895346320346321
+          },
+          "page": 7
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "9f899d6b-15a8-44eb-a1ee-8a3000b9515b"
+    },
+    {
+      "text": "Segala ketentuan yang mengatur mengenai eksplorasi dan eksploitasi sumber daya alam hayati, yang dibuat sebelum diundangkannya undang-undang ini, tetap berlaku sampai ada perubahan yang ditetapkan oleh peraturan perundang-undangan yang dikeluarkan berdasarkan undang-undang ini.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.13901960784313724,
+            "t": 0.5120238095238095,
+            "r": 0.907774196078432,
+            "b": 0.5657251082251082
+          },
+          "page": 7
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "310c90b6-0fb1-417f-b9df-f9fc6b8ef76e"
+    },
+    {
+      "text": "BAB IX KETENTUAN PENUTUP",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4088235294117647,
+            "t": 0.6186904761904761,
+            "r": 0.6376352941176472,
+            "b": 0.6419155844155844
+          },
+          "page": 7
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "f9d90cf3-35b7-4b1d-a309-d1b4492e5fcc"
+    },
+    {
+      "text": "Pasal 20",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.48764705882352943,
+            "t": 0.6644047619047619,
+            "r": 0.5588190588235294,
+            "b": 0.6723917748917748
+          },
+          "page": 7
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "dbd8eaef-2068-4252-993c-48eec40c0389"
+    },
+    {
+      "text": "Pelaksanaan ketentuan-ketentuan dalam undang-undang ini diatur lebih lanjut dalam peraturan perundang-undangan lainnya.\nPeraturan Pemerintah yang mengatur pelaksanaan ketentuan undang-undang ini dapat mencantumkan pidana denda setinggi-tingginya Rp 75.000.000,- (tujuh puluh lima juta rupiah) terhadap pelanggaran ketentuan-ketentuannya.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.13901960784313724,
+            "t": 0.6948809523809525,
+            "r": 0.9076495686274512,
+            "b": 0.7790584415584415
+          },
+          "page": 7
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "fe6436d4-0046-4abd-b15b-8fc791cb6d43"
+    },
+    {
+      "text": "Pasal 21",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.48764705882352943,
+            "t": 0.8167857142857143,
+            "r": 0.5588190588235294,
+            "b": 0.8247727272727273
+          },
+          "page": 7
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "4502152f-2673-46c6-b20f-51247f3636bf"
+    },
+    {
+      "text": "Undang-undang ini mulai berlaku pada tanggal diundangkan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.13901960784313724,
+            "t": 0.8472619047619048,
+            "r": 0.6582065882352944,
+            "b": 0.8552489177489178
+          },
+          "page": 7
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "9cf0dcb5-911e-432d-9b30-aadba71d754a"
+    },
+    {
+      "text": "Agar …",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.8388235294117647,
+            "t": 0.9082142857142858,
+            "r": 0.9076470588235295,
+            "b": 0.9162012987012986
+          },
+          "page": 7
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "00f482b7-f013-42e5-8a5f-60eda6d8e1ba"
+    },
+    {
+      "text": "figure",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4586937598932802,
+            "t": 0.039971631670755056,
+            "r": 0.5860119987936581,
+            "b": 0.11784010841732934
+          },
+          "page": 8
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "337334ed-9d4f-444a-b87b-524f763fd533"
+    },
+    {
+      "text": "PRESIDEN REPUBLIK INDONESIA\n9 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.44313725490196076,
+            "t": 0.13672619047619042,
+            "r": 0.6037943333333337,
+            "b": 0.1760822510822511
+          },
+          "page": 8
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "9404914a-2eb5-4561-b120-b9f10ae6fbfd"
+    },
+    {
+      "text": "Agar supaya setiap orang mengetahuinya, memerintahkan pengundangan undangundang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.13901960784313724,
+            "t": 0.19202380952380946,
+            "r": 0.90764,
+            "b": 0.21524891774891777
+          },
+          "page": 8
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "008c3b7b-a069-4fd4-b007-9ffd728ca76e"
+    },
+    {
+      "text": "Disahkan di Jakarta pada tanggal 18 Oktober 1983 PRESIDEN REPUBLIK INDONESIA, TTD SOEHARTO",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.5211764705882352,
+            "t": 0.25297619047619047,
+            "r": 0.8570458823529413,
+            "b": 0.32191558441558443
+          },
+          "page": 8
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "5440d41f-7ace-48e0-b190-01f6c716c0a9"
+    },
+    {
+      "text": "Diundangkan di Jakarta pada tanggal 18 Oktober 1983 MENTERI/SEKRETARIS NEGARA REPUBLIK INDONESIA, TTD SUDHARMONO, S.H.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.13901960784313724,
+            "t": 0.3444047619047619,
+            "r": 0.46075160784313735,
+            "b": 0.4285822510822512
+          },
+          "page": 8
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "5fcff4d7-1f2c-46fb-8067-b7699073b874"
+    },
+    {
+      "text": "LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1983 NOMOR 44",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18098039215686276,
+            "t": 0.5120238095238095,
+            "r": 0.8656862745098041,
+            "b": 0.5200108225108225
+          },
+          "page": 8
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "a756f93d-915a-4a0a-a762-0d5c63c10386"
+    },
+    {
+      "text": "figure",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.45890134923598347,
+            "t": 0.040288838129194954,
+            "r": 0.5857544443965738,
+            "b": 0.11710357666015625
+          },
+          "page": 9
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "bd0faa3a-8270-4e83-a176-38cdd38ed058"
+    },
+    {
+      "text": "PRESIDEN REPUBLIK INDONESIA\nPENJELASAN\nATAS\nUNDANG-UNDANG REPUBLIK INDONESIA NOMOR 5 TAHUN 1983 TENTANG ZONA EKONOMI EKSKLUSIF INDONESIA",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.3133333333333333,
+            "t": 0.13672619047619042,
+            "r": 0.7333086274509806,
+            "b": 0.2457251082251083
+          },
+          "page": 9
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "f24d0256-e3e1-42ef-904e-e45793166c42"
+    },
+    {
+      "text": "I. UMUM",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.13901960784313724,
+            "t": 0.28345238095238096,
+            "r": 0.253524705882353,
+            "b": 0.29143939393939405
+          },
+          "page": 9
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "b12735e6-6cb4-407c-b239-856430029610"
+    },
+    {
+      "text": "Sejak lama Pemerintah Republik Indonesia merasakan pentingnya arti zona ekonomi eksklusif untuk mendukung perwujudan Wawasan Nusantara dalam rangka meningkatkan kesejahteraan Bangsa Indonesia dengan memanfaatkan segenap sumber daya alam baik hayati maupun non hayati yang terdapat di zona ekonomi eksklusifnya.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18529411764705883,
+            "t": 0.3139285714285714,
+            "r": 0.9076205490196085,
+            "b": 0.3828679653679654
+          },
+          "page": 9
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "6575eca7-e21f-459c-ae2a-709d73366363"
+    },
+    {
+      "text": "Berhubung dengan hal yang dikemukakan di atas maka untuk melindungi kepentingan nasional, khususnya dalam hal pemenuhan kebutuhan protein hewani bagi rakyat Indonesia serta kepentingan nasional di bidang pemanfaatan sumber daya alam non hayati, perlindungan dan pelestarian lingkungan laut serta penelitian ilmiah kelautan, Pemerintah Republik Indonesia pada tanggal 21 Maret 1980 telah mengeluarkan Pengumuman Pemerintah tentang Zona Ekonomi Eksklusif Indonesia.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18529411764705883,
+            "t": 0.40535714285714286,
+            "r": 0.9076163137254903,
+            "b": 0.4895346320346321
+          },
+          "page": 9
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "f7990f61-f4e5-4d90-bb75-79e46d19d455"
+    },
+    {
+      "text": "Rezim hukum internasional tentang zona ekonomi eksklusif telah dikembangkan oleh masyarakat internasional melalui Konperensi Perserikatan Bangsa Bangsa tentang Hukum Laut Ketiga dan praktek negara (State practice) dimaksudkan untuk melindungi kepentingan negara pantai dari bahaya dihabiskannya sumber daya alam hayati di dekat pantainya oleh kegiatan-kegiatan perikanan berdasarkan rezim laut bebas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18529411764705883,
+            "t": 0.5120238095238095,
+            "r": 0.9076282352941176,
+            "b": 0.5962012987012987
+          },
+          "page": 9
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "2561aa91-e2cc-43f9-b19a-57f0d3f869a5"
+    },
+    {
+      "text": "Di samping itu zona ekonomi eksklusif juga dimaksud untuk melindungi kepentingan-kepentingan negara pantai di bidang pelestarian lingkungan laut serta penelitian ilmiah kelautan dalam rangka menopang pemanfaatan sumber daya alam di zona tersebut.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18529411764705883,
+            "t": 0.6186904761904761,
+            "r": 0.9077802352941179,
+            "b": 0.6723917748917748
+          },
+          "page": 9
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "c02264fa-07bd-4c0e-9e8b-811131a9e43b"
+    },
+    {
+      "text": "Konvensi Perserikatan Bangsa Bangsa tentang Hukum Laut memberikan kepada Republik Indonesia sebagai negara pantai hak berdaulat untuk eksplorasi dan eksploitasi sumber daya alam yang terdapat di zona ekonomi eksklusif dan yurisdiksi yang berkaitan dengan pelaksanaan hak berdaulat tersebut.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18529411764705883,
+            "t": 0.6948809523809525,
+            "r": 0.9076062745098044,
+            "b": 0.7485822510822511
+          },
+          "page": 9
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "641e0e6a-9779-412c-b698-b7a88a3fc1d9"
+    },
+    {
+      "text": "Selain daripada itu Indonesia berkewajiban pula untuk menghormati hakhak negara lain di zona ekonomi eksklusifnya antara lain kebebasan pelayaran dan penerbangan, serta kebebasan untuk pemasangan kabel dan pipa bawah laut di zona ekonomi eksklusif.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18529411764705883,
+            "t": 0.7710714285714286,
+            "r": 0.90764,
+            "b": 0.8247727272727273
+          },
+          "page": 9
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "fe8450e6-f42c-4a92-8b71-abd38b412b2c"
+    },
+    {
+      "text": "Khusus yang berkaitan dengan pemanfaatan sumber daya alam hayati di Zona Ekonomi Eksklusif Indonesia, maka sesuai dengan Konvensi Perserikatan Bangsa Bangsa tentang Hukum Laut negara lain dapat ikut serta memanfaatkan sumber daya alam hayati, sepanjang Indonesia belum sepenuhnya memanfaatkan seluruh sumber daya alam hayati tersebut.\nDi samping …",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18529411764705883,
+            "t": 0.8472619047619048,
+            "r": 0.9076470588235295,
+            "b": 0.9314393939393939
+          },
+          "page": 9
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "682bf632-f194-42d4-b5fe-a775c589ae88"
+    },
+    {
+      "text": "figure",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4421514872631995,
+            "t": 0.040883995237804595,
+            "r": 0.6041256773705576,
+            "b": 0.16499242328462146
+          },
+          "page": 10
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "bce940b1-dc1f-4f08-a881-01a9d7d652e0"
+    },
+    {
+      "text": "Di samping pengumuman asas-asas dan dasar-dasar pokok kebijaksanaan di atas yang terutama ditunjukan kepada dunia luar, asas-asas dan dasar-dasar pokok kebijaksanaan tersebut perlu pula dituangkan dalam suatu undang-undang agar supaya terdapat dasar yang kokoh bagi pelaksanaan hak berdaulat, hak-hak lain, yurisdiksi dan kewajiban-kewajiban dalam zona ekonomi eksklusif dan dengan demikian tercapai pula kepastian hukum.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18529411764705883,
+            "t": 0.1767857142857142,
+            "r": 0.9076439215686274,
+            "b": 0.2609632034632035
+          },
+          "page": 10
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "bfd79660-e13d-42b5-a240-3f76387e654e"
+    },
+    {
+      "text": "Berhubung dengan itu disusunlah Undang-undang tentang Zona Ekonomi Eksklusif Indonesia yang menetapkan hak berdaulat, hak-hak lain, yurisdiksi dan kewajiban-kewajiban Republik Indonesia dalam zona ekonomi eksklusif.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18529411764705883,
+            "t": 0.28345238095238096,
+            "r": 0.9076307450980398,
+            "b": 0.32191558441558443
+          },
+          "page": 10
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "8e2d530a-2235-4eac-b58b-13a8d200a12b"
+    },
+    {
+      "text": "Undang-undang ini menetapkan ketentuan-ketentuan pokok saja sedangkan pelaksanaan lebih lanjut dari ketentuan undang-undang ini akan diatur dalam peraturan perundang-undangan lainnya.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18529411764705883,
+            "t": 0.3444047619047619,
+            "r": 0.9078149803921572,
+            "b": 0.3828679653679654
+          },
+          "page": 10
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "e76a0903-602d-4bfc-b2bb-a7f64529de6c"
+    },
+    {
+      "text": "II. PASAL DEMI PASAL",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.13901960784313724,
+            "t": 0.40535714285714286,
+            "r": 0.3841136470588237,
+            "b": 0.41334415584415596
+          },
+          "page": 10
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "fe6b6f71-01f0-4cdb-9353-585726d46349"
+    },
+    {
+      "text": "Pasal 1\nYang dimaksud dengan istilah sumber daya alam hayati dalam undangundang ini adalah sama artinya dengan istilah sumber daya perikanan dalam ketentuan peraturan perundang-undangan perikanan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18529411764705883,
+            "t": 0.4358333333333333,
+            "r": 0.9077790588235302,
+            "b": 0.4895346320346321
+          },
+          "page": 10
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "9427d709-dca1-4969-a241-545d4a5713d3"
+    },
+    {
+      "text": "Pasal 2\nPasal ini menegaskan dan mengukuhkan definisi geografis Zona Ekonomi Eksklusif Indonesia yang tercantum dalam Pengumuman Pemerintah Republik Indonesia tentang Zona Ekonomi Eksklusif Indonesia tertanggal 21 Maret 1980.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18529411764705883,
+            "t": 0.5120238095238095,
+            "r": 0.9076429803921572,
+            "b": 0.5809632034632035
+          },
+          "page": 10
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "4058e986-1a9b-41d6-8e19-518c720b796d"
+    },
+    {
+      "text": "Pasal 3\nAyat (1) Cukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18529411764705883,
+            "t": 0.603452380952381,
+            "r": 0.37234023529411764,
+            "b": 0.6419155844155844
+          },
+          "page": 10
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "7066f657-1c2b-4e05-b775-632573c29dbe"
+    },
+    {
+      "text": "Ayat (2)\nPasal ini memberikan ketentuan bahwa prinsip sama jarak digunakan untuk menetapkan batas zona ekonomi eksklusif antara Indonesia dengan negara tetangga, kecuali jika terdapat keadaan-keadaan khusus yang perlu dipertimbangkan sehingga tidak merugikan kepentingan nasional.\nKeadaan khusus tersebut adalah misalnya terdapatnya suatu pulau dari negara lain yang terletak dalam jarak kurang dari 200(dua ratus) mil laut dari garis pangkal untuk menetapkan lebarnya Zona Ekonomi Eksklusif Indonesia.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.23176470588235296,
+            "t": 0.6644047619047619,
+            "r": 0.9076358431372552,
+            "b": 0.7942965367965368
+          },
+          "page": 10
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "6ddad031-ad9b-40f6-abf7-0b6a2762c7bf"
+    },
+    {
+      "text": "Pasal 4\nAyat (1)\nHak berdaulat Indonesia yang dimaksud oleh undang-undang ini tidak sama atau tidak dapat disamakan dengan kedaulatan penuh yang dimiliki dan dilaksanakan oleh Indonesia atas laut wilayah, perairan Nusantara dan",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18529411764705883,
+            "t": 0.8167857142857143,
+            "r": 0.907637803921569,
+            "b": 0.8857251082251082
+          },
+          "page": 10
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "4a197d73-b4da-42dc-b1ce-f7c557b4ea45"
+    },
+    {
+      "text": "perairam …",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.806078431372549,
+            "t": 0.923452380952381,
+            "r": 0.9076470588235295,
+            "b": 0.9314393939393939
+          },
+          "page": 10
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "ae2735b8-aca4-4f3b-833f-e612fb837f8a"
+    },
+    {
+      "text": "figure",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4420686609604779,
+            "t": 0.04089618864513579,
+            "r": 0.6041525049147263,
+            "b": 0.16494186340816439
+          },
+          "page": 11
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "8cbfda09-7da1-496e-b2f8-cd7fb8c32471"
+    },
+    {
+      "text": "perairan pedalaman Indonesia. Berdasarkan hal tersebut diatas maka sanksi-sanksi yang diancam di Zona Ekonomi Eksklusif Indonesia berbeda dengan sanksi-sanksi yang diancam di perairan yang berada dibawah kedaulatan Republik Indonesia tersebut.\nHak-hak lain berdasarkan hukum internasional adalah hak Republik Indonesia untuk melaksanakan penegakan hukum dan hot pursuit terhadap kapal-kapal asing yang melakukan pelanggaran atas ketentuan-ketentuan peraturan perundang-undangan Indonesia mengenai zona ekonomi eksklusif. Kewajiban lainnya berdasarkan hukum internasional adalah kewajiban Republik Indonesia untuk menghormati hak-hak negara lain, misalnya kebebasan pelayaran dan penerbangan (freedom of navigation and overflight)dan kebebasan pemasangan kabel-kabel dan pipa-pipa bawah laut (freedom of the laying of submarine cables and pipelines).",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2664705882352941,
+            "t": 0.1767857142857142,
+            "r": 0.9076423529411765,
+            "b": 0.3676298701298702
+          },
+          "page": 11
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "98cb11a7-027f-466e-8708-ed62fc5d5bb0"
+    },
+    {
+      "text": "Ayat (2)\nAyat ini menentukan, bahwa sepanjang menyangkut sumber daya alam hayati dan non hayati di dasar laut dan tanah di bawahnya yang terletak di dalam batas-batas Zona Ekonomi Eksklusif Indonesia hak berdaulat Indonesia dilaksanakan dan diatur berdasarkan peraturan perundangundangan Indonesia yang berlaku di bidang landas kontinen serta persetujuanpersetujuan internasional tentang landas kontinen yang menentukan batas-batas landas kontinen antara Indonesia dengan negaranegara tetangga yang pantainya saling berhadapan atau saling berdampingan dengan Indonesia.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.23176470588235296,
+            "t": 0.39011904761904764,
+            "r": 0.9077872941176475,
+            "b": 0.5352489177489177
+          },
+          "page": 11
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "2c7d2cbc-41ec-4a3f-becc-06ebabf00c2a"
+    },
+    {
+      "text": "Ayat (3)\nSesuai dengan prinsip-prinsip hukum internasional yang berlaku seperti yang tumbuh dari praktek negara dan dituangkan dalam Konvensi Perserikatan Bangsa Bangsa tentang Hukum Laut yang dihasilkan oleh Konperensi Perserikatan Bangsa Bangsa tentang Hukum Laut Ketiga di zona ekonomi eksklusif setiap negara, baik negara pantai maupun negara tak berpantai, menikmati kebebasan pelayaran dan penerbangan internasional serta kebebasan pemasangan kabel dan pipa bawah laut, serta penggunaan laut yang bertalian dengan kebebasan-kebebasan tersebut seperti pengoperasian kapal-kapal, pesawat udara dan pemeliharaan kabel dan pipa bawah laut.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.23176470588235296,
+            "t": 0.5577380952380953,
+            "r": 0.9076245490196079,
+            "b": 0.7181060606060605
+          },
+          "page": 11
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "56c3965a-5e14-465e-b09c-febb898b97da"
+    },
+    {
+      "text": "Pasal 5\nAyat (1)\nKegiatan untuk eksplorasi dan/atau eksploitasi sumber daya alam atau kegiatan-kegiatan lainnya untuk eksplorasi dan/atau eksploitasi ekonomis seperti pembangkitan tenaga dari air, arus dan angin di Zona Ekonomi Eksklusif Indonesia yang dilakukan oleh warga negara Indonesia atau badan hukum Indonesia harus berdasarkan izin dari Pemerintah Republik Indonesia.\nSedangkan kegiatan-kegiatan tersebut di atas yang dilakukan oleh negara asing, orang atau badan hukum asing harus berdasarkan persetujuan internasional antara Pemerintah Republik Indonesia dengan negara asing yang bersangkutan.\nDalam …",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18529411764705883,
+            "t": 0.7405952380952381,
+            "r": 0.9076470588235295,
+            "b": 0.9314393939393939
+          },
+          "page": 11
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "62ec4b7f-ec56-4e40-b119-213d0bd1cb1d"
+    },
+    {
+      "text": "figure",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4590246163162531,
+            "t": 0.040324642544700987,
+            "r": 0.5855536367378983,
+            "b": 0.11705450784592401
+          },
+          "page": 12
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "4ae18a19-f3a6-4e5d-b60c-40fa914f26fa"
+    },
+    {
+      "text": "PRESIDEN REPUBLIK INDONESIA - 4 -\nDalam syarat-syarat perjanjian atau persetujuan internasional dicantumkan hak-hak dan kewajiban-kewajiban yang harus dipatuhi oleh mereka yang melakukan kegiatan eksplorasi dan eksploitasi di zona tersebut, antara lain kewajiban untuk membayar pungutan kepada Pemerintah Republik Indonesia.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2664705882352941,
+            "t": 0.13672619047619042,
+            "r": 0.9076266666666669,
+            "b": 0.2457251082251083
+          },
+          "page": 12
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "2ca269de-63a5-48d5-bd95-ec0635d2c299"
+    },
+    {
+      "text": "Ayat (2)\nSumber daya alam hayati pada dasarnya memiliki daya pulih kembali, namun tidak berarti tak terbatas.\nDengan adanya sifat-sifat yang demikian, maka dalam melaksanakan pengelolaan dan konservasi sumber daya alam hayati, Pemerintah Republik Indonesia menetapkan tingkat pemanfaatan baik di sebagian atau keseluruhan daerah di Zona Ekonomi Eksklusif Indonesia.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.23176470588235296,
+            "t": 0.26821428571428574,
+            "r": 0.9076155294117646,
+            "b": 0.3676298701298702
+          },
+          "page": 12
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "7b430ccd-e9cb-466b-9f78-1dc1d0135ca5"
+    },
+    {
+      "text": "Ayat (3)\nDalam rangka konservasi sumber daya alam hayati, Indonesia berkewajban untuk menjamin batas panen lestari (Maximum sustainable yield) sumber daya alam hayatinya di Zona Ekonomi Eksklusif Indonesia.\nDengan memperhatikan batas panen lestari tersebut, Indonesia berkewajiban pula menetapkan jumlah tangkapan sumber daya alam hayati yang diperbolehkan (allowable catch).\nDalam hal usaha perikanan Indonesia belum dapat sepenuhnya memanfaatkan seluruh jumlah tangkapan yang diperbolehkan tersebut, maka selisih antara jumlah tangkapan yang diperbolehkan dan jumlah kemampuan tangkap (capacity to harvest)\nIndonesia, boleh dimanfaatkan oleh negara lain dengan izin Pemerintah Republik Indonesia berdasarkan persetujuan internasional. Misalnya jumlah tangkapan yang diperbolehkan ada 1.000 (seribu) ton sedangkan jumlah kemampuan tangkap Indonesia baru mencapai 600 (enam ratus) ton maka negara lain boleh ikut memanfaatkan dari sisa 400 (empat ratus) ton tersebut dengan izin Pemerintah Republik Indonesia berdasarkan persetujuan internasional.\nPenunjukan pada Pasal 4 ayat (2) dimaksudkan untuk menegaskan bahwa jenis-jenis sedenter (sedentary species) yang terdapat pada dasar laut zona ekonomi eksklusif tunduk pada rezim landas kontinen(Pasal 1 huruf b Undang-undang Nomor 1 Tahun 1973 tentang Landas Kontinen Indonesia). Oleh karena itu tidak tunduk pada ketentuan ayat ini.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.23176470588235296,
+            "t": 0.39011904761904764,
+            "r": 0.9076403137254904,
+            "b": 0.7333441558441559
+          },
+          "page": 12
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "dc845e6a-b3ed-4ce9-98e2-d3ad09c35aab"
+    },
+    {
+      "text": "Pasal 6\nSesuai dengan Pasal 4 ayat (1), Republik Indonesia mempunyai hak eksklusif untuk membangun, mengizinkan dan mengatur pembangunan, pengoperasian dan penggunaan pulau-pulau buatan, instalasi-instalasi dan bangunan-bangunan lainnya.\nDi samping itu Indonesia mempunyai yurisdiksi eksklusif atas pulau-pulau buatan, instalasi-instalasi dan bangunan-bangunan tersebut termasuk yurisdiksi yang berkaitan dengan pelaksanaan peraturan perundang-undangan di bidang bea cukai, fiskal, kesehatan, keselamatan dan imigrasi.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18529411764705883,
+            "t": 0.7558333333333334,
+            "r": 0.9076423529411765,
+            "b": 0.8857251082251082
+          },
+          "page": 12
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "d32c82fe-84ef-4f8e-a7da-d1d31c582c61"
+    },
+    {
+      "text": "Meskipun …",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7964705882352942,
+            "t": 0.923452380952381,
+            "r": 0.9076470588235295,
+            "b": 0.9314393939393939
+          },
+          "page": 12
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "43a9d829-976c-4f01-b4c3-a86dca8392a7"
+    },
+    {
+      "text": "figure",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4591458887835733,
+            "t": 0.04046027622525654,
+            "r": 0.5853094961128983,
+            "b": 0.11695593879336402
+          },
+          "page": 13
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "c3bf2387-a095-4c58-9cd1-51b9ded19203"
+    },
+    {
+      "text": "PRESIDEN REPUBLIK INDONESIA - 5 -\nMeskipun Indonesia mempunyai yurisdiksi eksklusif tetapi pulau-pulau buatan, instalasi dan bangunan-bangunan tersebut tidak memiliki status sebagai pulau dalam arti wilayah negara dan oleh karena itu tidak memiliki laut teritorial sendiri dan kehadirannya tidaklah mempengaruhi batas laut teritorial, Zona Ekonomi Eksklusif Indonesia atau Landas Kontinen Indonesia.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.23176470588235296,
+            "t": 0.13672619047619042,
+            "r": 0.9076300392156865,
+            "b": 0.2457251082251083
+          },
+          "page": 13
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "90511444-2a1b-4882-8d60-5d091d9ba6d8"
+    },
+    {
+      "text": "Pasal 7\nSetiap penelitian ilmiah kelautan di Zona Ekonomi Eksklusif Indonesia hanya dapat dilaksanakan setelah permohonan untuk penelitian disetujui terlebih dahulu oleh Pemerintah Republik Indonesia. Apabila dalam jangka waktu 4 (empat) bulan setelah diterimanya permohonan tersebut Pemerintah Republik Indonesia tidak menyatakan\nmenolak permohonan tersebut, atau\nbahwa keterangan-keterangan yang diberikan oleh pemohon tidak sesuai dengan kenyataan atau kurang lengkap, atau\nbahwa pemohon belum memenuhi kewajiban atas proyek penelitiannya yang terdahulu.\nmaka suatu proyek penelitian ilmiah kelautan dapat dilaksanakan 6 (enam) bulan sejak diterimanya permohonan penelitian oleh Pemerintah Republik Indonesia.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18529411764705883,
+            "t": 0.26821428571428574,
+            "r": 0.9076392941176473,
+            "b": 0.4742965367965368
+          },
+          "page": 13
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "48b1be66-e0ba-4624-ad46-242c6191f813"
+    },
+    {
+      "text": "Pasal 8\nAyat (1)\nWewenang perlindungan dan pelestarian sumber daya alam di Zona Ekonomi Eksklusif Indonesia secara internasional didasarkan pada praktek negara, yang sekarang telah diterima pula dalam Konvensi Perserikatan Bangsa Bangsa tentang Hukum Laut, sedangkan secara nasional landasannya terdapat dalam Undang-undang Nomor 4 Tahun 1982 tentang Ketentuan-ketentuan Pokok Pengelolaan Lingkungan Hidup.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18529411764705883,
+            "t": 0.4967857142857143,
+            "r": 0.9076199215686275,
+            "b": 0.6114393939393938
+          },
+          "page": 13
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "4c9e2328-fab6-4a56-80fe-6d1257438826"
+    },
+    {
+      "text": "Ayat (2)\nPembuangan (\"dumping\") dilaut dapat menimbulkan pencemaran lingkungan laut; berhubung dengan itu perlu diatur tempat, cara dan frekuensi pembuangan serta jenis, kadar dan jumlah bahan yang dibuang melalui perizinan.\nPembuangan meliputi pembuangan limbah dan pembuangan bahan-bahan lainnya yang menyebabkan pencemaran lingkungan laut; pembuangan limbah yang biasanya dilakukan oleh kapal selama pelayaran tidak memerlukan izin.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.23176470588235296,
+            "t": 0.6339285714285714,
+            "r": 0.9076423529411765,
+            "b": 0.7638203463203463
+          },
+          "page": 13
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "e86b6ed4-1c43-4d85-aeb9-6f638d991ef1"
+    },
+    {
+      "text": "Pasal 9\nCukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18529411764705883,
+            "t": 0.7863095238095238,
+            "r": 0.33763435294117644,
+            "b": 0.809534632034632
+          },
+          "page": 13
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "574ec4a1-c36c-48b2-afb8-fe819097be93"
+    },
+    {
+      "text": "Pasal 10\nCukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18529411764705883,
+            "t": 0.8320238095238096,
+            "r": 0.33763435294117644,
+            "b": 0.8552489177489178
+          },
+          "page": 13
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "a6bfe97c-b2e1-4c7d-9dc6-65e136073a48"
+    },
+    {
+      "text": "Pasal 11 …",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.81,
+            "t": 0.923452380952381,
+            "r": 0.9076470588235295,
+            "b": 0.9314393939393939
+          },
+          "page": 13
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "9e90e063-a6b6-4472-9c12-71d9412d6417"
+    },
+    {
+      "text": "figure",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4418155445772059,
+            "t": 0.04115091051374163,
+            "r": 0.6039298562442555,
+            "b": 0.1644661615765284
+          },
+          "page": 14
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "fb165eab-334d-493e-a4d7-2d4d9ecdd7bb"
+    },
+    {
+      "text": "Pasal 11\nAyat (1)\nKewajiban untuk memikul tanggung jawab mutlak dan membayar ganti rugi bagi rehabilitasi lingkungan laut dan/atau sumber daya alam dalam jumlah yang memadai ini merupakan konsekuensi dari kewajiban untuk melestarikan keserasian dan keseimbangan lingkungan.\nKarena itu kewajiban ini melekat pada barang siapa yang melakukan perbuatan, tidak melakukan perbuatan/membiarkan terjadinya pencemaran lingkungan laut dan/atau kerusakan sumber daya alam.\n\"Tanggung jawab mutlak\" (\"strict liability\") berarti bahwa tanggung jawab tersebut timbul pada saat terjadinya pencemaran lingkungan laut dan/atau perusakan sumber daya alam, tidak dapat dielakkan dan secara prosedural tidak diperlukan upaya pembuktian lagi.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18529411764705883,
+            "t": 0.1767857142857142,
+            "r": 0.9077809411764712,
+            "b": 0.3676298701298702
+          },
+          "page": 14
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "79436c3d-1f21-4d4a-b354-b22e5a888507"
+    },
+    {
+      "text": "Ayat (2)\nCukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.23176470588235296,
+            "t": 0.39011904761904764,
+            "r": 0.37234023529411764,
+            "b": 0.41334415584415596
+          },
+          "page": 14
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "85ad3dd7-3c36-476b-bd73-fd2270987b73"
+    },
+    {
+      "text": "Ayat (3)\nBentuk, jenis dan besarnya kerugian yang timbul dari pencemaran lingkungan laut dan/atau kerusakan sumber daya alam yang terjadi akan menentukan besarnya kerugian. Penelitian ekologis tentang bentuk, jenis dan besarnya kerugian tersebut dilakukan oleh sebuah tim yang terdiri dari pihak pemerintah, pihak penderita dan pihak pencemar.\nTim dimaksud akan dibentuk secara khusus untuk tiap-tiap kasus.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.23176470588235296,
+            "t": 0.4358333333333333,
+            "r": 0.9076352941176471,
+            "b": 0.5352489177489177
+          },
+          "page": 14
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "6d7cd1b8-2352-472b-91a6-e2dcac7c75fd"
+    },
+    {
+      "text": "Pasal 12\nCukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18529411764705883,
+            "t": 0.5577380952380953,
+            "r": 0.33763435294117644,
+            "b": 0.5809632034632035
+          },
+          "page": 14
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "7fdc8c82-9d0e-4004-b2d9-9273bc426105"
+    },
+    {
+      "text": "Pasal 13\nTerhadap kapal-kapal dan/atau orang-orang yang diduga melakukan tindak pidana berdasarkan bukti permulaan yang cukup di laut khususnya bagi kapal dan/atau orang-orang yang berkebangsaan asing dapat dilakukan pemeriksaan lanjutan dengan jalan melakukan penangkapan atas kapal-kapal dan/atau orang-orang tersebut.\nTerhadap kapal-kapal dan/atau orang-orang yang berkebangsaan Indonesia dapat diperintahkan (perintah ad hoc) ke suatu pelabuhan atau pangkalan yang ditunjuk oleh penyidik di laut untuk diproses lebih lanjut.\nPenangkapan tersebut di atas tidak selalu dapat dilaksanakan sesuai dengan batas waktu penangkapan yang ditetapkan dalam Undang-undang Nomor 8 Tahun 1981 tentang Kitab Undang-undang Hukum Acara Pidana, yaitu satu hari.\nOleh karena itu untuk tindakan penangkapan dilaut perlu diberi jangka waktu yang memungkinkan para aparat penegak hukum di laut membawa kapal dan/atau orang-orang tersebut ke pelabuhan atau pangkalan.\nJangka waktu maksimum tujuh hari dianggap sebagai jangka waktu maksimal untuk menarik/menyeret suatu kapal dari jarak yang terjauh di Zona Ekonomi Eksklusif Indonesia sampai ke suatu pelabuhan atau pangkalan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18529411764705883,
+            "t": 0.603452380952381,
+            "r": 0.9076429019607847,
+            "b": 0.8857251082251082
+          },
+          "page": 14
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "7db1d7c2-5d27-43ff-9d37-d3bb6639f71d"
+    },
+    {
+      "text": "Ketentuan …",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7941176470588235,
+            "t": 0.923452380952381,
+            "r": 0.9076470588235295,
+            "b": 0.9314393939393939
+          },
+          "page": 14
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "3c66ae9b-3caa-4c86-a936-0bdd5fc6a349"
+    },
+    {
+      "text": "figure",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4421391206629136,
+            "t": 0.0407830382150317,
+            "r": 0.6037635553896038,
+            "b": 0.1649631621345641
+          },
+          "page": 15
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "4d84b202-c10f-43f0-8926-f4b0fde7a60a"
+    },
+    {
+      "text": "Ketentuan mengenai penahanan terhadap tindak pidana menurut undangundang ini belum diatur dalam Undang-undang Nomor 8 Tahun 1981, sedang terhadap tindak pidana tersebut penahanan adalah merupakan satu upaya untuk dapat memproses perkaranya lebih lanjut.\nBerhubung dengan hal tersebut, sekalipun ancaman pidana yang dapat dijatuhkan adalah pidana denda tetapi dengan dikualifikasi sebagai kejahatan, maka tindak pidana tersebut perlu dimasukkan dalam golongan tindak pidana sebagaimana dimaksud Pasal 21 ayat(4)huruf b Undang-undang Nomor 8 Tahun 1981 tentang Kitab Undang-undang Hukum Acara Pidana.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.23176470588235296,
+            "t": 0.1767857142857142,
+            "r": 0.90764,
+            "b": 0.30667748917748916
+          },
+          "page": 15
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "f99d5c6c-286c-4f0c-8964-cb82ceae8fd8"
+    },
+    {
+      "text": "Pasal 14\nAyat (1)\nYang dimaksud dengan Perwira Tentara Nasional Indonesia Angkatan Laut yang dapat ditunjuk sebagai penyidik adalah misalnya Komandan kapal, Panglima Daerah Angkatan Laut, Komandan Pangkalan dan Komandan Stasion Angkatan Laut. Penetapan Perwira Tentara Nasional Indonesia Angkatan Laut sebagai aparat penyidik di Zona Ekonomi Eksklusif Indonesia adalah sesuai dengan ketentuan Pasal 30 ayat(2) UndangUndang Nomor 20 Tahun 1982 tentang Ketentuan-ketentuan Pokok Pertahanan Keamanan Negara Republik Indonesia dan Pasal 17 Peraturan Pemerintah Nomor 27 Tahun 1983 tentang Pelaksanaan Undang-undang Nomor 8 Tahun 1981 tentang Kitab Undang-undang Hukum Acara Pidana.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18529411764705883,
+            "t": 0.3291666666666666,
+            "r": 0.9076494117647061,
+            "b": 0.5047727272727273
+          },
+          "page": 15
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "947443c6-0af3-45fe-a6c2-db0c1a5781ba"
+    },
+    {
+      "text": "Ayat (2) Ayat (3) Pasal 15 Ayat (1)\nCukup jelas. Cukup jelas.\n\nPermohonan untuk membebaskan kapal dan/atau orang-orang tersebut yang ditangkap karena diduga melakukan pelanggaran, sesuai dengan praktek yang berlaku, dapat diajukan oleh perwakilan negara dari kapal asing yang bersangkutan, pemilik, nahkoda atau siapa saja menurut buktibukti yang sah mempunyai hubungan kerja atau hubungan usaha dengan kapal tersebut.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18529411764705883,
+            "t": 0.5272619047619048,
+            "r": 0.90764,
+            "b": 0.7333441558441559
+          },
+          "page": 15
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "b17abee1-92a2-4e8b-a85f-2f106123c72b"
+    },
+    {
+      "text": "Ayat (2)\nPenetapan besarnya uang jaminan ditentukan berdasarkan harga kapal, alatalat perlengkapan dan hasil dari kegiatannya ditambah besarnya jumlah denda maximum.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.23176470588235296,
+            "t": 0.7558333333333334,
+            "r": 0.90764,
+            "b": 0.809534632034632
+          },
+          "page": 15
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "388b8ba8-23bb-4296-8499-9372b16aa4a4"
+    },
+    {
+      "text": "Pasal 16 Ayat (1) Cukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18529411764705883,
+            "t": 0.8320238095238096,
+            "r": 0.37234023529411764,
+            "b": 0.870487012987013
+          },
+          "page": 15
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "85565e21-f2bd-495f-87e3-48aa91412026"
+    },
+    {
+      "text": "Ayat (2) …",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.8105882352941176,
+            "t": 0.923452380952381,
+            "r": 0.9076470588235295,
+            "b": 0.9314393939393939
+          },
+          "page": 15
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "c5fc686e-b50d-4c80-926c-94bf90789b82"
+    },
+    {
+      "text": "figure",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4588831483928207,
+            "t": 0.0396063592698839,
+            "r": 0.5861494774911918,
+            "b": 0.11784197035289946
+          },
+          "page": 16
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "96d41f3f-2be0-4aec-b05e-89cd00e43f59"
+    },
+    {
+      "text": "PRESIDEN REPUBLIK INDONESIA - 8 -\nAyat (2) Cukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.23176470588235296,
+            "t": 0.13672619047619042,
+            "r": 0.6037943333333337,
+            "b": 0.20001082251082253
+          },
+          "page": 16
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "b16004d0-7d67-4b29-977b-73fae6f14f67"
+    },
+    {
+      "text": "Ayat (3) Cukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.23176470588235296,
+            "t": 0.22249999999999998,
+            "r": 0.37234023529411764,
+            "b": 0.2457251082251083
+          },
+          "page": 16
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "766149e2-096e-4d28-be89-4235b37a8bc3"
+    },
+    {
+      "text": "Pasal 17 Cukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18529411764705883,
+            "t": 0.26821428571428574,
+            "r": 0.33763435294117644,
+            "b": 0.29143939393939405
+          },
+          "page": 16
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "f85ed077-8d5c-43bf-a1f9-d98b8c46bf62"
+    },
+    {
+      "text": "Pasal 18 Cukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18529411764705883,
+            "t": 0.3139285714285714,
+            "r": 0.33763435294117644,
+            "b": 0.33715367965367965
+          },
+          "page": 16
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "5d551207-8011-4b5f-9244-0a2510ba8512"
+    },
+    {
+      "text": "Pasal 19 Cukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18529411764705883,
+            "t": 0.3596428571428571,
+            "r": 0.33763435294117644,
+            "b": 0.3828679653679654
+          },
+          "page": 16
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "3c663834-8c7e-4a25-b73e-e19fa4843e17"
+    },
+    {
+      "text": "Pasal 20 Cukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18529411764705883,
+            "t": 0.40535714285714286,
+            "r": 0.33763435294117644,
+            "b": 0.4285822510822512
+          },
+          "page": 16
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "06c07e9d-41c6-4d35-a193-40e29c7c8eb7"
+    },
+    {
+      "text": "Pasal 21 Cukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18529411764705883,
+            "t": 0.4510714285714285,
+            "r": 0.33763435294117644,
+            "b": 0.4742965367965368
+          },
+          "page": 16
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "3ca2f27c-675d-4196-b289-6b9f69570cde"
+    },
+    {
+      "text": "TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1983 NOMOR 3260",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.24803921568627452,
+            "t": 0.4967857142857143,
+            "r": 0.8174147450980396,
+            "b": 0.5200108225108225
+          },
+          "page": 16
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "a3896972-6167-4546-8970-6ab2769b9b7f"
+    }
+  ]
+}

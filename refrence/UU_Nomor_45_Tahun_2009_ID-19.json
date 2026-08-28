@@ -1,0 +1,4532 @@
+{
+  "chunks": [
+    {
+      "text": "UNDANG-UNDANG REPUBLIK INDONESIA\n\nNOMOR   45   TAHUN   2009\n\nTENTANG\n\nPERUBAHAN ATAS UNDANG-UNDANG NOMOR 31 TAHUN 2004\n\nTENTANG  PERIKANAN\n\nDENGAN RAHMAT TUHAN YANG MAHA ESA",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18058064579963684,
+            "t": 0.2112073004245758,
+            "r": 0.8190970420837402,
+            "b": 0.3843781054019928
+          },
+          "page": 0
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "ddece193-7776-4e50-8065-7c3297009c92"
+    },
+    {
+      "text": "PRESIDEN REPUBLIK INDONESIA,\n\nMenimbang    :    a.    bahwa perairan yang berada dalam kedaulatan Negara Kesatuan Republik Indonesia dan Zona Ekonomi Eksklusif Indonesia serta laut lepas mengandung sumber daya ikan yang potensial dan sebagai lahan pembudidayaan ikan merupakan berkah dari Tuhan Yang Maha Esa yang diamanatkan kepada bangsa Indonesia yang memiliki falsafah hidup Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, dengan memperhatikan daya dukung yang ada dan kelestariannya untuk dimanfaatkan sebesar-besarnya bagi kesejahteraan dan kemakmuran rakyat Indonesia;\n        b.    bahwa pemanfaatan sumber daya ikan belum memberikan peningkatan taraf hidup yang berkelanjutan dan berkeadilan melalui pengelolaan perikanan, pengawasan, dan sistem penegakan hukum yang optimal;\n        c.    bahwa Undang-Undang Nomor 31 Tahun 2004 tentang Perikanan belum sepenuhnya mampu mengantisipasi perkembangan teknologi dan kebutuhan hukum dalam rangka pengelolaan dan pemanfaatan potensi sumber daya ikan;\n        d.    bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c perlu membentuk Undang-Undang tentang Perubahan atas Undang-Undang Nomor 31 Tahun 2004 tentang Perikanan;",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.10706645250320435,
+            "t": 0.4078851044178009,
+            "r": 0.8948071599006653,
+            "b": 0.8492108583450317
+          },
+          "page": 0
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "2bd1afb2-aefc-49b7-9c7a-4e4dc459698a"
+    },
+    {
+      "text": "Mengingat: . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7194026112556458,
+            "t": 0.8664799928665161,
+            "r": 0.8740220665931702,
+            "b": 0.8856233358383179
+          },
+          "page": 0
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "66adce6b-3b39-4505-a89d-67e2c197fc7d"
+    },
+    {
+      "text": "$-2-$",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4675564169883728,
+            "t": 0.17212046682834625,
+            "r": 0.5283640027046204,
+            "b": 0.19391046464443207
+          },
+          "page": 1
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "11fbd53d-8184-49e5-b44e-84cd92893ff0"
+    },
+    {
+      "text": "Mengingat     :  Pasal 20, Pasal 21, dan Pasal 33 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1069025993347168,
+            "t": 0.2107563614845276,
+            "r": 0.8594937324523926,
+            "b": 0.25006604194641113
+          },
+          "page": 1
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "23a2020b-68a9-489b-99fa-134c10356ea8"
+    },
+    {
+      "text": "Dengan Persetujuan Bersama\nDEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA\ndan\nPRESIDEN REPUBLIK INDONESIA",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.22446858882904053,
+            "t": 0.2685764729976654,
+            "r": 0.7775001525878906,
+            "b": 0.35270312428474426
+          },
+          "page": 1
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "904abdbb-2748-47c1-9cb6-93a6b772b462"
+    },
+    {
+      "text": "M E M U T U S K A N:",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.3870183527469635,
+            "t": 0.3737993836402893,
+            "r": 0.6137139201164246,
+            "b": 0.39488697052001953
+          },
+          "page": 1
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "b3ab99e7-361a-4a86-ae79-d31dcfd4bd3f"
+    },
+    {
+      "text": "Menetapkan    :  UNDANG-UNDANG  TENTANG  PERUBAHAN  ATAS  UNDANG-UNDANG NOMOR 31 TAHUN 2004 TENTANG PERIKANAN.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1061297059059143,
+            "t": 0.4014870524406433,
+            "r": 0.8938804268836975,
+            "b": 0.4385928511619568
+          },
+          "page": 1
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "30b956fc-6b9a-4489-a17e-4c8cbbf154d8"
+    },
+    {
+      "text": "PASAL I",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.45431044697761536,
+            "t": 0.4489761292934418,
+            "r": 0.5497126579284668,
+            "b": 0.46939101815223694
+          },
+          "page": 1
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "1d88ac59-6d7a-4677-816c-cdb24407a8e2"
+    },
+    {
+      "text": "Beberapa ketentuan dalam Undang-Undang Nomor 31 Tahun 2004 tentang Perikanan (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 118, Tambahan Lembaran Negara Republik Indonesia Nomor 4433) diubah sebagai berikut:",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.28420665860176086,
+            "t": 0.47783222794532776,
+            "r": 0.8942863941192627,
+            "b": 0.5532016158103943
+          },
+          "page": 1
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "34618695-95a1-4326-b7e4-fc043f0c01e9"
+    },
+    {
+      "text": "1. Ketentuan Pasal 1 angka 11 dan angka 24 diubah, sehingga Pasal 1 berbunyi sebagai berikut:\n\n   Pasal 1\n\n   Dalam Undang-Undang ini yang dimaksud dengan:\n\n   1. Perikanan adalah semua kegiatan yang berhubungan dengan pengelolaan dan pemanfaatan sumber daya ikan dan lingkungannya mulai dari praproduksi, produksi, pengolahan sampai dengan pemasaran yang dilaksanakan dalam suatu sistem bisnis perikanan.\n   2. Sumber daya ikan adalah potensi semua jenis ikan.\n   3. Lingkungan sumber daya ikan adalah perairan tempat kehidupan sumber daya ikan, termasuk biota dan faktor alamiah sekitarnya.\n   4. Ikan adalah segala jenis organisme yang seluruh atau sebagian dari siklus hidupnya berada di dalam lingkungan perairan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.28638219833374023,
+            "t": 0.5619711875915527,
+            "r": 0.8981337547302246,
+            "b": 0.8521466255187988
+          },
+          "page": 1
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "c4d962ad-9c20-4684-af21-34a8892aefa4"
+    },
+    {
+      "text": "5. Penangkapan . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.6826797723770142,
+            "t": 0.8697062134742737,
+            "r": 0.8900744915008545,
+            "b": 0.8926863074302673
+          },
+          "page": 1
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "8cc3acab-286e-4432-af7f-63517e5cbb64"
+    },
+    {
+      "text": "$-3-$",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4701733887195587,
+            "t": 0.1724645495414734,
+            "r": 0.5250611901283264,
+            "b": 0.19154560565948486
+          },
+          "page": 2
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "f79ec410-a541-49c2-85cf-753875997676"
+    },
+    {
+      "text": "5. Penangkapan ikan adalah kegiatan untuk memperoleh ikan di perairan yang tidak dalam keadaan dibudidayakan dengan alat atau cara apa pun, termasuk kegiatan yang menggunakan kapal untuk memuat, mengangkut, menyimpan, mendinginkan, menangani, mengolah, dan/atau mengawetkannya.\n6. Pembudidayaan ikan adalah kegiatan untuk memelihara, membesarkan, dan/atau membiakkan ikan serta memanen hasilnya dalam lingkungan yang terkontrol, termasuk kegiatan yang menggunakan kapal untuk memuat, mengangkut, menyimpan, mendinginkan, menangani, mengolah, dan/atau mengawetkannya.\n7. Pengelolaan perikanan adalah semua upaya, termasuk proses yang terintegrasi dalam pengumpulan informasi, analisis, perencanaan, konsultasi, pembuatan keputusan, alokasi sumber daya ikan, dan implementasi serta penegakan hukum dari peraturan perundang-undangan di bidang perikanan, yang dilakukan oleh pemerintah atau otoritas lain yang diarahkan untuk mencapai kelangsungan produktivitas sumber daya hayati perairan dan tujuan yang telah disepakati.\n8. Konservasi Sumber Daya Ikan adalah upaya perlindungan, pelestarian, dan pemanfaatan sumber daya ikan, termasuk ekosistem, jenis, dan genetik untuk menjamin keberadaan, ketersediaan, dan kesinambungannya dengan tetap memelihara dan meningkatkan kualitas nilai dan keanekaragaman sumber daya ikan.\n9. Kapal Perikanan adalah kapal, perahu, atau alat apung lain yang digunakan untuk melakukan penangkapan ikan, mendukung operasi penangkapan ikan, pembudidayaan ikan, pengangkutan ikan, pengolahan ikan, pelatihan perikanan, dan penelitian/eksplorasi perikanan.\n10. Nelayan adalah orang yang mata pencahariannya melakukan penangkapan ikan.\n11. Nelayan Kecil adalah orang yang mata pencahariannya melakukan penangkapan ikan untuk memenuhi kebutuhan hidup sehari-hari yang menggunakan kapal perikanan berukuran paling besar 5 (lima) gross ton (GT).\n12. Pembudi Daya Ikan adalah orang yang mata pencahariannya melakukan pembudidayaan ikan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.3028497099876404,
+            "t": 0.19886144995689392,
+            "r": 0.8997907042503357,
+            "b": 0.8511378765106201
+          },
+          "page": 2
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "b42af4b7-c26e-4004-bacc-c844d04a4a9f"
+    },
+    {
+      "text": "13. Pembudi . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.718029797077179,
+            "t": 0.8570410013198853,
+            "r": 0.888909637928009,
+            "b": 0.8765596151351929
+          },
+          "page": 2
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "b4570f7b-06a3-4802-ab5b-bb9b4b5381db"
+    },
+    {
+      "text": "- 4 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.47181236743927,
+            "t": 0.17464624345302582,
+            "r": 0.5238697528839111,
+            "b": 0.1895199567079544
+          },
+          "page": 3
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "2d808751-f35c-4124-a3b1-964ec50529d2"
+    },
+    {
+      "text": "13. Pembudi Daya-Ikan Kecil adalah orang yang mata pencahariannya melakukan pembudidayaan ikan untuk memenuhi kebutuhan hidup sehari-hari.\n14. Setiap Orang adalah orang perseorangan atau korporasi.\n15. Korporasi adalah kumpulan orang dan/atau kekayaan yang terorganisasi baik merupakan badan hukum maupun bukan badan hukum.\n16. Surat Izin Usaha Perikanan, yang selanjutnya disebut SIUP, adalah izin tertulis yang harus dimiliki perusahaan perikanan untuk melakukan usaha perikanan dengan menggunakan sarana produksi yang tercantum dalam izin tersebut.\n17. Surat Izin Penangkapan Ikan, yang selanjutnya disebut SIPI, adalah izin tertulis yang harus dimiliki setiap kapal perikanan untuk melakukan penangkapan ikan yang merupakan bagian tidak terpisahkan dari SIUP.\n18. Surat Izin Kapal Pengangkut Ikan, yang selanjutnya disebut SIKPI, adalah izin tertulis yang harus dimiliki setiap kapal perikanan untuk melakukan pengangkutan ikan.\n19. Laut Teritorial Indonesia adalah jalur laut selebar 12 (dua belas) mil laut yang diukur dari garis pangkal kepulauan Indonesia.\n20. Perairan Indonesia adalah laut teritorial Indonesia beserta perairan kepulauan dan perairan pedalamannya.\n21. Zona Ekonomi Eksklusif Indonesia, yang selanjutnya disebut ZEEI, adalah jalur di luar dan berbatasan dengan laut teritorial Indonesia sebagaimana ditetapkan berdasarkan undang-undang yang berlaku tentang perairan Indonesia yang meliputi dasar laut, tanah di bawahnya, dan air di atasnya dengan batas terluar 200 (dua ratus) mil laut yang diukur dari garis pangkal laut teritorial Indonesia.\n22. Laut Lepas adalah bagian dari laut yang tidak termasuk dalam ZEEI, laut teritorial Indonesia, perairan kepulauan Indonesia, dan perairan pedalaman Indonesia.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.3108203709125519,
+            "t": 0.1984197497367859,
+            "r": 0.9009552001953125,
+            "b": 0.8358005881309509
+          },
+          "page": 3
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "406d6e28-cc83-402d-b830-eade3b45b2bc"
+    },
+    {
+      "text": "23. Pelabuhan . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.6841546297073364,
+            "t": 0.8438655138015747,
+            "r": 0.875878095626831,
+            "b": 0.8646961450576782
+          },
+          "page": 3
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "52dc9165-b396-4fc7-a7ab-e5f0d9806854"
+    },
+    {
+      "text": "- 5 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4695760905742645,
+            "t": 0.17280897498130798,
+            "r": 0.5264309048652649,
+            "b": 0.19158419966697693
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "f95bd65d-4edf-4ae4-9d8a-c423caa074b1"
+    },
+    {
+      "text": "23. Pelabuhan Perikanan adalah tempat yang terdiri atas daratan dan perairan di sekitarnya dengan batas-batas tertentu sebagai tempat kegiatan pemerintahan dan kegiatan sistem bisnis perikanan yang digunakan sebagai tempat kapal perikanan bersandar, berlabuh, dan/atau bongkar muat ikan yang dilengkapi dengan fasilitas keselamatan pelayaran dan kegiatan penunjang perikanan.\n\n24. Menteri adalah menteri yang membidangi urusan perikanan.\n\n25. Pemerintah adalah Pemerintah Pusat.\n\n26. Pemerintah Daerah adalah pemerintah provinsi dan/atau pemerintah kabupaten/kota.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.32646608352661133,
+            "t": 0.1987396478652954,
+            "r": 0.8967379331588745,
+            "b": 0.40686213970184326
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "c717eaf1-92d4-4b32-a3a0-c76746685ed4"
+    },
+    {
+      "text": "2. Ketentuan Pasal 2 diubah sehingga Pasal 2 berbunyi sebagai berikut:\n\n   Pasal 2\n\n   Pengelolaan perikanan dilakukan berdasarkan asas:\n   a. manfaat;\n   b. keadilan;\n   c. kebersamaan;\n   d. kemitraan;\n   e. kemandirian;\n   f. pemerataan;\n   g. keterpaduan;\n   h. keterbukaan;\n   i. efisiensi;\n   j. kelestarian; dan\n   k. pembangunan yang berkelanjutan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2844301760196686,
+            "t": 0.4169849455356598,
+            "r": 0.8914204835891724,
+            "b": 0.6895562410354614
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "cd74bbb6-5573-426e-9ec3-b15ed0c3e316"
+    },
+    {
+      "text": "3. Ketentuan Pasal 7 diubah sehingga Pasal 7 berbunyi sebagai berikut:\n\n    Pasal 7\n\n(1) Dalam rangka mendukung kebijakan pengelolaan sumber daya ikan, Menteri menetapkan:\n    a. rencana pengelolaan perikanan;\n    b. potensi dan alokasi sumber daya ikan di wilayah pengelolaan perikanan Negara Republik Indonesia;",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2852117121219635,
+            "t": 0.6990301012992859,
+            "r": 0.8976303339004517,
+            "b": 0.8572747111320496
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "0eaff94d-b282-452f-bf02-7d35f1a65863"
+    },
+    {
+      "text": "c. jumlah . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7321470975875854,
+            "t": 0.865566611289978,
+            "r": 0.8778775930404663,
+            "b": 0.8881120681762695
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "966b0620-b41f-46de-8ca8-95f1b392d8b8"
+    },
+    {
+      "text": "- 6 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4719803035259247,
+            "t": 0.17319950461387634,
+            "r": 0.5241816639900208,
+            "b": 0.1910403072834015
+          },
+          "page": 5
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "d4c29b05-6929-47ed-a240-8d8b64f11c7c"
+    },
+    {
+      "text": "- c. jumlah tangkapan yang diperbolehkan di wilayah pengelolaan perikanan Negara Republik Indonesia;\n- d. potensi dan alokasi lahan pembudidayaan ikan di wilayah pengelolaan perikanan Negara Republik Indonesia;\n- e. potensi dan alokasi induk serta benih ikan tertentu di wilayah pengelolaan perikanan Negara Republik Indonesia;\n- f. jenis, jumlah, dan ukuran alat penangkapan ikan;\n- g. jenis, jumlah, ukuran, dan penempatan alat bantu penangkapan ikan;\n- h. daerah, jalur, dan waktu atau musim penangkapan ikan;\n- i. persyaratan atau standar prosedur operasional penangkapan ikan;\n- j. pelabuhan perikanan;\n- k. sistem pemantauan kapal perikanan;\n- l. jenis ikan baru yang akan dibudidayakan;\n- m. jenis ikan dan wilayah penebaran kembali serta penangkapan ikan berbasis budi daya;\n- n. pembudidayaan ikan dan perlindungannya;\n- o. pencegahan pencemaran dan kerusakan sumber daya ikan serta lingkungannya;\n- p. rehabilitasi dan peningkatan sumber daya ikan serta lingkungannya;\n- q. ukuran atau berat minimum jenis ikan yang boleh ditangkap;\n- r. kawasan konservasi perairan;\n- s. wabah dan wilayah wabah penyakit ikan;\n- t. jenis ikan yang dilarang untuk diperdagangkan, dimasukkan, dan dikeluarkan ke dan dari wilayah Negara Republik Indonesia; dan\n- u. jenis ikan yang dilindungi.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.36792656779289246,
+            "t": 0.1988878846168518,
+            "r": 0.902854323387146,
+            "b": 0.8198340535163879
+          },
+          "page": 5
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "b6b92ae7-8b7d-4068-a445-280b7d61bcde"
+    },
+    {
+      "text": "(2) Setiap . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7329765558242798,
+            "t": 0.8472053408622742,
+            "r": 0.8766494989395142,
+            "b": 0.8706818222999573
+          },
+          "page": 5
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "06fb1b49-3f48-4787-8fd8-c772966f2d0d"
+    },
+    {
+      "text": "$-7-$",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.47213777899742126,
+            "t": 0.17338791489601135,
+            "r": 0.5255104899406433,
+            "b": 0.1909715235233307
+          },
+          "page": 6
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "0457d8ee-e76e-4f2b-ac17-3b4458c12a69"
+    },
+    {
+      "text": "2) Setiap orang yang melakukan usaha dan/atau kegiatan pengelolaan perikanan wajib mematuhi ketentuan sebagaimana dimaksud pada ayat (1) mengenai:\n   a. jenis, jumlah, dan ukuran alat penangkapan ikan;\n   b. jenis, jumlah, ukuran, dan penempatan alat bantu penangkapan ikan;\n   c. daerah, jalur, dan waktu atau musim penangkapan ikan;\n   d. persyaratan atau standar prosedur operasional penangkapan ikan;\n   e. sistem pemantauan kapal perikanan;\n   f. jenis ikan baru yang akan dibudidayakan;\n   g. jenis ikan dan wilayah penebaran kembali serta penangkapan ikan berbasis budi daya;\n   h. pembudidayaan ikan dan perlindungannya;\n   i. pencegahan pencemaran dan kerusakan sumber daya ikan serta lingkungannya;\n   j. ukuran atau berat minimum jenis ikan yang boleh ditangkap;\n   k. kawasan konservasi perairan;\n   l. wabah dan wilayah wabah penyakit ikan;\n   m. jenis ikan yang dilarang untuk diperdagangkan, dimasukkan, dan dikeluarkan ke dan dari wilayah Negara Republik Indonesia; dan\n   n. jenis ikan yang dilindungi.\n\n3) Kewajiban mematuhi ketentuan mengenai sistem pemantauan kapal perikanan sebagaimana dimaksud pada ayat (2) huruf e, tidak berlaku bagi nelayan kecil dan/atau pembudi daya-ikan kecil.\n\n4) Menteri menetapkan potensi dan jumlah tangkapan yang diperbolehkan sebagaimana dimaksud pada ayat (1) huruf b dan huruf c setelah mempertimbangkan rekomendasi dari komisi nasional yang mengkaji sumber daya ikan.\n\n5) Komisi nasional sebagaimana dimaksud pada ayat (4) dibentuk oleh Menteri dan beranggotakan para ahli di bidangnya yang berasal dari lembaga terkait.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.3255572021007538,
+            "t": 0.19835147261619568,
+            "r": 0.9015402793884277,
+            "b": 0.8535488843917847
+          },
+          "page": 6
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "1c69c796-dad2-4041-945a-d0f1fd6c5880"
+    },
+    {
+      "text": "(6) Menteri . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7208244800567627,
+            "t": 0.868649959564209,
+            "r": 0.8762552738189697,
+            "b": 0.8916805982589722
+          },
+          "page": 6
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "567a0c3a-d628-4cc5-b1ac-612f838a7f6f"
+    },
+    {
+      "text": "$-8-$",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.46978724002838135,
+            "t": 0.1730084866285324,
+            "r": 0.5249410271644592,
+            "b": 0.19108660519123077
+          },
+          "page": 7
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "0f3896f0-16fc-48ae-be31-a6a0eac2f709"
+    },
+    {
+      "text": "(6) Menteri menetapkan jenis ikan yang dilindungi dan kawasan konservasi perairan untuk kepentingan ilmu pengetahuan, kebudayaan, pariwisata, dan/atau kelestarian sumber daya ikan dan/atau lingkungannya.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.3292882442474365,
+            "t": 0.19937661290168762,
+            "r": 0.8940379619598389,
+            "b": 0.2764568030834198
+          },
+          "page": 7
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "373115c7-2aaf-4bd6-a4a5-94abee79943f"
+    },
+    {
+      "text": "4. Ketentuan Pasal 9 diubah sehingga Pasal 9 berbunyi sebagai berikut:\n\n        Pasal 9\n\n(1) Setiap orang dilarang memiliki, menguasai, membawa, dan/atau menggunakan alat penangkapan dan/atau alat bantu penangkapan ikan yang mengganggu dan merusak keberlanjutan sumber daya ikan di kapal penangkap ikan di wilayah pengelolaan perikanan Negara Republik Indonesia.\n\n(2) Ketentuan mengenai alat penangkapan dan/atau alat bantu penangkapan ikan yang mengganggu dan merusak keberlanjutan sumber daya ikan sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Menteri.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2843250632286072,
+            "t": 0.28675058484077454,
+            "r": 0.896364152431488,
+            "b": 0.5214393138885498
+          },
+          "page": 7
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "c8efc13a-9066-4fc0-8bbd-ca8ffa0f0398"
+    },
+    {
+      "text": "5. Ketentuan Pasal 14 ayat (3) diubah, sehingga Pasal 14 berbunyi sebagai berikut:\n\n    Pasal 14\n\n    (1) Pemerintah mengatur dan/atau mengembangkan pemanfaatan plasma nutfah yang berkaitan dengan sumber daya ikan dalam rangka pelestarian ekosistem dan pemuliaan sumber daya ikan.\n\n    (2) Setiap orang wajib melestarikan plasma nutfah yang berkaitan dengan sumber daya ikan.\n\n    (3) Pemerintah mengendalikan pemasukan dan/atau pengeluaran ikan jenis baru dari dan ke luar negeri dan/atau lalu lintas antarpulau untuk menjamin kelestarian plasma nutfah yang berkaitan dengan sumber daya ikan.\n\n    (4) Setiap orang dilarang merusak plasma nutfah yang berkaitan dengan sumber daya ikan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2847631573677063,
+            "t": 0.5321120023727417,
+            "r": 0.89784175157547,
+            "b": 0.7957384586334229
+          },
+          "page": 7
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "a264086c-0336-4e37-b384-9f8d5dc63030"
+    },
+    {
+      "text": "(5) Ketentuan . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7089745402336121,
+            "t": 0.818788468837738,
+            "r": 0.8902595639228821,
+            "b": 0.8415505290031433
+          },
+          "page": 7
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "e8f95694-9c2f-454c-ba07-0ea058221d74"
+    },
+    {
+      "text": "- 9 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.47094103693962097,
+            "t": 0.17298248410224915,
+            "r": 0.5251632928848267,
+            "b": 0.1907726228237152
+          },
+          "page": 8
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "60c96eac-4c92-452c-bbb4-25cd7e3db906"
+    },
+    {
+      "text": "(5) Ketentuan lebih lanjut mengenai pemanfaatan dan pelestarian plasma nutfah sumber daya ikan sebagaimana dimaksud pada ayat (1), ayat (2), dan ayat (3), diatur dengan Peraturan Pemerintah.\n\n6. Di antara Pasal 15 dan Pasal 16 disisipkan 1 (satu) pasal yakni Pasal 15A, yang berbunyi sebagai berikut:\n\nPasal 15A\n\nPemerintah mengatur pengendalian mutu induk dan benih ikan yang dibudidayakan.\n\n7. Ketentuan Pasal 18 ditambah 2 (dua) ayat yakni ayat (3) dan ayat (4), sehingga Pasal 18 berbunyi sebagai berikut:\n\nPasal 18\n\n(1) Pemerintah mengatur dan membina tata pemanfaatan air dan lahan pembudidayaan ikan.\n\n(2) Pengaturan dan pembinaan tata pemanfaatan air dan lahan pembudidayaan ikan, sebagaimana dimaksud pada ayat (1) dilakukan dalam rangka menjamin kuantitas dan kualitas air untuk kepentingan pembudidayaan ikan.\n\n(3) Pelaksanaan tata pemanfaatan air dan lahan pembudidayaan ikan dilakukan oleh pemerintah daerah.\n\n(4) Ketentuan lebih lanjut mengenai pengaturan dan pembinaan tata pemanfaatan air dan lahan pembudidayaan ikan sebagaimana dimaksud pada ayat (1) dan ayat (2) diatur dengan Peraturan Pemerintah.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.28595882654190063,
+            "t": 0.19867654144763947,
+            "r": 0.8995676636695862,
+            "b": 0.6705087423324585
+          },
+          "page": 8
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "3af10c1c-7e8e-455b-a22e-3c187f9e814f"
+    },
+    {
+      "text": "8.  Ketentuan Pasal 23 ditambah 1 (satu) ayat yakni ayat (3), sehingga Pasal 23 berbunyi sebagai berikut:\n\n    Pasal 23\n\n(1) Setiap orang dilarang menggunakan bahan baku, bahan tambahan makanan, bahan penolong, dan/atau alat yang membahayakan kesehatan manusia dan/atau lingkungan dalam melaksanakan penanganan dan pengolahan ikan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.284313827753067,
+            "t": 0.6807097792625427,
+            "r": 0.8955698013305664,
+            "b": 0.8254491686820984
+          },
+          "page": 8
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "76e66a3b-e8ab-4f00-8d74-da137eb4e3c1"
+    },
+    {
+      "text": "(2) Pemerintah . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.6843169927597046,
+            "t": 0.8530081510543823,
+            "r": 0.8754268884658813,
+            "b": 0.8771939277648926
+          },
+          "page": 8
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "4a0ef9cf-3884-4884-84e3-379a41702ccb"
+    },
+    {
+      "text": "- 10 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.46553561091423035,
+            "t": 0.1732119470834732,
+            "r": 0.5296334028244019,
+            "b": 0.19161470234394073
+          },
+          "page": 9
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "c8e63b52-a9e0-47f6-aebe-3eb05c97e1da"
+    },
+    {
+      "text": "(2) Pemerintah menetapkan bahan baku, bahan tambahan makanan, bahan penolong, dan/atau alat yang membahayakan kesehatan manusia dan/atau lingkungan sebagaimana dimaksud pada ayat (1).\n\n(3) Pemerintah melakukan sosialisasi bahan baku, bahan tambahan makanan, bahan penolong, dan/atau alat yang membahayakan kesehatan manusia dan/atau lingkungan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.32834020256996155,
+            "t": 0.1988469958305359,
+            "r": 0.8948078155517578,
+            "b": 0.3354153037071228
+          },
+          "page": 9
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "a80bb067-9521-42ca-b8a8-8b6acf018c5d"
+    },
+    {
+      "text": "9. Ketentuan Pasal 25 diubah sehingga Pasal 25 berbunyi sebagai berikut:\n\n    Pasal 25\n\n(1) Usaha perikanan dilaksanakan dalam sistem bisnis perikanan, meliputi praproduksi, produksi, pengolahan, dan pemasaran.\n\n(2) Ketentuan lebih lanjut mengenai praproduksi, produksi, pengolahan, dan pemasaran sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Menteri.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2830953299999237,
+            "t": 0.3454303443431854,
+            "r": 0.8945307731628418,
+            "b": 0.5090201497077942
+          },
+          "page": 9
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "a31d5385-80f0-4a2a-8814-d0b45eca4c47"
+    },
+    {
+      "text": "10.  Di antara Pasal 25 dan Pasal 26 disisipkan 3 (tiga) pasal yakni Pasal 25A, Pasal 25B, dan Pasal 25C, yang berbunyi sebagai berikut:\n\n        Pasal 25A\n\n(1) Pelaku usaha perikanan dalam melaksanakan bisnis perikanan harus memperhatikan standar mutu hasil perikanan.\n(2) Pemerintah dan pemerintah daerah membina dan memfasilitasi pengembangan usaha perikanan agar memenuhi standar mutu hasil perikanan.\n(3) Ketentuan lebih lanjut mengenai standar mutu hasil perikanan diatur dalam Peraturan Menteri.\n\n        Pasal 25B\n\n(1) Pemerintah berkewajiban menyelenggarakan dan memfasilitasi kegiatan pemasaran usaha perikanan baik di dalam negeri maupun ke luar negeri.\n(2) Pengeluaran hasil produksi usaha perikanan ke luar negeri dilakukan apabila produksi dan pasokan di dalam negeri telah mencukupi kebutuhan konsumsi nasional.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.272993803024292,
+            "t": 0.5211268067359924,
+            "r": 0.8958559036254883,
+            "b": 0.8493772149085999
+          },
+          "page": 9
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "677da420-a272-4ea4-ad1c-c8a6461f8d3a"
+    },
+    {
+      "text": "(3) Pemerintah . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.6844667196273804,
+            "t": 0.8671603798866272,
+            "r": 0.8756875991821289,
+            "b": 0.8893651366233826
+          },
+          "page": 9
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "5d76bdbd-402d-4bda-963b-ca8ca9a7ae78"
+    },
+    {
+      "text": "- 11 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4675857126712799,
+            "t": 0.17370735108852386,
+            "r": 0.5299966335296631,
+            "b": 0.19109593331813812
+          },
+          "page": 10
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "112b7479-cd2e-47b9-9072-903d5ea59646"
+    },
+    {
+      "text": "(3) Pemerintah berkewajiban menciptakan iklim usaha perikanan yang sehat sesuai dengan ketentuan peraturan perundang-undangan.\n\nPasal 25C\n\n(1) Pemerintah membina dan memfasilitasi berkembangnya industri perikanan nasional dengan mengutamakan penggunaan bahan baku dan sumber daya manusia dalam negeri.\n\n(2) Pemerintah membina terselenggaranya kebersamaan dan kemitraan yang sehat antara industri perikanan, nelayan dan/atau koperasi perikanan.\n\n(3) Ketentuan mengenai pembinaan, pemberian fasilitas, kebersamaan, dan kemitraan sebagaimana dimaksud pada ayat (1) dan ayat (2) dilakukan sesuai dengan ketentuan peraturan perundang-undangan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.32476913928985596,
+            "t": 0.19854269921779633,
+            "r": 0.8967781066894531,
+            "b": 0.4592302441596985
+          },
+          "page": 10
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "1dcf04b0-e8fa-4b6a-9166-0d0bfb06e98d"
+    },
+    {
+      "text": "11. Ketentuan Pasal 27 ayat (1), ayat (2), dan ayat (3) diubah, serta ditambah 1 (satu) ayat yakni ayat (5), sehingga Pasal 27 berbunyi sebagai berikut:\n        Pasal 27\n(1) Setiap orang yang memiliki dan/atau mengoperasikan kapal penangkap ikan berbendera Indonesia yang digunakan untuk melakukan penangkapan ikan di wilayah pengelolaan perikanan Negara Republik Indonesia dan/atau laut lepas wajib memiliki SIPI.\n(2) Setiap orang yang memiliki dan/atau mengoperasikan kapal penangkap ikan berbendera asing yang digunakan untuk melakukan penangkapan ikan di ZEEI wajib memiliki SIPI.\n(3) Setiap orang yang mengoperasikan kapal penangkap ikan berbendera Indonesia di wilayah pengelolaan perikanan Negara Republik Indonesia atau mengoperasikan kapal penangkap ikan berbendera asing di ZEEI wajib membawa SIPI asli.\n(4) Kapal penangkap ikan berbendera Indonesia yang melakukan penangkapan ikan di wilayah yurisdiksi negara lain harus terlebih dahulu mendapatkan persetujuan dari Pemerintah.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2717926502227783,
+            "t": 0.45984140038490295,
+            "r": 0.8964446783065796,
+            "b": 0.8039675951004028
+          },
+          "page": 10
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "9b7f723c-4868-45ff-bfff-23dc0eb575e6"
+    },
+    {
+      "text": "5. Kewajiban . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7147965431213379,
+            "t": 0.8382188081741333,
+            "r": 0.8881591558456421,
+            "b": 0.8592615127563477
+          },
+          "page": 10
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "ba82e0a9-62ff-43b6-a26f-14f1d4f44f72"
+    },
+    {
+      "text": "– 12 –",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.46465322375297546,
+            "t": 0.1733255386352539,
+            "r": 0.5319181680679321,
+            "b": 0.1911424696445465
+          },
+          "page": 11
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "f9fbdcf3-098e-4cb2-a90c-6d5757e847b5"
+    },
+    {
+      "text": "(5) Kewajiban memiliki SIPI sebagaimana dimaksud pada ayat (1) dan/atau membawa SIPI asli sebagaimana dimaksud pada ayat (3), tidak berlaku bagi nelayan kecil.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.3297947645187378,
+            "t": 0.19900944828987122,
+            "r": 0.892859935760498,
+            "b": 0.2604488730430603
+          },
+          "page": 11
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "a8038ffc-5893-4cf0-aeba-c57d29cbeffc"
+    },
+    {
+      "text": "12. Ketentuan Pasal 28 ayat (1) dan ayat (2) diubah, serta ditambah 2 (dua) ayat yakni ayat (3) dan ayat (4), sehingga Pasal 28 berbunyi sebagai berikut:\n\nPasal 28\n\n(1) Setiap orang yang memiliki dan/atau mengoperasikan kapal pengangkut ikan berbendera Indonesia di wilayah pengelolaan perikanan Negara Republik Indonesia wajib memiliki SIKPI.\n\n(2) Setiap orang yang memiliki dan/atau mengoperasikan kapal pengangkut ikan berbendera asing yang digunakan untuk melakukan pengangkutan ikan di wilayah pengelolaan perikanan Negara Republik Indonesia wajib memiliki SIKPI.\n\n(3) Setiap orang yang mengoperasikan kapal pengangkut ikan di wilayah pengelolaan perikanan Negara Republik Indonesia wajib membawa SIKPI asli.\n\n(4) Kewajiban memiliki SIKPI sebagaimana dimaksud pada ayat (1) dan/atau membawa SIKPI asli sebagaimana dimaksud pada ayat (3), tidak berlaku bagi nelayan kecil dan/atau pembudi daya-ikan kecil.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.27152520418167114,
+            "t": 0.2616605758666992,
+            "r": 0.8988566994667053,
+            "b": 0.6185688972473145
+          },
+          "page": 11
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "11b768e7-90d8-4dab-9402-7f4438bb6917"
+    },
+    {
+      "text": "13.  Di antara Pasal 28 dan Pasal 29 disisipkan 1 (satu) pasal yakni Pasal 28A, yang berbunyi sebagai berikut:\n      Pasal 28A\nSetiap orang dilarang:\na.    memalsukan SIUP, SIPI, dan SIKPI; dan/atau\nb.    menggunakan SIUP, SIPI, dan SIKPI palsu.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2726920545101166,
+            "t": 0.6244299411773682,
+            "r": 0.8912492990493774,
+            "b": 0.7331465482711792
+          },
+          "page": 11
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "e106a7bf-27ec-40c9-b415-5337fae46740"
+    },
+    {
+      "text": "14.  Ketentuan Pasal 32 diubah sehingga Pasal 32 berbunyi sebagai berikut:",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2725277841091156,
+            "t": 0.738432765007019,
+            "r": 0.8937883377075195,
+            "b": 0.7715204954147339
+          },
+          "page": 11
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "e995d3b2-d69a-48f1-ade9-1d95b65000c0"
+    },
+    {
+      "text": "Pasal 32",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.45203277468681335,
+            "t": 0.7740887403488159,
+            "r": 0.5512499213218689,
+            "b": 0.791677713394165
+          },
+          "page": 11
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "ee449a1f-8334-4e10-83d0-c7d944e444c6"
+    },
+    {
+      "text": "Ketentuan lebih lanjut mengenai penerbitan, tata cara, dan syarat-syarat pemberian SIUP, SIPI, dan SIKPI diatur dengan Peraturan Menteri.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.3278293013572693,
+            "t": 0.7940918803215027,
+            "r": 0.8928192257881165,
+            "b": 0.8407787680625916
+          },
+          "page": 11
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "30c14fd5-ed1d-4846-9044-b8f9b1e1c4b4"
+    },
+    {
+      "text": "15. Di antara . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.6978816986083984,
+            "t": 0.8571058511734009,
+            "r": 0.8754483461380005,
+            "b": 0.8771268129348755
+          },
+          "page": 11
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "22062427-a9bd-473a-b901-ffe5aab41505"
+    },
+    {
+      "text": "– 13 –",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.46667104959487915,
+            "t": 0.17383180558681488,
+            "r": 0.5285224914550781,
+            "b": 0.19047491252422333
+          },
+          "page": 12
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "c0cea7c9-1d23-43be-a7d8-7792c7f499de"
+    },
+    {
+      "text": "15. Di antara Pasal 35 dan Pasal 36 disisipkan 1 (satu) pasal yakni Pasal 35A, yang berbunyi sebagai berikut:\n\nPasal 35A\n\n(1) Kapal perikanan berbendera Indonesia yang melakukan penangkapan ikan di wilayah pengelolaan perikanan Negara Republik Indonesia wajib menggunakan nakhoda dan anak buah kapal berkewarganegaraan Indonesia.\n\n(2) Kapal perikanan berbendera asing yang melakukan penangkapan ikan di ZEEI wajib menggunakan anak buah kapal berkewarganegaraan Indonesia paling sedikit 70% (tujuh puluh persen) dari jumlah anak buah kapal.\n\n(3) Pelanggaran terhadap ketentuan penggunaan anak buah kapal sebagaimana dimaksud pada ayat (2) dikenakan sanksi administratif berupa peringatan, pembekuan izin, atau pencabutan izin.\n\n(4) Ketentuan lebih lanjut mengenai pengenaan sanksi administratif sebagaimana dimaksud pada ayat (3) diatur dalam Peraturan Menteri.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.273294597864151,
+            "t": 0.1991579681634903,
+            "r": 0.8956269025802612,
+            "b": 0.5139562487602234
+          },
+          "page": 12
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "b8baf56f-12ac-40a5-a6c5-2e2196b1a543"
+    },
+    {
+      "text": "16. Ketentuan Pasal 36 diubah sehingga Pasal 36 berbunyi sebagai berikut:\n\n    Pasal 36\n\n(1) Kapal perikanan milik orang Indonesia yang dioperasikan di wilayah pengelolaan perikanan Negara Republik Indonesia dan laut lepas wajib didaftarkan terlebih dahulu sebagai kapal perikanan Indonesia.\n\n(2) Pendaftaran kapal perikanan sebagaimana dimaksud pada ayat (1) dilengkapi dengan dokumen yang berupa:\n\n    a. bukti kepemilikan;\n    b. identitas pemilik; dan\n    c. surat ukur.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.28786349296569824,
+            "t": 0.5294179320335388,
+            "r": 0.894866943359375,
+            "b": 0.7789687514305115
+          },
+          "page": 12
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "7263fd8b-1dbe-4bc5-8c2b-7a3e1ba54411"
+    },
+    {
+      "text": "(3) Pendaftaran . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.6770813465118408,
+            "t": 0.8016510009765625,
+            "r": 0.8752859830856323,
+            "b": 0.8248367309570312
+          },
+          "page": 12
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "7bc333f1-32ad-4064-88cd-ae1d3213b847"
+    },
+    {
+      "text": "$-14-$",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.46870899200439453,
+            "t": 0.17397579550743103,
+            "r": 0.5286016464233398,
+            "b": 0.1906033754348755
+          },
+          "page": 13
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "1aa2aad5-2d11-40e6-a2e5-8a61741003f1"
+    },
+    {
+      "text": "(3) Pendaftaran kapal perikanan yang dibeli atau diperoleh dari luar negeri dan sudah terdaftar di negara asal untuk didaftar sebagai kapal perikanan Indonesia, selain dilengkapi dengan dokumen sebagaimana dimaksud pada ayat (2) harus dilengkapi pula dengan surat keterangan penghapusan dari daftar kapal yang diterbitkan oleh negara asal.\n\n(4) Kapal perikanan yang telah terdaftar sebagaimana dimaksud pada ayat (1), diberikan surat tanda kebangsaan sesuai dengan ketentuan peraturan perundang-undangan.\n\n(5) Ketentuan lebih lanjut mengenai pendaftaran sebagaimana dimaksud pada ayat (1), ayat (2), dan ayat (3) diatur dengan Peraturan Menteri.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.32825177907943726,
+            "t": 0.19879844784736633,
+            "r": 0.8947992920875549,
+            "b": 0.4287119209766388
+          },
+          "page": 13
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "3f00ed3e-8469-4778-84ac-9fd610526224"
+    },
+    {
+      "text": "17. Ketentuan Pasal 41 diubah sehingga Pasal 41 berbunyi sebagai berikut:\n\n        Pasal 41\n\n(1) Pemerintah menyelenggarakan dan melakukan pembinaan pengelolaan pelabuhan perikanan.\n\n(2) Penyelenggaraan dan pembinaan pengelolaan pelabuhan perikanan sebagaimana dimaksud pada ayat (1), Menteri menetapkan:\n    a. rencana induk pelabuhan perikanan secara nasional;\n    b. klasifikasi pelabuhan perikanan;\n    c. pengelolaan pelabuhan perikanan;\n    d. persyaratan dan/atau standar teknis dalam perencanaan, pembangunan, operasional, pembinaan, dan pengawasan pelabuhan perikanan;\n    e. wilayah kerja dan pengoperasian pelabuhan perikanan yang meliputi bagian perairan dan daratan tertentu yang menjadi wilayah kerja dan pengoperasian pelabuhan perikanan; dan\n    f. pelabuhan perikanan yang tidak dibangun oleh Pemerintah.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.27259114384651184,
+            "t": 0.438576340675354,
+            "r": 0.8967427015304565,
+            "b": 0.80772864818573
+          },
+          "page": 13
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "0b0cf8d5-0a2c-4bbd-b092-8214eb726f38"
+    },
+    {
+      "text": "(3) Setiap . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7486405968666077,
+            "t": 0.8293325304985046,
+            "r": 0.8891456723213196,
+            "b": 0.8514954447746277
+          },
+          "page": 13
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "331ad5d6-704a-4c22-b2d9-a7e02e409a49"
+    },
+    {
+      "text": "- 15 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.46683529019355774,
+            "t": 0.1732448786497116,
+            "r": 0.5296244621276855,
+            "b": 0.19099633395671844
+          },
+          "page": 14
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "fd994dc4-ae3a-40b9-8f92-44403afe9b97"
+    },
+    {
+      "text": "(3) Setiap kapal penangkap ikan dan kapal pengangkut ikan harus mendaratkan ikan tangkapan di pelabuhan perikanan yang ditetapkan atau pelabuhan lainnya yang ditunjuk.\n(4) Setiap orang yang memiliki dan/atau mengoperasikan kapal penangkap ikan dan/atau kapal pengangkut ikan yang tidak melakukan bongkar muat ikan tangkapan di pelabuhan perikanan yang ditetapkan atau pelabuhan lainnya yang ditunjuk sebagaimana dimaksud pada ayat (3) dikenai sanksi administratif berupa peringatan, pembekuan izin, atau pencabutan izin.\n(5) Ketentuan lebih lanjut mengenai pengenaan sanksi administratif sebagaimana dimaksud pada ayat (4) diatur dalam Peraturan Menteri.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.3281235992908478,
+            "t": 0.19889754056930542,
+            "r": 0.894320011138916,
+            "b": 0.4222797155380249
+          },
+          "page": 14
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "40c785c5-1851-448e-be78-f1e98ceba968"
+    },
+    {
+      "text": "18. Di antara Pasal 41 dan Pasal 42 disisipkan 1 (satu) pasal yakni Pasal 41A, yang berbunyi sebagai berikut:\n\nPasal 41A\n\n(1) Pelabuhan perikanan mempunyai fungsi pemerintahan dan pengusahaan guna mendukung kegiatan yang berhubungan dengan pengelolaan dan pemanfaatan sumber daya ikan dan lingkungannya mulai dari praproduksi, produksi, pengolahan sampai dengan pemasaran.\n\n(2) Fungsi pelabuhan perikanan dalam mendukung kegiatan yang berhubungan dengan pengelolaan dan pemanfaatan sumber daya ikan dan lingkungannya sebagaimana dimaksud pada ayat (1) dapat berupa:\na. pelayanan tambat dan labuh kapal perikanan;\nb. pelayanan bongkar muat;\nc. pelayanan pembinaan mutu dan pengolahan hasil perikanan;\nd. pemasaran dan distribusi ikan;\ne. pengumpulan data tangkapan dan hasil perikanan;\nf. tempat pelaksanaan penyuluhan dan pengembangan masyarakat nelayan;",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2725849151611328,
+            "t": 0.433116614818573,
+            "r": 0.8969303369522095,
+            "b": 0.8154736161231995
+          },
+          "page": 14
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "e05dbf43-d0d9-465e-ae7a-4155bd0b6f54"
+    },
+    {
+      "text": "g. pelaksanaan . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.6934420466423035,
+            "t": 0.8396772146224976,
+            "r": 0.8880504965782166,
+            "b": 0.8606840372085571
+          },
+          "page": 14
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "4a85e586-05ca-41ea-8ffc-3d0638d35c0b"
+    },
+    {
+      "text": "- g. pelaksanaan kegiatan operasional kapal perikanan;\n- h. tempat pelaksanaan pengawasan dan pengendalian sumber daya ikan;\n- i. pelaksanaan kesyahbandaran;\n- j. tempat pelaksanaan fungsi karantina ikan;\n- k. publikasi hasil pelayanan sandar dan labuh kapal perikanan dan kapal pengawas kapal perikanan;\n- l. tempat publikasi hasil riset kelautan dan perikanan;\n- m. pemantauan wilayah pesisir dan wisata bahari; dan/atau\n- n. pengendalian lingkungan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.36512407660484314,
+            "t": 0.1701718121767044,
+            "r": 0.9013633728027344,
+            "b": 0.44578754901885986
+          },
+          "page": 15
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "90f343df-3e4d-49d7-9a83-e61ad371ac4a"
+    },
+    {
+      "text": "19. Ketentuan Pasal 42 diubah sehingga Pasal 42 berbunyi sebagai berikut:\n\nPasal 42\n\n(1) Dalam rangka keselamatan operasional kapal perikanan, ditunjuk syahbandar di pelabuhan perikanan.\n\n(2) Syahbandar di pelabuhan perikanan mempunyai tugas dan wewenang:\n  a. menerbitkan Surat Persetujuan Berlayar;\n  b. mengatur kedatangan dan keberangkatan kapal perikanan;\n  c. memeriksa ulang kelengkapan dokumen kapal perikanan;\n  d. memeriksa teknis dan nautis kapal perikanan dan memeriksa alat penangkapan ikan, dan alat bantu penangkapan ikan;\n  e. memeriksa dan mengesahkan perjanjian kerja laut;\n  f. memeriksa *log book* penangkapan dan pengangkutan ikan;\n  g. mengatur olah gerak dan lalu lintas kapal perikanan di pelabuhan perikanan;\n  h. mengawasi pemanduan;",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2696076035499573,
+            "t": 0.45324885845184326,
+            "r": 0.89991694688797,
+            "b": 0.8507817983627319
+          },
+          "page": 15
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "5a1af85c-eb4b-453b-906e-2d0d45703ce6"
+    },
+    {
+      "text": "i. mengawasi . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7120189666748047,
+            "t": 0.873929500579834,
+            "r": 0.8905059099197388,
+            "b": 0.8958992958068848
+          },
+          "page": 15
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "f527f775-fffb-4a14-b94e-d3a07ba4950e"
+    },
+    {
+      "text": "- 17 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.46600791811943054,
+            "t": 0.17332424223423004,
+            "r": 0.5309272408485413,
+            "b": 0.19080249965190887
+          },
+          "page": 16
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "b7e0778c-99c5-4720-9158-74485a663971"
+    },
+    {
+      "text": "i.   mengawasi pengisian bahan bakar;\nj.   mengawasi kegiatan pembangunan fasilitas pelabuhan perikanan;\nk.   melaksanakan bantuan pencarian dan penyelamatan;\nl.   memimpin penanggulangan pencemaran dan pemadaman kebakaran di pelabuhan perikanan;\nm.   mengawasi pelaksanaan perlindungan lingkungan maritim;\nn.   memeriksa pemenuhan persyaratan pengawakan kapal perikanan;\no.   menerbitkan Surat Tanda Bukti Lapor Kedatangan dan Keberangkatan Kapal Perikanan; dan\np.   memeriksa sertifikat ikan hasil tangkapan.\n\n3. Setiap kapal perikanan yang akan berlayar melakukan penangkapan ikan dan/atau pengangkutan ikan dari pelabuhan perikanan wajib memiliki Surat Persetujuan Berlayar yang dikeluarkan oleh syahbandar di pelabuhan perikanan.\n\n4. Syahbandar di pelabuhan perikanan sebagaimana dimaksud pada ayat (1) diangkat oleh menteri yang membidangi urusan pelayaran.\n\n5. Dalam melaksanakan tugasnya, syahbandar di pelabuhan perikanan dikoordinasikan oleh pejabat yang bertanggung jawab di pelabuhan perikanan setempat.\n\n6. Ketentuan lebih lanjut mengenai kesyahbandaran di pelabuhan perikanan dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.32587704062461853,
+            "t": 0.19971129298210144,
+            "r": 0.8991342782974243,
+            "b": 0.72655189037323
+          },
+          "page": 16
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "10d75472-7d6a-4218-8509-64dd2ed92444"
+    },
+    {
+      "text": "20.  Ketentuan Pasal 43 diubah sehingga Pasal 43 berbunyi sebagai berikut:\n\n    Pasal 43\n\nSetiap kapal perikanan yang melakukan kegiatan perikanan wajib memiliki surat laik operasi kapal perikanan dari pengawas perikanan tanpa dikenai biaya.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2689639925956726,
+            "t": 0.7393258213996887,
+            "r": 0.8943002820014954,
+            "b": 0.8563712239265442
+          },
+          "page": 16
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "37743e4e-36a5-4387-8c26-6bfebbf63974"
+    },
+    {
+      "text": "21. Ketentuan . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7020212411880493,
+            "t": 0.8745379447937012,
+            "r": 0.8890752792358398,
+            "b": 0.8954112529754639
+          },
+          "page": 16
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "2c362ae1-3717-4357-97ec-fcdee6869b52"
+    },
+    {
+      "text": "- 18 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.46458128094673157,
+            "t": 0.17288564145565033,
+            "r": 0.5314056277275085,
+            "b": 0.192702516913414
+          },
+          "page": 17
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "a327e12d-f874-443c-8dfb-03483a29d41e"
+    },
+    {
+      "text": "21.  Ketentuan Pasal 44 ayat (1) diubah, sehingga Pasal 44 berbunyi sebagai berikut:\n\n    Pasal 44\n\n    (1) Surat Persetujuan Berlayar sebagaimana dimaksud dalam pasal 42 ayat (2) huruf a dikeluarkan oleh syahbandar setelah kapal perikanan mendapatkan surat laik operasi.\n\n    (2) Surat laik operasi sebagaimana dimaksud pada ayat (1) dikeluarkan oleh pengawas perikanan setelah dipenuhi persyaratan administrasi dan kelayakan teknis.\n\n    (3) Ketentuan lebih lanjut mengenai persyaratan administrasi dan kelayakan teknis sebagaimana dimaksud pada ayat (2) diatur dalam Peraturan Menteri.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2700383961200714,
+            "t": 0.21768806874752045,
+            "r": 0.8964136838912964,
+            "b": 0.4563385844230652
+          },
+          "page": 17
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "63bb8586-501b-43c3-ac2b-aba7023e21ed"
+    },
+    {
+      "text": "22. Ketentuan Pasal 46 diubah sehingga Pasal 46 berbunyi sebagai berikut:\n\n        Pasal 46\n(1) Pemerintah dan pemerintah daerah menyusun dan mengembangkan sistem informasi dan data statistik perikanan serta menyelenggarakan pengumpulan, pengolahan, analisis, penyimpanan, penyajian, dan penyebaran data potensi, pemutakhiran data pergerakan ikan, sarana dan prasarana, produksi, penanganan, pengolahan dan pemasaran ikan, serta data sosial ekonomi yang berkaitan dengan pelaksanaan pengelolaan sumber daya ikan dan pengembangan sistem bisnis perikanan.\n\n(2) Pemerintah dan pemerintah daerah mengadakan pusat data dan informasi perikanan untuk menyelenggarakan sistem informasi dan data statistik perikanan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.27039942145347595,
+            "t": 0.45919734239578247,
+            "r": 0.896600604057312,
+            "b": 0.727837860584259
+          },
+          "page": 17
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "2183bc7d-9951-4082-9c7d-3cd73b46b630"
+    },
+    {
+      "text": "23.  Di antara Pasal 46 dan Pasal 47 disisipkan 1 (satu) pasal yakni Pasal 46A, yang berbunyi sebagai berikut:\n      Pasal 46A\n      Pemerintah menjamin kerahasiaan data dan informasi perikanan yang berkaitan dengan data *log book* penangkapan dan pengangkutan ikan, data yang diperoleh pengamat, dan data perusahaan dalam proses perizinan usaha perikanan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.26929017901420593,
+            "t": 0.7296773195266724,
+            "r": 0.895572304725647,
+            "b": 0.8584833145141602
+          },
+          "page": 17
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "24789b7f-c40b-4410-900d-f70c438b9f21"
+    },
+    {
+      "text": "24. Ketentuan . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7013132572174072,
+            "t": 0.874110758304596,
+            "r": 0.8902400732040405,
+            "b": 0.8958449959754944
+          },
+          "page": 17
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "0a0c5ff4-e55b-46c7-8efb-eac6329e0248"
+    },
+    {
+      "text": "– 19 –",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.46419161558151245,
+            "t": 0.17341260612010956,
+            "r": 0.5309503674507141,
+            "b": 0.19091685116291046
+          },
+          "page": 18
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "20d25cf8-b10b-4eb0-81e0-74f1838d7b4f"
+    },
+    {
+      "text": "24. Ketentuan Pasal 48 ayat (1) diubah, serta di antara ayat (1) dan ayat (2) disisipkan 1 (satu) ayat yakni ayat (1a), sehingga Pasal 48 berbunyi sebagai berikut:\n\n        Pasal 48\n(1) Setiap orang yang memperoleh manfaat langsung dari sumber daya ikan dan lingkungannya di wilayah pengelolaan perikanan Negara Republik Indonesia dan di luar wilayah pengelolaan perikanan Negara Republik Indonesia dikenakan pungutan perikanan.\n(1a) Pungutan perikanan sebagaimana dimaksud pada ayat (1) merupakan penerimaan negara bukan pajak.\n(2) Pungutan perikanan sebagaimana dimaksud pada ayat (1) tidak dikenakan bagi nelayan kecil dan pembudi daya-ikan kecil.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2693136930465698,
+            "t": 0.19847947359085083,
+            "r": 0.8964169025421143,
+            "b": 0.45624637603759766
+          },
+          "page": 18
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "6f6f4872-fdbf-4ce1-9415-9f3c512991a8"
+    },
+    {
+      "text": "25.  Ketentuan Pasal 50 diubah sehingga Pasal 50 berbunyi sebagai berikut:\n\n    Pasal 50\n\nPungutan perikanan sebagaimana dimaksud dalam Pasal 48 dan Pasal 49 digunakan untuk pembangunan perikanan serta kegiatan konservasi sumber daya ikan dan lingkungannya.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.26910558342933655,
+            "t": 0.46540385484695435,
+            "r": 0.8942960500717163,
+            "b": 0.5833063721656799
+          },
+          "page": 18
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "96cd6bc2-373a-438e-81e1-9fa70c25e707"
+    },
+    {
+      "text": "26.  Ketentuan Pasal 65 ayat (1) dihapus sehingga Pasal 65 berbunyi sebagai berikut:\n\n    Pasal 65\n\n    Pemerintah dapat memberikan tugas kepada pemerintah daerah untuk melaksanakan urusan tugas pembantuan di bidang perikanan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2701258957386017,
+            "t": 0.593556821346283,
+            "r": 0.8939015865325928,
+            "b": 0.6976994872093201
+          },
+          "page": 18
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "4d51ac66-0ef6-43fc-ac12-d66799ff433f"
+    },
+    {
+      "text": "27. Ketentuan Pasal 66 ayat (2) dan ayat (3) diubah, sehingga Pasal 66 berbunyi sebagai berikut:\n\n    Pasal 66\n\n    (1) Pengawasan perikanan dilakukan oleh pengawas perikanan.\n\n    (2) Pengawas perikanan bertugas untuk mengawasi tertib pelaksanaan ketentuan peraturan perundang-undangan di bidang perikanan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.27183422446250916,
+            "t": 0.7084134817123413,
+            "r": 0.8946294784545898,
+            "b": 0.8463839292526245
+          },
+          "page": 18
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "345128eb-1d85-4326-b9e6-4fe1ccf5ea27"
+    },
+    {
+      "text": "(3) Pengawasan . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7068451046943665,
+            "t": 0.8738019466400146,
+            "r": 0.9034463763237,
+            "b": 0.8965640068054199
+          },
+          "page": 18
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "e075325f-1c3c-42e0-af9f-f8ba8960e27f"
+    },
+    {
+      "text": "- 20 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.46489760279655457,
+            "t": 0.17174334824085236,
+            "r": 0.5322778820991516,
+            "b": 0.1929844468832016
+          },
+          "page": 19
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "cabc3608-37d5-417f-9119-8c387a71e710"
+    },
+    {
+      "text": "3) Pengawasan tertib pelaksanaan peraturan perundang-undangan sebagaimana dimaksud pada ayat (2) meliputi:\n- a. kegiatan penangkapan ikan;\n- b. pembudidayaan ikan, perbenihan;\n- c. pengolahan, distribusi keluar masuk ikan;\n- d. mutu hasil perikanan;\n- e. distribusi keluar masuk obat ikan;\n- f. konservasi;\n- g. pencemaran akibat perbuatan manusia;\n- h. plasma nutfah;\n- i. penelitian dan pengembangan perikanan; dan\n- j. ikan hasil rekayasa genetik.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.32835695147514343,
+            "t": 0.21072892844676971,
+            "r": 0.8959360122680664,
+            "b": 0.46195703744888306
+          },
+          "page": 19
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "1e22bd2a-a64c-4ba1-962b-b4058fd51b01"
+    },
+    {
+      "text": "28. Di antara Pasal 66 dan Pasal 67 disisipkan 3 (tiga) pasal yakni Pasal 66A, Pasal 66B, dan Pasal 66C, yang berbunyi sebagai berikut:\n\nPasal 66A\n\n(1) Pengawas perikanan sebagaimana dimaksud dalam Pasal 66 merupakan pegawai negeri sipil yang bekerja di bidang perikanan yang diangkat oleh menteri atau pejabat yang ditunjuk.\n\n(2) Pengawas perikanan sebagaimana dimaksud pada ayat (1) dapat dididik untuk menjadi Penyidik Pengawai Negeri Sipil Perikanan.\n\n(3) Pengawas perikanan sebagaimana dimaksud pada ayat (2) dapat ditetapkan sebagai pejabat fungsional pengawas perikanan.\n\n(4) Ketentuan lebih lanjut mengenai jabatan fungsional pengawas perikanan sebagaimana dimaksud pada ayat (3) diatur dengan Peraturan Menteri.\n\nPasal 66B\n\n(1) Pengawas perikanan sebagaimana dimaksud dalam Pasal 66 melaksanakan tugas di:\n  a. wilayah pengelolaan perikanan Negara Republik Indonesia;",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.26637277007102966,
+            "t": 0.4701535701751709,
+            "r": 0.8992534875869751,
+            "b": 0.8527593612670898
+          },
+          "page": 19
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "6b2c5c9b-56cc-4be5-8cd9-8d16219addbb"
+    },
+    {
+      "text": "b. kapal . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7595188617706299,
+            "t": 0.8646005392074585,
+            "r": 0.8918347358703613,
+            "b": 0.887291669845581
+          },
+          "page": 19
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "b876c0bc-1f47-4566-a637-2a40bd04b58f"
+    },
+    {
+      "text": "- 21 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4646649956703186,
+            "t": 0.17216509580612183,
+            "r": 0.532558262348175,
+            "b": 0.1931273341178894
+          },
+          "page": 20
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "b273a54f-3bf0-442d-98a9-18e3c117e5f8"
+    },
+    {
+      "text": "- b. kapal perikanan;\n- c. pelabuhan perikanan dan/atau pelabuhan lainnya yang ditunjuk;\n- d. pelabuhan tangkahan;\n- e. sentra kegiatan perikanan;\n- f. area pembenihan ikan;\n- g. area pembudidayaan ikan;\n- h. unit pengolahan ikan; dan/atau\n- i. kawasan konservasi perairan.\n\n- (2) Ketentuan lebih lanjut mengenai pelaksanaan tugas pengawas perikanan sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Menteri.\n\n- Pasal 66C\n\n- (1) Dalam melaksanakan tugas sebagaimana dimaksud dalam Pasal 66, pengawas perikanan berwenang:\n  - a. memasuki dan memeriksa tempat kegiatan usaha perikanan;\n  - b. memeriksa kelengkapan dan keabsahan dokumen usaha perikanan;\n  - c. memeriksa kegiatan usaha perikanan;\n  - d. memeriksa sarana dan prasarana yang digunakan untuk kegiatan perikanan;\n  - e. memverifikasi kelengkapan dan keabsahan SIPI dan SIKPI;\n  - f. mendokumentasikan hasil pemeriksaan;\n  - g. mengambil contoh ikan dan/atau bahan yang diperlukan untuk keperluan pengujian laboratorium;\n  - h. memeriksa peralatan dan keaktifan sistem pemantauan kapal perikanan;",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.3280700445175171,
+            "t": 0.21452081203460693,
+            "r": 0.9040943384170532,
+            "b": 0.7929232120513916
+          },
+          "page": 20
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "02090bc7-2ba7-476d-a079-d6f076b1732e"
+    },
+    {
+      "text": "i. menghentikan . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.666275143623352,
+            "t": 0.8113174438476562,
+            "r": 0.8758996725082397,
+            "b": 0.8343319892883301
+          },
+          "page": 20
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "32682ced-02e5-480d-98d7-caba33097371"
+    },
+    {
+      "text": "- 22 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4649045765399933,
+            "t": 0.1725960671901703,
+            "r": 0.5310861468315125,
+            "b": 0.19230997562408447
+          },
+          "page": 21
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "15e2a83f-43eb-4301-bce0-90fc84857727"
+    },
+    {
+      "text": "- i. menghentikan, memeriksa, membawa, menahan, dan menangkap kapal dan/atau orang yang diduga atau patut diduga melakukan tindak pidana perikanan di wilayah pengelolaan perikanan Negara Republik Indonesia sampai dengan diserahkannya kapal dan/atau orang tersebut di pelabuhan tempat perkara tersebut dapat diproses lebih lanjut oleh penyidik;\n- j. menyampaikan rekomendasi kepada pemberi izin untuk memberikan sanksi sesuai dengan ketentuan peraturan perundang-undangan;\n- k. melakukan tindakan khusus terhadap kapal perikanan yang berusaha melarikan diri dan/atau melawan dan/atau membahayakan keselamatan kapal pengawas perikanan dan/atau awak kapal perikanan; dan/atau\n- l. mengadakan tindakan lain menurut hukum yang bertanggung jawab.\n\n(2) Pengawas perikanan sebagaimana dimaksud pada ayat (1) dalam melaksanakan tugasnya dapat dilengkapi dengan kapal pengawas perikanan, senjata api, dan/atau alat pengaman diri.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.32790708541870117,
+            "t": 0.21715112030506134,
+            "r": 0.8970853090286255,
+            "b": 0.5740851163864136
+          },
+          "page": 21
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "ae141d33-4dbb-42ef-8ced-0d7bc8b43e5a"
+    },
+    {
+      "text": "29. Ketentuan Pasal 69 diubah sehingga Pasal 69 berbunyi sebagai berikut:\n\n    Pasal 69\n\n    (1) Kapal pengawas perikanan berfungsi melaksanakan pengawasan dan penegakan hukum di bidang perikanan dalam wilayah pengelolaan perikanan Negara Republik Indonesia.\n\n    (2) Kapal pengawas perikanan sebagaimana dimaksud pada ayat (1), dapat dilengkapi dengan senjata api.\n\n    (3) Kapal pengawas perikanan dapat menghentikan, memeriksa, membawa, dan menahan kapal yang diduga atau patut diduga melakukan pelanggaran di wilayah pengelolaan perikanan Negara Republik Indonesia ke pelabuhan terdekat untuk pemrosesan lebih lanjut.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2690070569515228,
+            "t": 0.5821303725242615,
+            "r": 0.8969873189926147,
+            "b": 0.832981288433075
+          },
+          "page": 21
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "482e9a37-6292-4029-af84-f561d1426912"
+    },
+    {
+      "text": "(4) Dalam . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7461524605751038,
+            "t": 0.8465937972068787,
+            "r": 0.8901450037956238,
+            "b": 0.8696840405464172
+          },
+          "page": 21
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "55a522a0-2c40-4858-95bd-19ae922cbb3f"
+    },
+    {
+      "text": "$-23$",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.46351897716522217,
+            "t": 0.17211568355560303,
+            "r": 0.5323343276977539,
+            "b": 0.1932239532470703
+          },
+          "page": 22
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "15f4552d-e3be-4d8c-bcea-99ef307e9d22"
+    },
+    {
+      "text": "(4) Dalam melaksanakan fungsi sebagaimana dimaksud pada ayat (1) penyidik dan/atau pengawas perikanan dapat melakukan tindakan khusus berupa pembakaran dan/atau penenggelaman kapal perikanan yang berbendera asing berdasarkan bukti permulaan yang cukup.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.32905489206314087,
+            "t": 0.2169174700975418,
+            "r": 0.8940574526786804,
+            "b": 0.31213024258613586
+          },
+          "page": 22
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "66e21d52-38fc-4610-8985-9dbbb077d493"
+    },
+    {
+      "text": "30. Ketentuan Pasal 71 diubah sehingga Pasal 71 berbunyi sebagai berikut:\n\n        Pasal 71\n\n(1) Dengan Undang-Undang ini dibentuk pengadilan perikanan yang berwenang memeriksa, mengadili, dan memutus tindak pidana di bidang perikanan.\n\n(2) Pengadilan perikanan sebagaimana dimaksud pada ayat (1) merupakan pengadilan khusus yang berada dalam lingkungan peradilan umum.\n\n(3) Pengadilan perikanan sebagaimana dimaksud pada ayat (1) akan dibentuk di Pengadilan Negeri Jakarta Utara, Medan, Pontianak, Bitung, dan Tual.\n\n(4) Pengadilan perikanan sebagaimana dimaksud pada ayat (1) berkedudukan di pengadilan negeri.\n\n(5) Pembentukan pengadilan perikanan selanjutnya dilakukan secara bertahap sesuai dengan kebutuhan yang ditetapkan dengan Keputusan Presiden.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.268030047416687,
+            "t": 0.32558324933052063,
+            "r": 0.8998293876647949,
+            "b": 0.6370193958282471
+          },
+          "page": 22
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "3ea303a9-fac7-4da7-a1f2-882402e95c59"
+    },
+    {
+      "text": "31.  Di antara Pasal 71 dan Pasal 72 disisipkan 1 (satu) pasal yakni Pasal 71A, yang berbunyi sebagai berikut:",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2696339190006256,
+            "t": 0.6376516819000244,
+            "r": 0.8946171998977661,
+            "b": 0.6748670339584351
+          },
+          "page": 22
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "445cb159-391e-48de-8444-86cc125dff45"
+    },
+    {
+      "text": "Pasal 71A",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4451347887516022,
+            "t": 0.6783143877983093,
+            "r": 0.5602138638496399,
+            "b": 0.6981776356697083
+          },
+          "page": 22
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "f1df8dec-db5e-423c-b282-cd9c31f92caf"
+    },
+    {
+      "text": "Pengadilan perikanan berwenang memeriksa, mengadili, dan memutuskan perkara tindak pidana di bidang perikanan yang terjadi di wilayah pengelolaan perikanan Negara Republik Indonesia, baik yang dilakukan oleh warga negara Indonesia maupun warga negara asing.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.32820549607276917,
+            "t": 0.7046137452125549,
+            "r": 0.8942415714263916,
+            "b": 0.7823839783668518
+          },
+          "page": 22
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "e9614993-df93-4b7e-ac4b-26946b3f247c"
+    },
+    {
+      "text": "32. Ketentuan . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.700678288936615,
+            "t": 0.8024068474769592,
+            "r": 0.8907929062843323,
+            "b": 0.8240231871604919
+          },
+          "page": 22
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "3bf7d30b-6239-466e-85e7-bf695cb210b5"
+    },
+    {
+      "text": "$-24-$",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4657953381538391,
+            "t": 0.17294810712337494,
+            "r": 0.527622640132904,
+            "b": 0.19028936326503754
+          },
+          "page": 23
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "d1395d3c-3949-4cfb-8dff-7ef5bb51d266"
+    },
+    {
+      "text": "32. Ketentuan Pasal 73 diubah sehingga Pasal 73 berbunyi sebagai berikut:\n\nPasal 73\n\n(1) Penyidikan tindak pidana di bidang perikanan di wilayah pengelolaan perikanan Negara Republik Indonesia dilakukan oleh Penyidik Pegawai Negeri Sipil Perikanan, Penyidik Perwira TNI AL, dan/atau Penyidik Kepolisian Negara Republik Indonesia.\n\n(2) Selain penyidik TNI AL, Penyidik Pegawai Negeri Sipil Perikanan berwenang melakukan penyidikan terhadap tindak pidana di bidang perikanan yang terjadi di ZEEI.\n\n(3) Penyidikan terhadap tindak pidana di bidang perikanan yang terjadi di pelabuhan perikanan, diutamakan dilakukan oleh Penyidik Pegawai Negeri Sipil Perikanan.\n\n(4) Penyidik sebagaimana dimaksud pada ayat (1) dapat melakukan koordinasi dalam penanganan penyidikan tindak pidana di bidang perikanan.\n\n(5) Untuk melakukan koordinasi dalam penanganan tindak pidana di bidang perikanan sebagaimana dimaksud pada ayat (4), Menteri membentuk forum koordinasi.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2705751061439514,
+            "t": 0.19897258281707764,
+            "r": 0.8966377377510071,
+            "b": 0.5626000165939331
+          },
+          "page": 23
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "ff780e22-e981-4173-9098-373315208b53"
+    },
+    {
+      "text": "33.  Di antara Pasal 73 dan Pasal 74 disisipkan 2 (dua) pasal yakni Pasal 73A dan Pasal 73B, yang berbunyi sebagai berikut:\n\n        Pasal 73A\n\nPenyidik sebagaimana dimaksud dalam Pasal 73 berwenang:\na. menerima laporan atau pengaduan dari seseorang tentang adanya tindak pidana di bidang perikanan;\nb. memanggil dan memeriksa tersangka dan/atau saksi untuk didengar keterangannya;\nc. membawa dan menghadapkan seseorang sebagai tersangka dan/atau saksi untuk didengar keterangannya;\nd. menggeledah sarana dan prasarana perikanan yang diduga digunakan dalam atau menjadi tempat melakukan tindak pidana di bidang perikanan;",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2711491584777832,
+            "t": 0.5736972093582153,
+            "r": 0.8955502510070801,
+            "b": 0.840673565864563
+          },
+          "page": 23
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "37b0a362-19d6-4e0c-b8dd-4dde1df155a2"
+    },
+    {
+      "text": "e. menghentikan . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.6779595613479614,
+            "t": 0.858074963092804,
+            "r": 0.8899283409118652,
+            "b": 0.8772150874137878
+          },
+          "page": 23
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "f1f67d9f-62a6-41f3-bf2c-7620609f1d50"
+    },
+    {
+      "text": "-25-",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.46474674344062805,
+            "t": 0.17206358909606934,
+            "r": 0.5303590297698975,
+            "b": 0.19176262617111206
+          },
+          "page": 24
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "8e4e785d-e7c2-4921-a663-f16847f792c6"
+    },
+    {
+      "text": "e. menghentikan, memeriksa, menangkap, membawa, dan/atau menahan kapal dan/atau orang yang disangka melakukan tindak pidana di bidang perikanan;\nf. memeriksa kelengkapan dan keabsahan dokumen usaha perikanan;\ng. memotret tersangka dan/atau barang bukti tindak pidana di bidang perikanan;\nh. mendatangkan ahli yang diperlukan dalam hubungannya dengan tindak pidana di bidang perikanan;\ni. membuat dan menandatangani berita acara pemeriksaan;\nj. melakukan penyitaan terhadap barang bukti yang digunakan dan/atau hasil tindak pidana;\nk. melakukan penghentian penyidikan; dan\nl. mengadakan tindakan lain yang menurut hukum dapat dipertanggungjawabkan.\n\nPasal 73B\n\n(1) Penyidik sebagaimana dimaksud dalam Pasal 73 memberitahukan dimulainya penyidikan kepada penuntut umum paling lama 7 (tujuh) hari sejak ditemukan adanya tindak pidana di bidang perikanan.\n\n(2) Untuk kepentingan penyidikan, penyidik dapat menahan tersangka paling lama 20 (dua puluh) hari.\n\n(3) Jangka waktu sebagaimana dimaksud pada ayat (2), apabila diperlukan untuk kepentingan pemeriksaan yang belum selesai, dapat diperpanjang oleh penuntut umum paling lama 10 (sepuluh) hari.\n\n(4) Ketentuan sebagaimana dimaksud pada ayat (2) dan ayat (3) tidak menutup kemungkinan tersangka dikeluarkan dari tahanan sebelum berakhir waktu penahanan tersebut, jika kepentingan pemeriksaan sudah terpenuhi.\n\n(5) Setelah waktu 30 (tiga puluh) hari tersebut, penyidik harus sudah mengeluarkan tersangka dari tahanan demi hukum.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.32458770275115967,
+            "t": 0.19988331198692322,
+            "r": 0.9010756015777588,
+            "b": 0.8491801023483276
+          },
+          "page": 24
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "d9bc0856-8b55-4d33-8a78-c138f87c29f6"
+    },
+    {
+      "text": "(6) Penyidik . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7267594337463379,
+            "t": 0.864626407623291,
+            "r": 0.8911354541778564,
+            "b": 0.8876360654830933
+          },
+          "page": 24
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "6b7f3d1a-3a22-42a5-87c6-8bf30ba1a366"
+    },
+    {
+      "text": "-26-",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.46453791856765747,
+            "t": 0.17254287004470825,
+            "r": 0.531135082244873,
+            "b": 0.19156217575073242
+          },
+          "page": 25
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "34b12b85-214c-4d21-807e-2c519b35aaf7"
+    },
+    {
+      "text": "(6) Penyidik sebagaimana dimaksud dalam Pasal 73A menyampaikan hasil penyidikan ke penuntut umum paling lama 30 (tiga puluh) hari sejak pemberitahuan dimulainya penyidikan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.3302471339702606,
+            "t": 0.19901016354560852,
+            "r": 0.893107533454895,
+            "b": 0.26300036907196045
+          },
+          "page": 25
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "ccce6948-8ff2-4f90-b7ef-d4927354faa9"
+    },
+    {
+      "text": "34. Ketentuan Pasal 75 diubah sehingga Pasal 75 berbunyi sebagai berikut:\n\n    Pasal 75\n\n    (1) Penuntutan terhadap tindak pidana di bidang perikanan dilakukan oleh penuntut umum yang ditetapkan oleh Jaksa Agung.\n\n    (2) Penuntut umum perkara tindak pidana di bidang perikanan sebagaimana dimaksud pada ayat (1) harus memenuhi persyaratan sebagai berikut:\n        a. berpengalaman menjadi penuntut umum sekurang-kurangnya 2 (dua) tahun;\n        b. telah mengikuti pendidikan dan pelatihan teknis di bidang perikanan; dan\n        c. cakap dan memiliki integritas moral yang tinggi selama menjalankan tugasnya.\n\n35. Ketentuan Pasal 76 ditambah 1 (satu) ayat yakni ayat (9), sehingga Pasal 76 berbunyi sebagai berikut:\n\n    Pasal 76\n\n    (1) Penuntut umum setelah menerima hasil penyidikan dari penyidik wajib memberitahukan hasil penelitiannya kepada penyidik dalam waktu 5 (lima) hari terhitung sejak tanggal diterimanya berkas penyidikan.\n\n    (2) Dalam hal hasil penyidikan yang disampaikan tidak lengkap, penuntut umum harus mengembalikan berkas perkara kepada penyidik yang disertai dengan petunjuk tentang hal-hal yang harus dilengkapi.\n\n    (3) Dalam waktu paling lama 10 (sepuluh) hari terhitung sejak tanggal penerimaan berkas, penyidik harus menyampaikan kembali berkas perkara tersebut kepada penuntut umum.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2686206102371216,
+            "t": 0.2718185782432556,
+            "r": 0.8986575603485107,
+            "b": 0.8065654635429382
+          },
+          "page": 25
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "1c05ad87-fb8b-4113-b553-fc934b384d11"
+    },
+    {
+      "text": "(4) Penyidikan . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7035878896713257,
+            "t": 0.8204789757728577,
+            "r": 0.8898347616195679,
+            "b": 0.8434744477272034
+          },
+          "page": 25
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "2acc4b5c-77fb-4059-b7a0-3b2a19856585"
+    },
+    {
+      "text": "-27-",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4646396040916443,
+            "t": 0.17175394296646118,
+            "r": 0.5315989851951599,
+            "b": 0.1919974386692047
+          },
+          "page": 26
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "25095fcd-80bf-420a-83db-b0d803403158"
+    },
+    {
+      "text": "4. Penyidikan dianggap telah selesai apabila dalam waktu 5 (lima) hari penuntut umum tidak mengembalikan hasil penyidikan atau apabila sebelum batas waktu tersebut berakhir sudah ada pemberitahuan tentang hal itu dari penuntut umum kepada penyidik.\n\n5. Dalam hal penuntut umum menyatakan hasil penyidikan tersebut lengkap dalam waktu paling lama 10 (sepuluh) hari terhitung sejak tanggal penerimaan berkas dari penyidik dinyatakan lengkap, penuntut umum harus melimpahkan perkara tersebut kepada pengadilan perikanan.\n\n6. Untuk kepentingan penuntutan, penuntut umum berwenang melakukan penahanan atau penahanan lanjutan selama 10 (sepuluh) hari.\n\n7. Jangka waktu sebagaimana dimaksud pada ayat (6), apabila diperlukan guna kepentingan pemeriksaan yang belum selesai, dapat diperpanjang oleh ketua pengadilan negeri yang berwenang paling lama 10 (sepuluh) hari.\n\n8. Ketentuan sebagaimana dimaksud pada ayat (6) dan ayat (7) tidak menutup kemungkinan tersangka dikeluarkan dari tahanan sebelum jangka waktu penahanan berakhir jika kepentingan pemeriksaan sudah terpenuhi.\n\n9. Penuntut umum menyampaikan berkas perkara kepada ketua pengadilan negeri yang berwenang paling lama 30 (tiga puluh) hari sejak tanggal penerimaan berkas dari penyidik dinyatakan lengkap.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.3232584595680237,
+            "t": 0.19906093180179596,
+            "r": 0.8983873724937439,
+            "b": 0.6564147472381592
+          },
+          "page": 26
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "a6d8f8d6-3d81-44b2-9ac9-00c05be336ac"
+    },
+    {
+      "text": "36.  Di antara Bagian Kedua dan Bagian Ketiga disisipkan 1(satu) bagian yakni Bagian Kedua A, yang berbunyi sebagai berikut:\n\n        Bagian Kedua A\n\n        Barang Bukti\n\n        Pasal 76A\n\nBenda dan/atau alat yang digunakan dalam dan/atau yang dihasilkan dari tindak pidana perikanan dapat dirampas untuk negara atau dimusnahkan setelah mendapat persetujuan ketua pengadilan negeri.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.26927468180656433,
+            "t": 0.66508948802948,
+            "r": 0.8961449861526489,
+            "b": 0.8387327194213867
+          },
+          "page": 26
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "155642f0-eafa-48f4-b278-77fbfa87476c"
+    },
+    {
+      "text": "Pasal 76B . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7424471974372864,
+            "t": 0.8562996983528137,
+            "r": 0.8893728852272034,
+            "b": 0.8765960335731506
+          },
+          "page": 26
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "943a0960-a6a5-43a9-b6ed-53cc10ab5b58"
+    },
+    {
+      "text": "- 28 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.462605744600296,
+            "t": 0.1725061535835266,
+            "r": 0.5326516032218933,
+            "b": 0.19200044870376587
+          },
+          "page": 27
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "849c8c09-f3a2-4fa9-8f4c-686d80263eff"
+    },
+    {
+      "text": "Pasal 76B\n\n(1) Barang bukti hasil tindak pidana perikanan yang mudah rusak atau memerlukan biaya perawatan yang tinggi dapat dilelang dengan persetujuan ketua pengadilan negeri.\n\n(2) Barang bukti hasil tindak pidana perikanan yang mudah rusak sebagaimana dimaksud pada ayat (1) berupa jenis ikan terlebih dahulu disisihkan sebagian untuk kepentingan pembuktian di pengadilan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.326116144657135,
+            "t": 0.1996716856956482,
+            "r": 0.8945145010948181,
+            "b": 0.35804784297943115
+          },
+          "page": 27
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "b3d7e4e4-1127-408c-8f59-0bcd4a79469e"
+    },
+    {
+      "text": "Pasal 76C\n\n1. Benda dan/atau alat yang dirampas dari hasil tindak pidana perikanan sebagaimana dimaksud dalam Pasal 76A dapat dilelang untuk negara.\n2. Pelaksanaan lelang dilakukan oleh badan lelang negara sesuai dengan ketentuan peraturan perundang-undangan.\n3. Uang hasil pelelangan dari hasil penyitaan tindak pidana perikanan disetor ke kas negara sebagai penerimaan negara bukan pajak.\n4. Aparat penegak hukum di bidang perikanan yang berhasil menjalankan tugasnya dengan baik dan pihak yang berjasa dalam upaya penyelamatan kekayaan negara diberi penghargaan sesuai dengan ketentuan peraturan perundang-undangan.\n5. Benda dan/atau alat yang dirampas dari hasil tindak pidana perikanan yang berupa kapal perikanan dapat diserahkan kepada kelompok usaha bersama nelayan dan/atau koperasi perikanan.\n6. Ketentuan lebih lanjut mengenai pemberian penghargaan diatur dengan Peraturan Pemerintah.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.3267316520214081,
+            "t": 0.36643582582473755,
+            "r": 0.8959778547286987,
+            "b": 0.7155864834785461
+          },
+          "page": 27
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "50b4d09e-4e3f-492b-8170-0efb71daeee2"
+    },
+    {
+      "text": "37.  Di antara Pasal 78 dan Pasal 79 disisipkan 1 (satu) pasal yakni Pasal 78A, yang berbunyi sebagai berikut:\n        Pasal 78A\n\n(1) Setiap pengadilan negeri yang telah ada pengadilan perikanan, dibentuk subkepaniteraan pengadilan perikanan yang dipimpin oleh seorang panitera muda.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2699512243270874,
+            "t": 0.7256056070327759,
+            "r": 0.8925437927246094,
+            "b": 0.8414394855499268
+          },
+          "page": 27
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "3c1196e0-ddd3-4d5c-9385-7b5db63b9452"
+    },
+    {
+      "text": "(2) Dalam . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7313994765281677,
+            "t": 0.8523724675178528,
+            "r": 0.8748663067817688,
+            "b": 0.8733497262001038
+          },
+          "page": 27
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "a54b6cb6-edb0-44b6-aaa3-3789520bb31b"
+    },
+    {
+      "text": "-29-",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.46528446674346924,
+            "t": 0.17245051264762878,
+            "r": 0.530218780040741,
+            "b": 0.19092881679534912
+          },
+          "page": 28
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "d0bc349f-98fc-45c7-8025-c249414f506d"
+    },
+    {
+      "text": "(2) Dalam melaksanakan tugasnya, panitera muda sebagaimana dimaksud pada ayat (1) dibantu oleh beberapa orang panitera pengganti.\n\n(3) Panitera muda dan panitera pengganti pengadilan perikanan berasal dari lingkungan pengadilan negeri.\n\n(4) Ketentuan mengenai persyaratan, tata cara pengangkatan, dan pemberhentian panitera muda dan panitera pengganti pengadilan perikanan serta susunan organisasi, tugas, dan tata kerja subkepaniteraan pengadilan perikanan diatur dengan peraturan Mahkamah Agung sesuai dengan ketentuan peraturan perundang-undangan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.32853975892066956,
+            "t": 0.19901856780052185,
+            "r": 0.8931167125701904,
+            "b": 0.3998508155345917
+          },
+          "page": 28
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "35ed10a1-f8f0-4ba3-bc91-d30cbbd268be"
+    },
+    {
+      "text": "38. Di antara Pasal 83 dan Pasal 84 disisipkan 1 (satu) pasal yakni Pasal 83A, yang berbunyi sebagai berikut:\n\nPasal 83A\n\n(1) Selain yang ditetapkan sebagai tersangka dalam tindak pidana perikanan atau tindak pidana lainnya, awak kapal lainnya dapat dipulangkan termasuk yang berkewarganegaraan asing.\n\n(2) Pemulangan awak kapal berkewarganegaraan asing sebagaimana dimaksud pada ayat (1) dilakukan oleh instansi yang bertanggung jawab di bidang keimigrasian melalui kedutaan atau perwakilan negara asal awak kapal.\n\n(3) Ketentuan mengenai pemulangan awak kapal berkewarganegaraan asing sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2719198167324066,
+            "t": 0.4113779664039612,
+            "r": 0.8936530351638794,
+            "b": 0.6632272601127625
+          },
+          "page": 28
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "281af8d9-1b0b-4ccb-8056-d548f70e086b"
+    },
+    {
+      "text": "39.  Ketentuan Pasal 85 diubah sehingga Pasal 85 berbunyi sebagai berikut:\n\n        Pasal 85\n\nSetiap orang yang dengan sengaja memiliki, menguasai, membawa, dan/atau menggunakan alat penangkap ikan dan/atau alat bantu penangkapan ikan yang mengganggu dan merusak keberlanjutan sumber daya ikan di kapal penangkap ikan di wilayah pengelolaan perikanan Negara Republik Indonesia sebagaimana dimaksud dalam Pasal 9 dipidana dengan pidana penjara paling lama 5 (lima) tahun dan denda paling banyak Rp2.000.000.000,00 (dua miliar rupiah).",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2716878056526184,
+            "t": 0.6667522192001343,
+            "r": 0.8935460448265076,
+            "b": 0.8545877933502197
+          },
+          "page": 28
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "31d615de-90db-4899-9cb6-bd1706dd3a33"
+    },
+    {
+      "text": "40. Ketentuan . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7025741934776306,
+            "t": 0.8712072372436523,
+            "r": 0.8889011740684509,
+            "b": 0.8917690515518188
+          },
+          "page": 28
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "7879c6b6-2b94-4744-9802-9d072ec90418"
+    },
+    {
+      "text": "- 30 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.46591392159461975,
+            "t": 0.1729051172733307,
+            "r": 0.5281964540481567,
+            "b": 0.19059354066848755
+          },
+          "page": 29
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "b43a1b6f-c6eb-4253-aed4-24c508139448"
+    },
+    {
+      "text": "40. Ketentuan Pasal 93 diubah sehingga Pasal 93 berbunyi sebagai berikut:\n\n    Pasal 93\n\n    (1) Setiap orang yang memiliki dan/atau mengoperasikan kapal penangkap ikan berbendera Indonesia melakukan penangkapan ikan di wilayah pengelolaan perikanan Negara Republik Indonesia dan/atau di laut lepas, yang tidak memiliki SIPI sebagaimana dimaksud dalam Pasal 27 ayat (1), dipidana dengan pidana penjara paling lama 6 (enam) tahun dan denda paling banyak Rp2.000.000.000,00 (dua miliar rupiah).\n\n    (2) Setiap orang yang memiliki dan/atau mengoperasikan kapal penangkap ikan berbendera asing melakukan penangkapan ikan di ZEEI yang tidak memiliki SIPI sebagaimana dimaksud dalam Pasal 27 ayat (2), dipidana dengan pidana penjara paling lama 6 (enam) tahun dan denda paling banyak Rp20.000.000.000,00 (dua puluh miliar rupiah).\n\n    (3) Setiap orang yang mengoperasikan kapal penangkap ikan berbendera Indonesia di wilayah pengelolaan perikanan Negara Republik Indonesia, yang tidak membawa SIPI asli sebagaimana dimaksud dalam Pasal 27 ayat (3), dipidana dengan pidana penjara paling lama 6 (enam) tahun dan denda paling banyak Rp2.000.000.000,00 (dua miliar rupiah).\n\n    (4) Setiap orang yang mengoperasikan kapal penangkap ikan berbendera asing di ZEEI, yang tidak membawa SIPI asli sebagaimana dimaksud dalam Pasal 27 ayat (3), dipidana dengan pidana penjara paling lama 6 (enam) tahun dan denda paling banyak Rp20.000.000.000,00 (dua puluh miliar rupiah).\n\n41. Di antara Pasal 94 dan Pasal 95 disisipkan 1 (satu) pasal yakni Pasal 94A, yang berbunyi sebagai berikut:",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.26967111229896545,
+            "t": 0.19848346710205078,
+            "r": 0.8966858386993408,
+            "b": 0.7465170621871948
+          },
+          "page": 29
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "b9da6d46-863b-4abd-9dd6-2d3569ceb72c"
+    },
+    {
+      "text": "Pasal 94A  \nSetiap orang yang memalsukan dan/atau menggunakan SIUP, SIPI, dan SIKPI palsu sebagaimana dimaksud dalam Pasal 28A dipidana dengan pidana penjara paling lama 7 (tujuh) tahun dan denda paling banyak Rp3.000.000.000,00 (tiga miliar rupiah).",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.328839510679245,
+            "t": 0.7473517656326294,
+            "r": 0.8922994136810303,
+            "b": 0.8401291370391846
+          },
+          "page": 29
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "99d201fd-ab0a-4133-9bcf-cdba8d7468a7"
+    },
+    {
+      "text": "42. Ketentuan . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.6867567300796509,
+            "t": 0.8473691344261169,
+            "r": 0.8754572868347168,
+            "b": 0.8680248856544495
+          },
+          "page": 29
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "72c990fe-6676-421a-8bf6-20e822c45ee1"
+    },
+    {
+      "text": "- 31 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.46394672989845276,
+            "t": 0.17221508920192719,
+            "r": 0.5317968726158142,
+            "b": 0.19336815178394318
+          },
+          "page": 30
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "fa65f039-2cf1-44db-b5d3-bd7157dbd9c2"
+    },
+    {
+      "text": "42.  Ketentuan Pasal 98 diubah sehingga Pasal 98 berbunyi sebagai berikut:",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2706947922706604,
+            "t": 0.22567100822925568,
+            "r": 0.8933144211769104,
+            "b": 0.2607050836086273
+          },
+          "page": 30
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "02c7c703-fc7c-4f11-9c08-0e676b52ec0a"
+    },
+    {
+      "text": "Pasal 98\n\nNakhoda kapal perikanan yang tidak memiliki surat persetujuan berlayar sebagaimana dimaksud dalam Pasal 42 ayat (3) dipidana dengan pidana penjara paling lama 1 (satu) tahun dan denda paling banyak Rp200.000.000,00 (dua ratus juta rupiah).",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.32612743973731995,
+            "t": 0.2632548213005066,
+            "r": 0.894209623336792,
+            "b": 0.3580084443092346
+          },
+          "page": 30
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "5ae934d5-a4d3-47b7-afba-1624602c8e5f"
+    },
+    {
+      "text": "43.    Di antara Pasal 100 dan Pasal 101 disisipkan 4 (empat) pasal yakni Pasal 100A, Pasal 100B, Pasal 100C, dan Pasal 100D, yang berbunyi sebagai berikut:\n        Pasal 100A\n        Dalam hal tindak pidana sebagaimana dimaksud dalam Pasal 28A, pemalsuan persetujuan sebagaimana dimaksud dalam Pasal 35 ayat (1), dan pemalsuan pendaftaran sebagaimana dimaksud dalam Pasal 36 yang melibatkan pejabat, pidananya ditambah 1/3 (satu pertiga) dari ancaman pidana pokok.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2698483169078827,
+            "t": 0.36753973364830017,
+            "r": 0.8943202495574951,
+            "b": 0.5219869613647461
+          },
+          "page": 30
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "47f7cecf-4591-4d24-9bf6-ce8ace56dd4b"
+    },
+    {
+      "text": "Pasal 100B  \nDalam hal tindak pidana sebagaimana dimaksud dalam Pasal 8, Pasal 9, Pasal 12, Pasal 14 ayat (4), Pasal 16 ayat (1), Pasal 20 ayat (3), Pasal 21, Pasal 23 ayat (1), Pasal 26 ayat (1), Pasal 27 ayat (1), Pasal 27 ayat (3), Pasal 28 ayat (1), Pasal 28 ayat (3), Pasal 35 ayat (1), Pasal 36 ayat (1), Pasal 38, Pasal 42 ayat (3), atau Pasal 55 ayat (1) yang dilakukan oleh nelayan kecil dan/atau pembudi daya-ikan kecil dipidana dengan pidana penjara paling lama 1 (satu) tahun atau denda paling banyak Rp250.000.000,00 (dua ratus lima puluh juta rupiah).",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.3278326392173767,
+            "t": 0.5234270095825195,
+            "r": 0.8941652178764343,
+            "b": 0.697185754776001
+          },
+          "page": 30
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "8fddb4b4-d37a-4b61-bde6-db50b4045b79"
+    },
+    {
+      "text": "Pasal 100C  \nDalam hal tindak pidana sebagaimana dimaksud dalam Pasal 7 ayat (2) dilakukan oleh nelayan kecil dan/atau pembudi daya-ikan kecil dipidana dengan pidana denda paling banyak Rp100.000.000,00 (seratus juta rupiah).",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.3287219703197479,
+            "t": 0.6986863613128662,
+            "r": 0.8937464952468872,
+            "b": 0.7771902084350586
+          },
+          "page": 30
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "e6d824a3-3438-4db9-b452-07f0726afedb"
+    },
+    {
+      "text": "Pasal 100D\nDalam hal pengadilan menjatuhkan pidana denda, maka denda dimaksud wajib disetorkan ke kas negara sebagai penerimaan negara bukan pajak kementerian yang membidangi urusan perikanan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.32847335934638977,
+            "t": 0.7781400084495544,
+            "r": 0.8945162296295166,
+            "b": 0.8575761914253235
+          },
+          "page": 30
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "f6666999-d85d-408c-84ab-5462bf0171ff"
+    },
+    {
+      "text": "44. Ketentuan . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7018885016441345,
+            "t": 0.8833097815513611,
+            "r": 0.8902520537376404,
+            "b": 0.9041803479194641
+          },
+          "page": 30
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "881f3765-172c-49fa-9a37-9301f74143d2"
+    },
+    {
+      "text": "-32-",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.46400749683380127,
+            "t": 0.17216266691684723,
+            "r": 0.5322703719139099,
+            "b": 0.1932733803987503
+          },
+          "page": 31
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "2ca8d3b5-760e-481b-8756-52564ebe7ec6"
+    },
+    {
+      "text": "44.   Ketentuan Pasal 105 dihapus.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2708393335342407,
+            "t": 0.21597611904144287,
+            "r": 0.6355597972869873,
+            "b": 0.23830804228782654
+          },
+          "page": 31
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "0b6c2212-a619-42c8-96ee-75159cb7f24b"
+    },
+    {
+      "text": "45. Ketentuan Pasal 110 diubah sehingga Pasal 110 berbunyi sebagai berikut:\n\n    Pasal 110\n\nPada saat Undang-Undang ini mulai berlaku:\n\na. Undang-Undang Nomor 9 Tahun 1985 tentang Perikanan (Lembaran Negara Republik Indonesia Tahun 1985 Nomor 46, Tambahan Lembaran Negara Republik Indonesia Nomor 3299); dan\n\nb. Ketentuan mengenai penyidikan sebagaimana diatur dalam Pasal 14 dan ketentuan mengenai pidana denda dalam Pasal 16 ayat (1) Undang-Undang Nomor 5 Tahun 1983 tentang Zona Ekonomi Eksklusif Indonesia (Lembaran Negara Republik Indonesia Tahun 1983 Nomor 44, Tambahan Lembaran Negara Republik Indonesia Nomor 3260) khususnya yang berkaitan dengan tindak pidana di bidang perikanan;\n\ndicabut dan dinyatakan tidak berlaku.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.269405335187912,
+            "t": 0.24869509041309357,
+            "r": 0.9001631736755371,
+            "b": 0.5359910130500793
+          },
+          "page": 31
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "802c51eb-f743-47c4-a4e2-c896ce0b5e35"
+    },
+    {
+      "text": "46.  Di antara Pasal 110 dan Pasal 111 disisipkan 1 (satu) pasal yakni Pasal 110A, yang berbunyi sebagai berikut:\n\n    Pasal 110A\n\nSemua Peraturan Pemerintah yang diamanatkan untuk melaksanakan ketentuan Undang-Undang ini harus ditetapkan paling lama 1 (satu) tahun sejak Undang-Undang ini diundangkan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.27070289850234985,
+            "t": 0.5469084978103638,
+            "r": 0.895514190196991,
+            "b": 0.6677588224411011
+          },
+          "page": 31
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "caf55eb7-7d3e-4ca8-9682-a7d9bf41649f"
+    },
+    {
+      "text": "PASAL II\n\nUndang-Undang ini mulai berlaku pada tanggal diundangkan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.32587549090385437,
+            "t": 0.6798588037490845,
+            "r": 0.8946990966796875,
+            "b": 0.7443404197692871
+          },
+          "page": 31
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "3d73cebe-ec91-49f4-b4ff-aa5a65aaa7fb"
+    },
+    {
+      "text": "Agar . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7929447293281555,
+            "t": 0.8153079152107239,
+            "r": 0.8914994597434998,
+            "b": 0.8388453125953674
+          },
+          "page": 31
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "55e36089-f9a6-4e37-9e1b-805158fda793"
+    },
+    {
+      "text": "- 33 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.46514788269996643,
+            "t": 0.1729084998369217,
+            "r": 0.5291347503662109,
+            "b": 0.19114045798778534
+          },
+          "page": 32
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "3e63bcaf-eb07-4d05-8af8-27e64cfe5b63"
+    },
+    {
+      "text": "Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-Undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.3290969729423523,
+            "t": 0.2002348154783249,
+            "r": 0.8933971524238586,
+            "b": 0.2616431713104248
+          },
+          "page": 32
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "82e4a49f-dd45-4410-934d-f632bf395173"
+    },
+    {
+      "text": "Disahkan di Jakarta\npada tanggal 29 Oktober 2009",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4495607316493988,
+            "t": 0.27130526304244995,
+            "r": 0.7727802991867065,
+            "b": 0.30277562141418457
+          },
+          "page": 32
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "8bfcb38c-2950-45bd-a478-338f19f64fdd"
+    },
+    {
+      "text": "PRESIDEN REPUBLIK INDONESIA,",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4500551223754883,
+            "t": 0.3125583827495575,
+            "r": 0.7993359565734863,
+            "b": 0.3319421112537384
+          },
+          "page": 32
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "aef74ee3-29f2-4894-985b-cb5e30e6585e"
+    },
+    {
+      "text": "ttd.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.6172119975090027,
+            "t": 0.3529513478279114,
+            "r": 0.6641965508460999,
+            "b": 0.37277865409851074
+          },
+          "page": 32
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "ed8efb1d-90df-465c-8bb5-1a897116398e"
+    },
+    {
+      "text": "DR. H. SUSILO BAMBANG YUDHOYONO",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4484989643096924,
+            "t": 0.39437922835350037,
+            "r": 0.8559362888336182,
+            "b": 0.41601327061653137
+          },
+          "page": 32
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "c73946ce-f7e2-466e-b3ef-48d35f71a4d5"
+    },
+    {
+      "text": "Diundangkan di Jakarta\npada tanggal 29 Oktober 2009",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11063633859157562,
+            "t": 0.45203641057014465,
+            "r": 0.43304312229156494,
+            "b": 0.4848249852657318
+          },
+          "page": 32
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "f4838c48-8573-4f24-99b3-50110132681d"
+    },
+    {
+      "text": "MENTERI HUKUM DAN HAK ASASI MANUSIA\nREPUBLIK INDONESIA,",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11126938462257385,
+            "t": 0.49443233013153076,
+            "r": 0.5657076835632324,
+            "b": 0.5267542600631714
+          },
+          "page": 32
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "bec0f29f-1292-4134-bc55-1140b75dcb1b"
+    },
+    {
+      "text": "ttd.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2997371554374695,
+            "t": 0.5495924949645996,
+            "r": 0.34164297580718994,
+            "b": 0.5679882764816284
+          },
+          "page": 32
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "9505341c-9604-457c-8a0a-ca33d876220c"
+    },
+    {
+      "text": "PATRIAlIS AKBAR",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.22416037321090698,
+            "t": 0.5911613702774048,
+            "r": 0.41475677490234375,
+            "b": 0.6103525161743164
+          },
+          "page": 32
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "72201d5c-80a4-434d-aa40-4c0a961306b7"
+    },
+    {
+      "text": "LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN  2009  NOMOR  154",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11002466082572937,
+            "t": 0.6600425839424133,
+            "r": 0.834589958190918,
+            "b": 0.6803248524665833
+          },
+          "page": 32
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "b14318e2-b055-43c6-a20f-c5bfe56b43f4"
+    },
+    {
+      "text": "PENJELASAN\nATAS\nUNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 45 TAHUN 2009\nTENTANG\nPERUBAHAN ATAS UNDANG-UNDANG NOMOR 31 TAHUN 2004\nTENTANG PERIKANAN",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18178337812423706,
+            "t": 0.1989956498146057,
+            "r": 0.8191322684288025,
+            "b": 0.32579469680786133
+          },
+          "page": 33
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "da1841ee-8af4-4bfe-8266-4583e3fdc00f"
+    },
+    {
+      "text": "I. UMUM\n\nIndonesia sebagai sebuah negara kepulauan yang sebagian besar wilayahnya terdiri dari laut, memiliki potensi perikanan yang sangat besar dan beragam. Potensi perikanan yang dimiliki merupakan potensi ekonomi yang dapat dimanfaatkan untuk masa depan bangsa, sebagai tulang punggung pembangunan nasional. Pemanfaatan secara optimal diarahkan pada pendayagunaan sumber daya ikan dengan memperhatikan daya dukung yang ada dan kelestariannya untuk meningkatkan kesejahteraan rakyat, meningkatkan taraf hidup nelayan kecil dan pembudi daya-ikan kecil, meningkatkan penerimaan dari devisa negara, menyediakan perluasan dan kesempatan kerja, meningkatkan produktivitas, nilai tambah dan daya saing hasil perikanan serta menjamin kelestarian sumber daya ikan, lahan pembudidayaan ikan serta tata ruang. Hal ini berarti bahwa pemanfaatan sumber daya perikanan harus seimbang dengan daya dukungnya, sehingga diharapkan dapat memberikan manfaat secara terus menerus. Salah satunya dilakukan dengan pengendalian usaha perikanan melalui pengaturan pengelolaan perikanan.\nKonvensi Perserikatan Bangsa-Bangsa mengenai Hukum Laut Tahun 1982 yang telah diratifikasi dengan Undang-Undang Nomor 17 Tahun 1985 tentang Pengesahan United Nations Convention on the Law of the Sea 1982, menempatkan Indonesia memiliki hak berdaulat (sovereign rights) untuk melakukan pemanfaatan, konservasi, dan pengelolaan sumber daya ikan di Zona Ekonomi Eksklusif (ZEE) Indonesia, dan Laut Lepas yang dilaksanakan berdasarkan persyaratan atau standar internasional yang berlaku.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.10835286974906921,
+            "t": 0.3403397798538208,
+            "r": 0.892033576965332,
+            "b": 0.6889801025390625
+          },
+          "page": 33
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "be6104fc-4e8d-42e6-8792-c0362b190069"
+    },
+    {
+      "text": "Oleh karena itu, dibutuhkan dasar hukum pengelolaan sumber daya ikan yang mampu menampung semua aspek pengelolaan sumber daya ikan dan mengantisipasi perkembangan kebutuhan hukum dan teknologi. Kehadiran Undang-Undang Nomor 31 Tahun 2004 tentang Perikanan diharapkan dapat mengantisipasi sekaligus sebagai solusi terhadap perubahan yang sangat besar di bidang perikanan, baik yang berkaitan dengan ketersediaan sumber daya ikan, kelestarian lingkungan sumber daya ikan, maupun perkembangan metode pengelolaan perikanan yang semakin efektif, efisien, dan modern.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.12732765078544617,
+            "t": 0.6901122331619263,
+            "r": 0.8942277431488037,
+            "b": 0.8194843530654907
+          },
+          "page": 33
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "889fcc27-5350-439e-9a80-0e2268b3783d"
+    },
+    {
+      "text": "Di sisi . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.774709939956665,
+            "t": 0.828436553478241,
+            "r": 0.8845070600509644,
+            "b": 0.8467703461647034
+          },
+          "page": 33
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "9b865337-1cc2-4cbf-8523-3a919fcb2f6d"
+    },
+    {
+      "text": "$-2-$",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4749594032764435,
+            "t": 0.16605094075202942,
+            "r": 0.5289441347122192,
+            "b": 0.18479371070861816
+          },
+          "page": 34
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "08393ca8-4b78-4cc0-8ce4-3dee39cbcb9a"
+    },
+    {
+      "text": "Di sisi lain, terdapat beberapa isu dalam pembangunan perikanan yang perlu mendapatkan perhatian dari semua pihak, baik pemerintah, masyarakat maupun pihak lain yang terkait dengan pembangunan perikanan. Isu-isu tersebut diantaranya adanya gejala penangkapan ikan yang berlebih, pencurian ikan, dan tindakan *illegal fishing* lainnya yang tidak hanya menimbulkan kerugian bagi negara, tetapi juga mengancam kepentingan nelayan dan pembudi daya-ikan, iklim industri, dan usaha perikanan nasional. Permasalahan tersebut harus diselesaikan dengan sungguh-sungguh, sehingga penegakan hukum di bidang perikanan menjadi sangat penting dan strategis dalam rangka menunjang pembangunan perikanan secara terkendali dan berkelanjutan. Adanya kepastian hukum merupakan suatu kondisi yang mutlak diperlukan dalam penanganan tindak pidana di bidang perikanan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.13098803162574768,
+            "t": 0.20057010650634766,
+            "r": 0.8927206993103027,
+            "b": 0.38614094257354736
+          },
+          "page": 34
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "5675b2e7-5377-43a6-a5e6-7fbcb8c2daeb"
+    },
+    {
+      "text": "Namun pada kenyataannya, Undang-Undang Nomor 31 Tahun 2004 tentang Perikanan saat ini masih belum mampu mengantisipasi perkembangan teknologi serta perkembangan kebutuhan hukum dalam rangka pengelolaan dan pemanfaatan potensi sumber daya ikan dan belum dapat menjawab permasalahan tersebut. Oleh karena itu perlu dilakukan perubahan terhadap beberapa substansi, baik menyangkut aspek manajemen, birokrasi, maupun aspek hukum.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1318962574005127,
+            "t": 0.3863939642906189,
+            "r": 0.8928015232086182,
+            "b": 0.4870157837867737
+          },
+          "page": 34
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "81dab45a-9add-4723-9ff1-5a7691d391a7"
+    },
+    {
+      "text": "Kelemahan pada aspek manajemen pengelolaan perikanan antara lain belum terdapatnya mekanisme koordinasi antarinstansi yang terkait dengan pengelolaan perikanan. Sedangkan pada aspek birokrasi, antara lain terjadinya benturan kepentingan dalam pengelolaan perikanan. Kelemahan pada aspek hukum antara lain masalah penegakan hukum, rumusan sanksi, dan yurisdiksi atau kompetensi relatif pengadilan negeri terhadap tindak pidana di bidang perikanan yang terjadi di luar kewenangan pengadilan negeri tersebut.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1322488784790039,
+            "t": 0.4895092844963074,
+            "r": 0.8915929794311523,
+            "b": 0.6055702567100525
+          },
+          "page": 34
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "05fae0f8-1707-45c1-a1e7-004cd9cc43b7"
+    },
+    {
+      "text": "Melihat beberapa kelemahan yang terdapat dalam Undang-Undang Nomor 31 Tahun 2004 tentang Perikanan di atas, maka dirasa perlu untuk melakukan perubahan terhadap Undang-Undang tersebut, yang meliputi:",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.13279524445533752,
+            "t": 0.6074337363243103,
+            "r": 0.891758918762207,
+            "b": 0.6537652611732483
+          },
+          "page": 34
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "0a74dfc9-94d9-4376-baa5-a0bd3b596286"
+    },
+    {
+      "text": "Pertama, mengenai pengawasan dan penegakan hukum menyangkut masalah mekanisme koordinasi antarinstansi penyidik dalam penanganan penyidikan tindak pidana di bidang perikanan, penerapan sanksi (pidana atau denda), hukum acara, terutama mengenai penentuan batas waktu pemeriksaan perkara, dan fasilitas dalam penegakan hukum di bidang perikanan, termasuk kemungkinan penerapan tindakan hukum berupa penenggelaman kapal asing yang beroperasi di wilayah pengelolaan perikanan Negara Republik Indonesia.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.13280624151229858,
+            "t": 0.6542381644248962,
+            "r": 0.8911967873573303,
+            "b": 0.7684664130210876
+          },
+          "page": 34
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "83d828b8-a269-49bc-8618-6df73c251296"
+    },
+    {
+      "text": "Kedua, masalah pengelolaan perikanan antara lain kepelabuhanan perikanan, konservasi, perizinan, dan kesyahbandaran.\nKetiga, diperlukan perluasan yurisdiksi pengadilan perikanan sehingga mencakup seluruh wilayah pengelolaan perikanan Negara Republik Indonesia.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.13243573904037476,
+            "t": 0.7699078917503357,
+            "r": 0.8921666741371155,
+            "b": 0.8442856669425964
+          },
+          "page": 34
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "ada86b36-60fc-4dcc-b81b-cb1926014ccd"
+    },
+    {
+      "text": "Di samping . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7247351408004761,
+            "t": 0.8573886752128601,
+            "r": 0.8849985599517822,
+            "b": 0.8770387768745422
+          },
+          "page": 34
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "3319ad12-6365-44e5-9f3c-7728f28bdf61"
+    },
+    {
+      "text": "$-3-$",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4739750921726227,
+            "t": 0.16585806012153625,
+            "r": 0.5300265550613403,
+            "b": 0.18499502539634705
+          },
+          "page": 35
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "9de57e56-3888-41e5-8ba1-065d71e39255"
+    },
+    {
+      "text": "Di samping itu perubahan terhadap Undang-Undang Nomor 31 Tahun 2004 tentang Perikanan juga mengarah pada keberpihakan kepada nelayan kecil dan pembudi daya-ikan kecil antara lain dalam aspek perizinan, kewajiban penerapan ketentuan mengenai sistem pemantauan kapal perikanan, pungutan perikanan, dan pengenaan sanksi pidana.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1285577118396759,
+            "t": 0.1988595724105835,
+            "r": 0.8958230018615723,
+            "b": 0.2782897651195526
+          },
+          "page": 35
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "93001778-560d-41fb-86c4-c086749d587d"
+    },
+    {
+      "text": "II. PASAL DEMI PASAL\n\nPasal I\n    Angka 1\n        Pasal 1\n            Cukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.10875086486339569,
+            "t": 0.302593469619751,
+            "r": 0.36261236667633057,
+            "b": 0.4194186329841614
+          },
+          "page": 35
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "30afaf4a-e402-4d04-af5a-0c71b0057f95"
+    },
+    {
+      "text": "Angka 2\nPasal 2\nHuruf a\n    Yang dimaksud dengan \"asas manfaat\" adalah asas yang menunjukkan bahwa pengelolaan perikanan harus mampu memberikan keuntungan dan manfaat yang sebesar-besarnya bagi peningkatan kemakmuran dan kesejahteraan rakyat.\nHuruf b\n    Yang dimaksud dengan \"asas keadilan\" adalah pengelolaan perikanan harus mampu memberikan peluang dan kesempatan yang sama secara proporsional bagi seluruh warga negara tanpa kecuali.\nHuruf c\n    Yang dimaksud dengan \"asas kebersamaan\" adalah pengelolaan perikanan mampu melibatkan seluruh pemangku kepentingan agar tercapai kesejahteraan masyarakat perikanan.\nHuruf d\n    Yang dimaksud dengan \"asas kemitraan\" adalah pengelolaan perikanan dilakukan dengan pendekatan kekuatan jejaring pelaku usaha dan sumber daya yang mempertimbangkan aspek kesetaraan dalam berusaha secara proporsional.\nHuruf e\n    Yang dimaksud dengan “asas kemandirian” adalah pengelolaan perikanan dilakukan dengan mengoptimalkan potensi perikanan yang ada.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.16631752252578735,
+            "t": 0.4324033856391907,
+            "r": 0.8989786505699158,
+            "b": 0.8378987908363342
+          },
+          "page": 35
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "3f317e53-6d2f-43d0-bf55-b53b580a86ec"
+    },
+    {
+      "text": "Huruf f . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7633400559425354,
+            "t": 0.8466626405715942,
+            "r": 0.8865428566932678,
+            "b": 0.869025468826294
+          },
+          "page": 35
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "f53be91d-8d21-4324-9790-e67b3f626b5c"
+    },
+    {
+      "text": "$-4-$",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.47592005133628845,
+            "t": 0.16653387248516083,
+            "r": 0.5280201435089111,
+            "b": 0.18355543911457062
+          },
+          "page": 36
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "6a722761-ab57-4103-909e-dccfaf5abe5e"
+    },
+    {
+      "text": "Huruf f  \nYang dimaksud dengan \"asas pemerataan\" adalah pengelolaan perikanan dilakukan secara seimbang dan merata, dengan memperhatikan nelayan kecil dan pembudi daya-ikan kecil.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.22594031691551208,
+            "t": 0.199172705411911,
+            "r": 0.8926094770431519,
+            "b": 0.26399147510528564
+          },
+          "page": 36
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "90698f54-cac7-46c7-b146-76b5b5433f5b"
+    },
+    {
+      "text": "Huruf g  \n    Yang dimaksud dengan \"asas keterpaduan\" adalah pengelolaan perikanan dilakukan secara terpadu dari hulu sampai hilir dalam upaya meningkatkan efisiensi dan produktivitas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.22764354944229126,
+            "t": 0.26442191004753113,
+            "r": 0.893039882183075,
+            "b": 0.3263097107410431
+          },
+          "page": 36
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "d57d9eff-30d1-46b0-aad4-16e48829a955"
+    },
+    {
+      "text": "Huruf h  \nYang dimaksud dengan \"asas keterbukaan\" adalah pengelolaan perikanan dilakukan dengan memperhatikan aspirasi masyarakat dan didukung dengan ketersediaan informasi yang dapat diakses oleh masyarakat.\n\nHuruf i  \nYang dimaksud dengan \"asas efisiensi\" adalah pengelolaan perikanan dilakukan dengan tepat, cermat, dan berdaya guna untuk memperoleh hasil yang maksimal.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.22677841782569885,
+            "t": 0.325746089220047,
+            "r": 0.8931876420974731,
+            "b": 0.463575154542923
+          },
+          "page": 36
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "dee1d387-438d-4054-8c3d-fdd1ccdc9e4e"
+    },
+    {
+      "text": "Huruf j  \n    Yang dimaksud dengan “asas kelestarian” adalah pengelolaan perikanan dilakukan seoptimal mungkin dengan tetap memperhatikan aspek kelestarian sumber daya ikan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2277660369873047,
+            "t": 0.46409863233566284,
+            "r": 0.8913606405258179,
+            "b": 0.5250365138053894
+          },
+          "page": 36
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "b02cf63a-a976-40f2-8135-9f2ab9ffdb6a"
+    },
+    {
+      "text": "Huruf k  \nYang dimaksud dengan \"asas pembangunan yang berkelanjutan\" adalah pengelolaan perikanan dilakukan secara terencana dan mampu meningkatkan kemakmuran serta kesejahteraan rakyat dengan mengutamakan kelestarian fungsi lingkungan hidup untuk masa kini dan masa yang akan datang.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.22795918583869934,
+            "t": 0.5254451036453247,
+            "r": 0.892209529876709,
+            "b": 0.6296778917312622
+          },
+          "page": 36
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "7ecfb887-0d7e-4425-ad70-d5403ce8b9cd"
+    },
+    {
+      "text": "Angka 3\nPasal 7\nAyat (1)\n    Huruf a\n        Cukup jelas.\n    Huruf b\n        Cukup jelas.\n    Huruf c\n        Cukup jelas.\n    Huruf d\n        Cukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.17530111968517303,
+            "t": 0.6445035338401794,
+            "r": 0.44362640380859375,
+            "b": 0.8353622555732727
+          },
+          "page": 36
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "b9d5032f-1b24-4052-a4e7-2623e208db77"
+    },
+    {
+      "text": "Huruf e . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7700765132904053,
+            "t": 0.8559120297431946,
+            "r": 0.89357590675354,
+            "b": 0.8768689036369324
+          },
+          "page": 36
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "440302d3-cf22-4639-9da3-7f2931007efe"
+    },
+    {
+      "text": "- 5 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4764786660671234,
+            "t": 0.1654224842786789,
+            "r": 0.5284260511398315,
+            "b": 0.18407104909420013
+          },
+          "page": 37
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "f1ac4c66-8d6b-4562-82a0-01385b9f6260"
+    },
+    {
+      "text": "Huruf e\n    Cukup jelas.\nHuruf f\n    Cukup jelas.\nHuruf g\n    Cukup jelas.\nHuruf h\n    Cukup jelas.\nHuruf i\n    Cukup jelas.\nHuruf j\n    Cukup jelas.\nHuruf k\n    Yang dimaksud dengan “sistem pemantauan kapal perikanan” adalah salah satu bentuk sistem pengawasan di bidang penangkapan ikan dengan menggunakan peralatan pemantauan kapal perikanan yang telah ditentukan, seperti sistem pemantauan kapal perikanan (vessel monitoring system/VMS).",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.261387437582016,
+            "t": 0.19908195734024048,
+            "r": 0.8923954963684082,
+            "b": 0.5114511847496033
+          },
+          "page": 37
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "4eeddb9e-4879-4b1d-9166-379b846eb214"
+    },
+    {
+      "text": "Huruf 1  \nDalam usaha meningkatkan produktivitas suatu perairan dapat dilakukan penebaran ikan jenis baru, yang kemungkinan menimbulkan efek negatif bagi kelestarian sumber daya ikan setempat sehingga perlu dipertimbangkan agar penebaran ikan jenis baru dapat beradaptasi dengan lingkungan sumber daya ikan setempat dan/atau tidak merusak keaslian sumber daya ikan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2635520100593567,
+            "t": 0.5093462467193604,
+            "r": 0.8941161036491394,
+            "b": 0.6413320302963257
+          },
+          "page": 37
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "78adf2a3-d4fe-49ea-8526-7f0925914868"
+    },
+    {
+      "text": "Huruf m  \n    Yang dimaksud dengan “penangkapan ikan berbasis budi daya” adalah penangkapan sumber daya ikan yang berkembang biak dari hasil penebaran kembali.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2646504044532776,
+            "t": 0.641299307346344,
+            "r": 0.8942511677742004,
+            "b": 0.7027371525764465
+          },
+          "page": 37
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "451e725c-2130-416b-801d-1f0593c6b405"
+    },
+    {
+      "text": "Huruf n\n\nSesuai dengan perkembangan teknologi, pembudidayaan ikan tidak lagi terbatas di kolam atau tambak, tetapi dilakukan pula di sungai, danau, dan laut.\nKarena perairan ini menyangkut kepentingan umum, perlu adanya penetapan lokasi dan luas daerah serta cara yang dipergunakan agar tidak mengganggu kepentingan umum.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.26463237404823303,
+            "t": 0.7024583220481873,
+            "r": 0.8939671516418457,
+            "b": 0.8252785801887512
+          },
+          "page": 37
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "01bed84b-9659-48b3-ab0c-fddfec323de3"
+    },
+    {
+      "text": "Di samping . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7346161007881165,
+            "t": 0.8473061323165894,
+            "r": 0.8946800827980042,
+            "b": 0.8695451021194458
+          },
+          "page": 37
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "2523eccc-268c-4cd9-a507-c4437f9ab237"
+    },
+    {
+      "text": "- 6 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4749084413051605,
+            "t": 0.16686709225177765,
+            "r": 0.5285044312477112,
+            "b": 0.18396992981433868
+          },
+          "page": 38
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "8d6aa3c2-f4e7-44ce-8c68-0067bd960adb"
+    },
+    {
+      "text": "Di samping itu, perlu ditetapkan ketentuan yang bertujuan melindungi pembudidayaan tersebut, misalnya, pencemaran lingkungan sumber daya ikan.\n\nHuruf o\nCukup jelas.\n\nHuruf p\nAda beberapa cara yang dapat ditempuh dalam melaksanakan rehabilitasi dan peningkatan sumber daya ikan dan lingkungannya, antara lain, dengan penanaman atau reboisasi hutan bakau, pemasangan terumbu karang buatan, pembuatan tempat berlindung atau berkembang biak ikan, peningkatan kesuburan perairan dengan jalan pemupukan atau penambahan jenis makanan, pembuatan saluran ruaya ikan, atau pengerukan dasar perairan.\n\nHuruf q\nCukup jelas.\n\nHuruf r\nYang dimaksud dengan “kawasan konservasi perairan” adalah kawasan perairan yang dilindungi, dikelola dengan sistem zonasi, untuk mewujudkan pengelolaan sumber daya ikan dan lingkungannya secara berkelanjutan.\n\nHuruf s\nPenetapan wabah dan wilayah wabah penyakit ikan bertujuan agar masyarakat mengetahui bahwa dalam wilayah tersebut terjangkit wabah, dan ditetapkan langkah pencegahan terjadinya penyebaran wabah penyakit ikan dari satu wilayah ke wilayah lainnya.\n\nHuruf t\nCukup jelas.\n\nHuruf u\nCukup jelas.\n\nAyat (2)\nCukup jelas.\n\nAyat (3)\nCukup jelas.\n\nAyat (4)\nCukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2194996476173401,
+            "t": 0.19192734360694885,
+            "r": 0.9025307297706604,
+            "b": 0.8092924356460571
+          },
+          "page": 38
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "74b9dc19-d737-4ae4-901a-ade3c6811079"
+    },
+    {
+      "text": "Ayat (5) . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7467220425605774,
+            "t": 0.8543109893798828,
+            "r": 0.8782657980918884,
+            "b": 0.8794454336166382
+          },
+          "page": 38
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "7f195a75-2511-423a-80f4-1ef7d193ee31"
+    },
+    {
+      "text": "$-7$",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4762015640735626,
+            "t": 0.16595737636089325,
+            "r": 0.5285558700561523,
+            "b": 0.18376223742961884
+          },
+          "page": 39
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "22ba4017-8e0f-41e5-8cfe-877f52702b66"
+    },
+    {
+      "text": "Ayat (5)\n    Yang dimaksud dengan “para ahli” adalah terdiri dari pakar, akademisi, dan pejabat instansi pemerintah terkait yang mempunyai keahlian di bidang sumber daya ikan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.22680333256721497,
+            "t": 0.19959886372089386,
+            "r": 0.8936961889266968,
+            "b": 0.26537737250328064
+          },
+          "page": 39
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "a6470e2e-2dcc-4deb-894e-964944cd1d6a"
+    },
+    {
+      "text": "Ayat (6)\nYang dimaksud dengan “jenis ikan” adalah:\n- a. ikan bersirip (*pisces*);\n- b. udang, rajungan, kepiting, dan sebangsanya (*crustacea*);\n- c. kerang, tiram, cumi-cumi, gurita, siput, dan sebangsanya (*mollusca*);\n- d. ubur-ubur dan sebangsanya (*coelenterata*);\n- e. tripang, bulu babi, dan sebangsanya (*echinodermata*);\n- f. kodok dan sebangsanya (*amphibia*);\n- g. buaya, penyu, kura-kura, biawak, ular air, dan sebangsanya (*reptilia*);\n- h. paus, lumba-lumba, pesut, duyung, dan sebangsanya (*mammalia*);\n- i. rumput laut dan tumbuh-tumbuhan lain yang hidupnya di dalam air (*algae*); dan\n- j. biota perairan lainnya yang ada kaitannya dengan jenis-jenis tersebut di atas;\n\nsemuanya termasuk bagian-bagiannya dan ikan yang dilindungi.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.22645369172096252,
+            "t": 0.26989758014678955,
+            "r": 0.8968605995178223,
+            "b": 0.5763443112373352
+          },
+          "page": 39
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "cd04e8ca-980b-41bd-b22a-2e94e9287e3a"
+    },
+    {
+      "text": "Angka 4\nPasal 9\n    Alat penangkapan ikan dan/atau alat bantu penangkapan ikan yang mengganggu dan merusak keberlanjutan sumber daya ikan termasuk diantaranya jaring trawl atau pukat harimau, dan/atau kompressor.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.17637968063354492,
+            "t": 0.5822287797927856,
+            "r": 0.8931149244308472,
+            "b": 0.6780077219009399
+          },
+          "page": 39
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "d54185dc-b254-49ef-b2f1-31300993d612"
+    },
+    {
+      "text": "Angka 5\nPasal 14\nAyat (1)\nYang dimaksud dengan “plasma nutfah” adalah substansi yang terdapat dalam kelompok makhluk hidup dan merupakan sumber atau sifat keturunan yang dapat dimanfaatkan dan dikembangkan atau dirakit untuk menciptakan jenis unggul baru, untuk melindungi plasma nutfah yang ada agar tidak hilang, punah, atau rusak, disamping juga sebagai bentuk perlindungan ekosistem yang ada.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.17562246322631836,
+            "t": 0.6830334663391113,
+            "r": 0.8931276798248291,
+            "b": 0.8388639688491821
+          },
+          "page": 39
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "d08a6459-884a-4ea5-a6e6-ee3de10bbab0"
+    },
+    {
+      "text": "Ayat (2) . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7607324123382568,
+            "t": 0.8647636771202087,
+            "r": 0.884839653968811,
+            "b": 0.8874221444129944
+          },
+          "page": 39
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "d15fa807-c097-410c-8f28-0efe38ba9d7b"
+    },
+    {
+      "text": "$-8-$",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.47650596499443054,
+            "t": 0.1661866158246994,
+            "r": 0.5277931690216064,
+            "b": 0.18316446244716644
+          },
+          "page": 40
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "f1a975bf-a375-45f1-a9f8-5fc5a5c01f0c"
+    },
+    {
+      "text": "Ayat (2)\n    Cukup jelas.\n\nAyat (3)\n    Yang dimaksud dengan “ikan jenis baru” adalah ikan yang bukan asli dan/atau tidak berasal dari alam darat dan laut Indonesia yang dikenali dan/atau diketahui dimasukkan ke dalam wilayah pengelolaan perikanan Negara Republik Indonesia maupun ikan yang berasal dari hasil pemuliaan, baik dalam negeri maupun luar negeri.\n\nAyat (4)\n    Cukup jelas.\n\nAyat (5)\n    Cukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.21975451707839966,
+            "t": 0.19797435402870178,
+            "r": 0.896327555179596,
+            "b": 0.432818740606308
+          },
+          "page": 40
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "6ce8851a-a9eb-452b-8e10-9cfdc998c42f"
+    },
+    {
+      "text": "Angka 6\nPasal 15A\nCukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.17419946193695068,
+            "t": 0.45155882835388184,
+            "r": 0.3649728298187256,
+            "b": 0.5095487833023071
+          },
+          "page": 40
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "6f02bb38-b904-43ef-b7be-130315b32aeb"
+    },
+    {
+      "text": "Angka 7  \nPasal 18  \nAyat (1)  \nTata pemanfaatan air dan lahan pembudidayaan ikan dimaksudkan agar distribusi dan pemanfaatan air dapat dilakukan secara maksimal, sesuai dengan kebutuhan teknis pembudidayaan ikan serta dapat dihindari penggunaan lahan yang dapat merugikan pembudidayaan ikan, termasuk ketersediaan sabuk hijau (*greenbelt*).\n\nAyat (2)  \nCukup jelas.\n\nAyat (3)  \nCukup jelas.\n\nAyat (4)  \nCukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.17453396320343018,
+            "t": 0.5276704430580139,
+            "r": 0.8944592475891113,
+            "b": 0.795414388179779
+          },
+          "page": 40
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "c6e49f39-1dfa-40ba-a263-4bd681330bbb"
+    },
+    {
+      "text": "Angka 8 . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7540552616119385,
+            "t": 0.8387134671211243,
+            "r": 0.8850246667861938,
+            "b": 0.8599196076393127
+          },
+          "page": 40
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "b1fcbd36-af32-4426-9dd8-b5e45061d5f5"
+    },
+    {
+      "text": "- 9 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.47626611590385437,
+            "t": 0.1652083694934845,
+            "r": 0.5285323858261108,
+            "b": 0.18332833051681519
+          },
+          "page": 41
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "20870c56-8e9f-475a-ab7a-5f9b32695d51"
+    },
+    {
+      "text": "Angka 8\n  Pasal 23\n    Ayat (1)\n      Cukup jelas.\n\n    Ayat (2)\n      Cukup jelas.\n\n    Ayat (3)\n      Kewajiban mensosialisasikan bahan baku, bahan tambahan makanan, bahan penolong, dan/atau alat yang membahayakan, termasuk juga bahan atau alat yang diizinkan.\n\nAngka 9\n  Pasal 25\n    Cukup jelas.\n\nAngka 10\n  Pasal 25A\n    Cukup jelas.\n\n  Pasal 25B\n    Cukup jelas.\n\n  Pasal 25C\n    Ayat (1)\n      Industri perikanan diantaranya meliputi industri yang bergerak di bidang penyediaan sarana dan prasarana penangkapan serta industri pengolahan perikanan.\n\n    Ayat (2)\n      Cukup jelas.\n\n    Ayat (3)\n      Cukup jelas.\n\nAngka 11\n  Pasal 27\n    Ayat (1)\n      Cukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.15497174859046936,
+            "t": 0.19899341464042664,
+            "r": 0.8985269069671631,
+            "b": 0.822866678237915
+          },
+          "page": 41
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "9e66adf5-3f2d-472b-8b3b-d422932d3b9b"
+    },
+    {
+      "text": "Ayat (2) . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7596408128738403,
+            "t": 0.8555068969726562,
+            "r": 0.8846389055252075,
+            "b": 0.878351092338562
+          },
+          "page": 41
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "e98a18a3-5d1d-496f-860f-22ea6af394b3"
+    },
+    {
+      "text": "- 10 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.46896207332611084,
+            "t": 0.16617240011692047,
+            "r": 0.5348618030548096,
+            "b": 0.18384744226932526
+          },
+          "page": 42
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "30635312-4698-4c36-b609-8e15ca1197e4"
+    },
+    {
+      "text": "Ayat (2)\n    Cukup jelas.\n\nAyat (3)\n    Yang dimaksud dengan “SIPI asli” adalah SIPI yang bukan fotocopy dan/atau salinan yang mirip dengan aslinya, atau yang dibuat oleh pejabat yang tidak berwenang.\n    Yang dimaksud dengan “membawa SIPI asli” adalah keharusan bagi setiap orang untuk meletakkan dan/atau menyimpan SIPI asli di atas kapal penangkap ikan yang sedang dioperasikan.\n\nAyat (4)\n    Cukup jelas.\n\nAyat (5)\n    Cukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.21856814622879028,
+            "t": 0.1975383162498474,
+            "r": 0.8966174721717834,
+            "b": 0.4365615248680115
+          },
+          "page": 42
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "57fe88f5-edd6-41cf-a030-dd8831ad95b9"
+    },
+    {
+      "text": "Angka 12\nPasal 28\nAyat (1)\nCukup jelas.\n\nAyat (2)\nCukup jelas.\n\nAyat (3)\nYang dimaksud dengan “SIKPI asli“ adalah SIKPI yang bukan fotocopy dan/atau salinan yang mirip dengan aslinya, atau yang dibuat oleh pejabat yang tidak berwenang.\nYang dimaksud dengan “membawa SIKPI asli” adalah keharusan bagi setiap orang untuk meletakkan dan/atau menyimpan SIKPI asli di atas kapal pengangkut ikan yang sedang dioperasikan.\n\nAyat (4)\nCukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1739467978477478,
+            "t": 0.4544077515602112,
+            "r": 0.8966040015220642,
+            "b": 0.7400460839271545
+          },
+          "page": 42
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "d955f664-bbb1-4761-bdbe-d4a052144e2f"
+    },
+    {
+      "text": "Angka 13\nPasal 28A\nCukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1730799823999405,
+            "t": 0.7506860494613647,
+            "r": 0.375687837600708,
+            "b": 0.8015522956848145
+          },
+          "page": 42
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "13e47dd7-7886-4912-a3f4-23988bf78251"
+    },
+    {
+      "text": "Angka 14 . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7386041283607483,
+            "t": 0.8462253212928772,
+            "r": 0.8873339295387268,
+            "b": 0.8702943921089172
+          },
+          "page": 42
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "85d9b4d5-f165-41a1-ace0-8cb5d12f6347"
+    },
+    {
+      "text": "- 11 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.470697283744812,
+            "t": 0.16648907959461212,
+            "r": 0.5347614288330078,
+            "b": 0.18369896709918976
+          },
+          "page": 43
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "9cf4cb7d-5538-4935-85c8-037c7c5df67b"
+    },
+    {
+      "text": "Angka 14\nPasal 32\n    Cukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.17591135203838348,
+            "t": 0.19875234365463257,
+            "r": 0.4262901544570923,
+            "b": 0.25087907910346985
+          },
+          "page": 43
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "ba61d960-9bf1-46d3-9a27-6c3d85dfce34"
+    },
+    {
+      "text": "Angka 15\nPasal 35A\nCukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.17487016320228577,
+            "t": 0.2603607177734375,
+            "r": 0.4073828160762787,
+            "b": 0.3114922046661377
+          },
+          "page": 43
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "70d4536a-d947-451a-bc97-1611610ae754"
+    },
+    {
+      "text": "Angka 16\nPasal 36\nAyat (1)\nPendaftaran kapal perikanan dimuat di dalam buku yang dipergunakan untuk memenuhi persyaratan penerbitan SIPI atau SIKPI. Buku kapal perikanan dimaksud bukan sebagai *grosse* akte pendaftaran kapal yang merupakan persyaratan untuk menerbitkan Surat Tanda Kebangsaan Kapal Indonesia bagi kapal yang mengibarkan bendera Indonesia sebagai bendera kebangsaan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.17245125770568848,
+            "t": 0.3212639093399048,
+            "r": 0.8943673372268677,
+            "b": 0.47350388765335083
+          },
+          "page": 43
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "a2857596-2424-4410-aee0-5cc31ed7e03b"
+    },
+    {
+      "text": "Ayat (2)\n    Pendaftaran kapal perikanan dilengkapi dengan dokumen, antara lain memuat Nama Kapal, Nomor Register, Tanda penghubung radio, Dimana kapal dibuat, Tipe kapal, Metode dan tipe alat tangkap, Tonage, Panjang, Dalam, kekuatan mesin, Gambar kapal, Nama dan alamat pemilik, Nama perusahaan yang menggunakan kapal, dan Sejarah pemilikan yang dimuat dalam buku kapal perikanan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.22446420788764954,
+            "t": 0.48028793931007385,
+            "r": 0.8954707384109497,
+            "b": 0.6038108468055725
+          },
+          "page": 43
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "ff5a8235-d2ab-451c-aeaa-0da9e4de7fd7"
+    },
+    {
+      "text": "Ayat (3)\n    Cukup jelas.\n\nAyat (4)\n    Kapal perikanan yang akan diproses penerbitan surat tanda kebangsaan terlebih dahulu didaftarkan di dalam buku kapal perikanan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.22414228320121765,
+            "t": 0.6059119701385498,
+            "r": 0.8928537368774414,
+            "b": 0.7133562564849854
+          },
+          "page": 43
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "0e3909f0-2489-4292-a0a2-f144da4dc277"
+    },
+    {
+      "text": "Ayat (5)\n   Cukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.22347217798233032,
+            "t": 0.7163527011871338,
+            "r": 0.8771888613700867,
+            "b": 0.7576632499694824
+          },
+          "page": 43
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "8d653310-961f-4c3a-84d8-3f734a489c24"
+    },
+    {
+      "text": "Angka 17 . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7403228282928467,
+            "t": 0.8209145069122314,
+            "r": 0.8853746652603149,
+            "b": 0.8424118757247925
+          },
+          "page": 43
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "c7c998aa-6988-40c5-8c0f-5d0e95e5e030"
+    },
+    {
+      "text": "– 12 –",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.46982237696647644,
+            "t": 0.1659298539161682,
+            "r": 0.534978985786438,
+            "b": 0.18411004543304443
+          },
+          "page": 44
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "a00c7c25-e077-42e3-bd5d-191a15da39d4"
+    },
+    {
+      "text": "Angka 17\nPasal 41\nAyat (1)\n    Cukup jelas.\n\nAyat (2)\n    Huruf a\n        Cukup jelas.\n    Huruf b\n        Klasifikasi pelabuhan perikanan termasuk diantaranya pelabuhan perikanan samudera, pelabuhan pelabuhan perikanan nusantara dan pelabuhan perikanan pantai.\n    Huruf c\n        Cukup jelas.\n    Huruf d\n        Cukup jelas.\n    Huruf e\n        Untuk mendukung dan menjamin kelancaran operasional pelabuhan perikanan, ditetapkan batas-batas wilayah kerja dan pengoperasian dalam koordinat geografis.\n        Dalam hal wilayah kerja dan pengoperasian pelabuhan perikanan berbatasan dan/atau mempunyai kesamaan kepentingan dengan instansi lain, penetapan batasnya dilakukan melalui koordinasi dengan instansi yang bersangkutan.\n    Huruf f\n        Cukup jelas.\n\nAyat (3)\n    Cukup jelas.\n\nAyat (4)\n    Yang dimaksud dengan “bongkar muat ikan” adalah termasuk juga pendaratan ikan.\n\nAyat (5)\n    Cukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.14969027042388916,
+            "t": 0.20017433166503906,
+            "r": 0.900367021560669,
+            "b": 0.7804833054542542
+          },
+          "page": 44
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "37477a6f-c3c5-4049-8c6d-91b9f8f67e22"
+    },
+    {
+      "text": "Angka 18\nPasal 41A\nCukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.17419105768203735,
+            "t": 0.7928046584129333,
+            "r": 0.36498939990997314,
+            "b": 0.8492979407310486
+          },
+          "page": 44
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "fecf0cbe-55d2-4552-b032-aeed8f201529"
+    },
+    {
+      "text": "Angka 19 . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7415791749954224,
+            "t": 0.8704854249954224,
+            "r": 0.8841359615325928,
+            "b": 0.8920890092849731
+          },
+          "page": 44
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "3a351f0f-1d7e-4721-beb1-330ad0db82fd"
+    },
+    {
+      "text": "- 13 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4684547781944275,
+            "t": 0.16517990827560425,
+            "r": 0.5353639721870422,
+            "b": 0.18567541241645813
+          },
+          "page": 45
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "c5bfa0ea-8c33-4866-a016-cf1962bf34c7"
+    },
+    {
+      "text": "Angka 19\nPasal 42",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1755102276802063,
+            "t": 0.19975274801254272,
+            "r": 0.2934442460536957,
+            "b": 0.23491159081459045
+          },
+          "page": 45
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "45bc656e-a662-4c1a-860d-ade1a3615aab"
+    },
+    {
+      "text": "Ayat (1)\nYang dimaksud dengan \"syahbandar di pelabuhan perikanan\" adalah syahbandar yang ditempatkan secara khusus di pelabuhan perikanan untuk pengurusan administratif dan menjalankan fungsi menjaga keselamatan pelayaran.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.22413736581802368,
+            "t": 0.23678626120090485,
+            "r": 0.8973290324211121,
+            "b": 0.31383126974105835
+          },
+          "page": 45
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "38ba1731-30be-4931-87b4-f6a489adc372"
+    },
+    {
+      "text": "Ayat (2)\nHuruf a\n    Cukup jelas.\nHuruf b\n    Cukup jelas.\nHuruf c\n    Cukup jelas.\nHuruf d\n    Cukup jelas.\nHuruf e\n    Cukup jelas.\nHuruf f\n    Yang dimaksud dengan “*log book*” adalah laporan harian tertulis nakhoda mengenai kegiatan penangkapan ikan atau pengangkutan ikan.\nHuruf g\n    Cukup jelas.\nHuruf h\n    Cukup jelas.\nHuruf i\n    Cukup jelas.\nHuruf j\n    Cukup jelas.\nHuruf k\n    Cukup jelas.\nHuruf l\n    Cukup jelas.\nHuruf m\n    Cukup jelas.\nHuruf n\n    Cukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.22219783067703247,
+            "t": 0.3181026577949524,
+            "r": 0.8931432366371155,
+            "b": 0.8451538681983948
+          },
+          "page": 45
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "ef4ef65a-4f28-4dd5-8c11-a9d3e15df224"
+    },
+    {
+      "text": "Huruf o . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7488753199577332,
+            "t": 0.855559229850769,
+            "r": 0.87702876329422,
+            "b": 0.8773388862609863
+          },
+          "page": 45
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "518d3c07-629e-40af-b1c8-f6defd81d955"
+    },
+    {
+      "text": "- 14 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4701039791107178,
+            "t": 0.16648335754871368,
+            "r": 0.5348212718963623,
+            "b": 0.1838277131319046
+          },
+          "page": 46
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "ec490f1b-cb00-4f3a-8433-f6136d9cc0bc"
+    },
+    {
+      "text": "Huruf o\n    Cukup jelas.\nHuruf p\n    Cukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2671642005443573,
+            "t": 0.19903284311294556,
+            "r": 0.4470117390155792,
+            "b": 0.271166056394577
+          },
+          "page": 46
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "aad7f85d-d1be-4b80-a58b-78f770d8ae3c"
+    },
+    {
+      "text": "Ayat (3)\n    Cukup jelas.\n\nAyat (4)\n    Syahbandar yang akan diangkat dimaksudkan pengusulannya terlebih dahulu dikoordinasikan dengan Menteri.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2252337634563446,
+            "t": 0.2763001322746277,
+            "r": 0.8918004035949707,
+            "b": 0.3677084445953369
+          },
+          "page": 46
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "e933c386-53f3-4b20-8205-b87ad9b7112d"
+    },
+    {
+      "text": "Ayat (5)\n     Cukup jelas.\n\nAyat (6)\n     Cukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.22465427219867706,
+            "t": 0.37274080514907837,
+            "r": 0.40278416872024536,
+            "b": 0.4523863196372986
+          },
+          "page": 46
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "649f2e22-45b6-4eda-a143-4cff1ab2574e"
+    },
+    {
+      "text": "Angka 20\nPasal 43\nCukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.17668844759464264,
+            "t": 0.4722931981086731,
+            "r": 0.36253583431243896,
+            "b": 0.5273221135139465
+          },
+          "page": 46
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "41f3239a-9f65-47fa-b7c0-0d356f431d33"
+    },
+    {
+      "text": "Angka 21\nPasal 44\nCukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.17571884393692017,
+            "t": 0.5479608774185181,
+            "r": 0.36109697818756104,
+            "b": 0.6023702621459961
+          },
+          "page": 46
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "109dc6e8-15e9-4434-a0bd-a1efae388ee3"
+    },
+    {
+      "text": "Angka 22\nPasal 46",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.17607367038726807,
+            "t": 0.6240856647491455,
+            "r": 0.3191661536693573,
+            "b": 0.6574612855911255
+          },
+          "page": 46
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "427ed017-5f78-4165-b04c-69d8db1a91d7"
+    },
+    {
+      "text": "Ayat (1)\nDalam rangka penyusunan rencana pengembangan sistem informasi dan data statistik perikanan serta kemajuannya, disusun data teknik, produksi, pengolahan, pemasaran ikan, dan sosial ekonomi yang dapat memberikan gambaran yang benar tentang tingkat pemanfaatan sumber daya ikan yang tersedia.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.24342069029808044,
+            "t": 0.6612393260002136,
+            "r": 0.8931208848953247,
+            "b": 0.7610993981361389
+          },
+          "page": 46
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "30cc60a2-15a4-47f2-ab22-92252e4bad91"
+    },
+    {
+      "text": "Data dan informasi tersebut antara lain:\n- a. jenis, jumlah, dan ukuran kapal perikanan;\n- b. jenis, jumlah, dan ukuran alat penangkapan ikan;\n- c. daerah dan musim penangkapan;\n- d. jumlah tangkapan atau jumlah hasil pembudidayaan ikan;\n- e. luas lahan dan daerah pembudidayaan ikan;",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2615172266960144,
+            "t": 0.7627813220024109,
+            "r": 0.8866803050041199,
+            "b": 0.8544542193412781
+          },
+          "page": 46
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "34af9a68-4186-4997-aac4-48e341ff57ea"
+    },
+    {
+      "text": "f. jumlah . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7464589476585388,
+            "t": 0.8825690746307373,
+            "r": 0.8852502703666687,
+            "b": 0.9046173095703125
+          },
+          "page": 46
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "afa66aa2-e0c8-4480-91b3-a1d708d34d91"
+    },
+    {
+      "text": "- 15 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4678906500339508,
+            "t": 0.16611433029174805,
+            "r": 0.5356555581092834,
+            "b": 0.18509897589683533
+          },
+          "page": 47
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "6f2e52a0-9eed-4512-aecb-5393558c1a41"
+    },
+    {
+      "text": "f.    jumlah nelayan dan pembudi daya ikan;\ng.    jenis ikan yang ada;\nh.    ukuran ikan hasil tangkapan dan musim pemijahan ikan;\ni.    data ekspor dan impor komoditas perikanan; dan\nj.    informasi mengenai persyaratan tertentu yang berkaitan dengan standar ekspor.\n\nAyat (2)\nCukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2394694685935974,
+            "t": 0.19685213267803192,
+            "r": 0.880869448184967,
+            "b": 0.3297867774963379
+          },
+          "page": 47
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "d07b0976-e282-45dc-b908-56a500d90a86"
+    },
+    {
+      "text": "Angka 23\nPasal 46A\nCukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1742604374885559,
+            "t": 0.34796833992004395,
+            "r": 0.38023775815963745,
+            "b": 0.4055933952331543
+          },
+          "page": 47
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "3dff3458-5d36-4088-9c66-d1031aa67a15"
+    },
+    {
+      "text": "Angka 24  \nPasal 48  \n  Ayat (1)  \n    Kepada setiap orang yang berusaha di bidang penangkapan atau pembudidayaan ikan yang dilakukan di laut atau di perairan lainnya di dalam maupun di luar wilayah pengelolaan perikanan Negara Republik Indonesia dikenakan pungutan perikanan karena mereka telah memperoleh manfaat langsung dari sumber daya ikan dan/atau lingkungannya.\n\nAyat (1a)  \n  Cukup jelas.\n\nAyat (2)  \n  Cukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.17387738823890686,
+            "t": 0.4242894649505615,
+            "r": 0.8969478607177734,
+            "b": 0.6505006551742554
+          },
+          "page": 47
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "034e7c9f-9769-4879-9988-a39367cd8ac9"
+    },
+    {
+      "text": "Angka 25\nPasal 50\nCukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.17281663417816162,
+            "t": 0.6686633229255676,
+            "r": 0.3813633322715759,
+            "b": 0.7280731797218323
+          },
+          "page": 47
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "01e964ba-ab1a-402d-8177-c865163ca58b"
+    },
+    {
+      "text": "Angka 26\nPasal 65\nCukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1724923551082611,
+            "t": 0.7449624538421631,
+            "r": 0.3805268108844757,
+            "b": 0.8029962778091431
+          },
+          "page": 47
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "6e34880f-f6b8-4b45-b76a-da52f77cb1b6"
+    },
+    {
+      "text": "Angka 27 . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7391497492790222,
+            "t": 0.8552292585372925,
+            "r": 0.8869298100471497,
+            "b": 0.8791844844818115
+          },
+          "page": 47
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "7a57afb0-c185-4d54-8a9b-cce9460dd023"
+    },
+    {
+      "text": "- 16 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4690713882446289,
+            "t": 0.16598312556743622,
+            "r": 0.5351865291595459,
+            "b": 0.184414342045784
+          },
+          "page": 48
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "4bb2d13e-dd2b-46ae-b05a-1fa88598eeed"
+    },
+    {
+      "text": "Angka 27\nPasal 66\nCukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1750732660293579,
+            "t": 0.19872160255908966,
+            "r": 0.37935107946395874,
+            "b": 0.2552371919155121
+          },
+          "page": 48
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "af700707-6cd4-4add-b2df-b5760d5bd8e0"
+    },
+    {
+      "text": "Angka 28\nPasal 66A\nCukup jelas.\n\nPasal 66B\nCukup jelas.\n\nPasal 66C\nCukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.174940824508667,
+            "t": 0.2741892635822296,
+            "r": 0.37970590591430664,
+            "b": 0.41235271096229553
+          },
+          "page": 48
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "baab255e-69c2-4b9a-8dae-842a4473504f"
+    },
+    {
+      "text": "Angka 29\n  Pasal 69\n    Ayat (1)\n      Yang dimaksud dengan “kapal pengawas perikanan” adalah kapal pemerintah yang diberi tanda tertentu untuk melakukan pengawasan dan penegakan hukum di bidang perikanan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1747419536113739,
+            "t": 0.43244120478630066,
+            "r": 0.8930802345275879,
+            "b": 0.5322312116622925
+          },
+          "page": 48
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "89047b90-b95a-42fd-8c0b-98653c686dc2"
+    },
+    {
+      "text": "Ayat (2)\n    Cukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.24160851538181305,
+            "t": 0.5372152924537659,
+            "r": 0.4006563425064087,
+            "b": 0.573624312877655
+          },
+          "page": 48
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "9740a002-0fa9-4387-92dc-0d2a2579bcc0"
+    },
+    {
+      "text": "Ayat (3)\nPenahanan kapal dilakukan dalam rangka tindakan membawa kapal ke pelabuhan terdekat dan/atau menunggu proses selanjutnya yang bersifat sementara.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.24351471662521362,
+            "t": 0.5799407958984375,
+            "r": 0.8909971117973328,
+            "b": 0.6416741609573364
+          },
+          "page": 48
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "190f9343-b970-4866-894d-bd5094eaef9a"
+    },
+    {
+      "text": "Ayat (4)\nYang dimaksud dengan “bukti permulaan yang cukup” adalah bukti permulaan untuk menduga adanya tindak pidana di bidang perikanan oleh kapal perikanan berbendera asing, misalnya kapal perikanan berbendera asing tidak memiliki SIPI dan SIKPI, serta nyata-nyata menangkap dan/atau mengangkut ikan ketika memasuki wilayah pengelolaan perikanan Negara Republik Indonesia.\nKetentuan ini menunjukkan bahwa tindakan khusus tersebut tidak dapat dilakukan dengan sewenang-wenang, tetapi hanya dilakukan apabila penyidik dan/atau pengawas perikanan yakin bahwa kapal perikanan berbendera asing tersebut betul-betul melakukan tindak pidana di bidang perikanan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.24330249428749084,
+            "t": 0.6487318873405457,
+            "r": 0.891648530960083,
+            "b": 0.8397224545478821
+          },
+          "page": 48
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "43a45b17-55c8-4d8b-aa2c-854e92a3a264"
+    },
+    {
+      "text": "Angka 30 . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7430270314216614,
+            "t": 0.8749122619628906,
+            "r": 0.8833667635917664,
+            "b": 0.8945702314376831
+          },
+          "page": 48
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "920aad8e-8000-498c-9540-54a3cfaa33d8"
+    },
+    {
+      "text": "- 17 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4696637690067291,
+            "t": 0.16579115390777588,
+            "r": 0.5352835655212402,
+            "b": 0.18427008390426636
+          },
+          "page": 49
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "4dd8ed5e-c5d8-45a9-900c-d3fde2471bc4"
+    },
+    {
+      "text": "Angka 30\nPasal 71\nCukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.17438417673110962,
+            "t": 0.19808991253376007,
+            "r": 0.3804696202278137,
+            "b": 0.25633329153060913
+          },
+          "page": 49
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "dc1942ae-0dbb-43db-8f65-e39dd2b9e478"
+    },
+    {
+      "text": "Angka 31\nPasal 71A\nCukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1746198534965515,
+            "t": 0.27354395389556885,
+            "r": 0.37888747453689575,
+            "b": 0.33086031675338745
+          },
+          "page": 49
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "1b4ed463-b495-4fb4-83b7-7a4d1480b6bd"
+    },
+    {
+      "text": "Angka 32\nPasal 73\nAyat (1)\nCukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.17499369382858276,
+            "t": 0.34227249026298523,
+            "r": 0.3956426978111267,
+            "b": 0.4130110442638397
+          },
+          "page": 49
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "ed4f7328-9c91-445e-bc5e-3c79a8039e62"
+    },
+    {
+      "text": "Ayat (2)\n    Penyidikan yang dilakukan Penyidik Pegawai Negeri Sipil Perikanan bersifat koordinatif dengan Penyidik Perwira TNI Angkatan Laut agar penyidikan tersebut berjalan lebih efisien dan efektif berdasarkan Prosedur Tetap Bersama.\n\nAyat (3)\n    Cukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2398790419101715,
+            "t": 0.41889917850494385,
+            "r": 0.894872784614563,
+            "b": 0.5392489433288574
+          },
+          "page": 49
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "a6e911c2-2e14-4257-9d56-d757d502a3eb"
+    },
+    {
+      "text": "Ayat (4)\nKoordinasi diperlukan selain untuk kelancaran pelaksanaan tugas penyidik, juga dimaksudkan untuk memperlancar komunikasi dan tukar-menukar data, informasi, serta hal lain yang diperlukan dalam rangka efektivitas dan efisiensi penanganan dan/atau penyelesaian tindak pidana perikanan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.24191415309906006,
+            "t": 0.5451870560646057,
+            "r": 0.8921021223068237,
+            "b": 0.6376486420631409
+          },
+          "page": 49
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "09da467a-4774-4a82-8c74-dd164b328007"
+    },
+    {
+      "text": "Ayat (5)\nForum koordinasi untuk penanganan tindak pidana di bidang perikanan dalam ketentuan ini dimungkinkan pembentukannya di daerah, sesuai dengan kebutuhan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.24213585257530212,
+            "t": 0.6425122022628784,
+            "r": 0.8931056261062622,
+            "b": 0.7090169191360474
+          },
+          "page": 49
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "c8bd69eb-8119-4e1c-b904-bb3514ecb50c"
+    },
+    {
+      "text": "Angka 33\n  Pasal 73A\n    Cukup jelas.\n\n  Pasal 73B\n    Cukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18793073296546936,
+            "t": 0.7273402214050293,
+            "r": 0.37802860140800476,
+            "b": 0.824966311454773
+          },
+          "page": 49
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "f24c3c1c-575d-4577-8914-a3add48ce7bd"
+    },
+    {
+      "text": "Angka 34 . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.751824140548706,
+            "t": 0.8742157220840454,
+            "r": 0.8930783271789551,
+            "b": 0.8957614898681641
+          },
+          "page": 49
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "ef385306-42bb-44c9-9e25-2ae59ace66fb"
+    },
+    {
+      "text": "- 18 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.46876639127731323,
+            "t": 0.1659141480922699,
+            "r": 0.5348698496818542,
+            "b": 0.18460288643836975
+          },
+          "page": 50
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "f1787e30-c305-4fa0-8f39-fe5eaf7ad2c7"
+    },
+    {
+      "text": "Angka 34\n  Pasal 75\n  Ayat (1)\n      Pada dasarnya penunjukan penuntut umum merupakan kewenangan Jaksa Agung. Namun demikian, atas nama Jaksa Agung dimungkinkan didelegasikan atau dilimpahkan kepada pejabat di lingkungan Kejaksaan Agung Republik Indonesia sesuai dengan kompetensinya, mengingat jumlah perkara yang harus ditangani cukup tinggi dan tersebar di seluruh wilayah Negara Republik Indonesia serta mempertimbangkan kesibukan dan intensitas Jaksa Agung.\n\n  Ayat (2)\n      Cukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18064171075820923,
+            "t": 0.198208287358284,
+            "r": 0.8952304720878601,
+            "b": 0.4123057723045349
+          },
+          "page": 50
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "face02e9-91bc-4b42-b898-c74d57773172"
+    },
+    {
+      "text": "Angka 35\nPasal 76\nCukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18132808804512024,
+            "t": 0.42950204014778137,
+            "r": 0.3933725655078888,
+            "b": 0.4896908700466156
+          },
+          "page": 50
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "974a6300-d41a-41e5-bcc1-1df2eef055e6"
+    },
+    {
+      "text": "Angka 36\n    Pasal 76A\n        Cukup jelas.\n\n    Pasal 76 B\n        Cukup jelas.\n\n    Pasal 76 C\n        Ayat (1)\n            Cukup jelas.\n\n        Ayat (2)\n            Cukup jelas.\n\n        Ayat (3)\n            Cukup jelas.\n\n        Ayat (4)\n            Yang dimaksud dengan “penghargaan” antara lain berupa insentif, piagam, dan kenaikan pangkat.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1809937059879303,
+            "t": 0.5051100850105286,
+            "r": 0.8928214311599731,
+            "b": 0.8023788332939148
+          },
+          "page": 50
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "abc621bc-4c16-4729-882e-6e8bdfc68ddc"
+    },
+    {
+      "text": "Ayat (5) . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7588911652565002,
+            "t": 0.8230764865875244,
+            "r": 0.8856937289237976,
+            "b": 0.8467285633087158
+          },
+          "page": 50
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "b22d09cb-6894-4383-bf6c-6c69e2897f5a"
+    },
+    {
+      "text": "- 19 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4653906226158142,
+            "t": 0.16335433721542358,
+            "r": 0.537878692150116,
+            "b": 0.1864730715751648
+          },
+          "page": 51
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "f43eec01-6c6e-4822-9981-e9a2c3cd680b"
+    },
+    {
+      "text": "Ayat (5)\n    Cukup jelas.\n\nAyat (6)\n    Cukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.23045265674591064,
+            "t": 0.1965884566307068,
+            "r": 0.4169486165046692,
+            "b": 0.28231188654899597
+          },
+          "page": 51
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "5d2f9792-4eeb-4437-b4eb-93bdd07fe822"
+    },
+    {
+      "text": "Angka 37  \nPasal 78A  \nCukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.181122288107872,
+            "t": 0.29760485887527466,
+            "r": 0.37972038984298706,
+            "b": 0.35823822021484375
+          },
+          "page": 51
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "5d5a8541-1886-4c37-a656-0ca53a2874a5"
+    },
+    {
+      "text": "Angka 38\nPasal 83A\nCukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.17736446857452393,
+            "t": 0.3737477660179138,
+            "r": 0.372003436088562,
+            "b": 0.43187838792800903
+          },
+          "page": 51
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "ca54b81e-15eb-4a3b-9789-447cc20833c2"
+    },
+    {
+      "text": "Angka 39\nPasal 85\nCukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18124821782112122,
+            "t": 0.44345226883888245,
+            "r": 0.3712975084781647,
+            "b": 0.5017998218536377
+          },
+          "page": 51
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "2086178b-b8e6-4996-9091-fb6230fbd859"
+    },
+    {
+      "text": "Angka 40\nPasal 93\nCukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18191823363304138,
+            "t": 0.5191315412521362,
+            "r": 0.37654152512550354,
+            "b": 0.5774604082107544
+          },
+          "page": 51
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "71453f69-bd25-4e64-8342-a317689babaa"
+    },
+    {
+      "text": "Angka 41\nPasal 94A\nCukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18180397152900696,
+            "t": 0.5944104790687561,
+            "r": 0.3775038421154022,
+            "b": 0.6523482203483582
+          },
+          "page": 51
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "0edf817e-c1f3-43f4-adfa-b0a2921e5e3d"
+    },
+    {
+      "text": "Angka 42  \nPasal 98  \nCukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18202167749404907,
+            "t": 0.66999751329422,
+            "r": 0.38345837593078613,
+            "b": 0.7266917824745178
+          },
+          "page": 51
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "e20adae3-b4c0-4923-b95e-40f7fec28412"
+    },
+    {
+      "text": "Angka 43\nPasal 100A\nCukup jelas.\n\nPasal 100B\nCukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18154871463775635,
+            "t": 0.7458146810531616,
+            "r": 0.3775762915611267,
+            "b": 0.8442859649658203
+          },
+          "page": 51
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "1094f98e-c02a-4116-a36a-c95f40e3d10b"
+    },
+    {
+      "text": "Pasal 100C . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7049874067306519,
+            "t": 0.8638792037963867,
+            "r": 0.8661397695541382,
+            "b": 0.8862968683242798
+          },
+          "page": 51
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "2d5ecb88-9c2e-43db-b6b3-2ce7dfc77f02"
+    },
+    {
+      "text": "- 20 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4683605432510376,
+            "t": 0.16452068090438843,
+            "r": 0.5360920429229736,
+            "b": 0.18576869368553162
+          },
+          "page": 52
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "4d14536c-6abd-4a57-8a0e-44b18aea7929"
+    },
+    {
+      "text": "Pasal 100C\nCukup jelas.\n\nPasal 100D\nCukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.20560234785079956,
+            "t": 0.19671088457107544,
+            "r": 0.3822277784347534,
+            "b": 0.28225502371788025
+          },
+          "page": 52
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "61035dcf-a44a-4c39-9d8c-b0313261f9a7"
+    },
+    {
+      "text": "Angka 44\nCukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1817556917667389,
+            "t": 0.2988509237766266,
+            "r": 0.3532964885234833,
+            "b": 0.33966436982154846
+          },
+          "page": 52
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "cac125e8-46b9-4598-979c-9354269cf0c5"
+    },
+    {
+      "text": "Angka 45\n     Pasal 110\n          Cukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18184766173362732,
+            "t": 0.3572608232498169,
+            "r": 0.3767699897289276,
+            "b": 0.414644718170166
+          },
+          "page": 52
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "2d80b6aa-970f-469e-b3d9-b2fa2902d506"
+    },
+    {
+      "text": "Angka 46\nPasal 110A\nCukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18200980126857758,
+            "t": 0.43333354592323303,
+            "r": 0.3757643699645996,
+            "b": 0.4908582270145416
+          },
+          "page": 52
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "e30e98aa-95e3-4abf-ada5-f048b83c9dd3"
+    },
+    {
+      "text": "Pasal II\nCukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.19088974595069885,
+            "t": 0.5166823863983154,
+            "r": 0.3582053482532501,
+            "b": 0.5564790964126587
+          },
+          "page": 52
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "a67af965-0ff0-4876-839e-ed8b1d52aa68"
+    },
+    {
+      "text": "TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5073",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.10836094617843628,
+            "t": 0.5884937047958374,
+            "r": 0.8194184303283691,
+            "b": 0.6114917993545532
+          },
+          "page": 52
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "0f6adca6-816f-4609-a9be-66165efdc89c"
+    }
+  ]
+}

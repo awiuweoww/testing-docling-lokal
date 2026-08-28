@@ -1,0 +1,1092 @@
+{
+  "chunks": [
+    {
+      "text": "Summary : This image displays the official seal of the President of the Republic of Indonesia, featuring a central black star encircled by a wreath, with the text \"PRESIDEN REPUBLIK INDONESIA\" below.\n\nlogo: President of the Republic of Indonesia\n\nMain Elements :\n  • Central black five-pointed star.\n  • Surrounding circular wreath composed of stylized rice and cotton branches.\n  • Small ribbon or tie at the base of the wreath.\n  • Text below the emblem: \"PRESIDEN REPUBLIK INDONESIA\" in uppercase sans-serif font.\n\nDesign Details :\n  • Monochrome (black and white) colour scheme.\n  • Symmetrical layout with the star perfectly centered within the wreath.\n  • Wreath forms a nearly complete circle, open slightly at the bottom where the ribbon is tied.\n  • Text is centered and placed below the emblem, separated by white space.\n\nDimensions & Placement :\n  • Emblem occupies the upper portion of the image.\n  • Text is directly below the emblem, aligned center.\n\nAnalysis :\n  • The logo uses classic national symbols (star, rice, cotton) to represent authority, unity, and prosperity.\n  • The monochrome palette and symmetrical design convey formality and official status.\n  • The text clearly identifies the office associated with the seal.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4345041811466217,
+            "t": 0.03767715021967888,
+            "r": 0.6122643351554871,
+            "b": 0.1567348837852478
+          },
+          "page": 0
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "7cc1e203-93ff-4c60-97c5-bb17e4ef69a0"
+    },
+    {
+      "text": "UNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 17 TAHUN 1985\nTENTANG\nPENGESAHAN UNITED NATIONS CONVENTION ON THE LAW OF THE SEA\n(KONVENSI PERSERIKATAN BANGSA-BANGSA TENTANG HUKUM LAUT)",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.19560804963111877,
+            "t": 0.16425971686840057,
+            "r": 0.852824330329895,
+            "b": 0.23632599413394928
+          },
+          "page": 0
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "79c21b4b-2a83-4504-8145-bd5ed7a65b8b"
+    },
+    {
+      "text": "DENGAN RAHMAT TUHAN YANG MAHA ESA\n\nPresiden Republik Indonesia,",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.3223700225353241,
+            "t": 0.25191617012023926,
+            "r": 0.7248671054840088,
+            "b": 0.2959575057029724
+          },
+          "page": 0
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "e3358181-ec2e-44fa-bc6a-fbd27d020d70"
+    },
+    {
+      "text": "Menimbang   :   a. bahwa United Nations Convention on the Law of the Sea (Konvensi\n                    Perserikatan Bangsa-Bangsa tentang Hukum Laut) telah diterima baik oleh\n                    Konperensi Perserikatan Bangsa-Bangsa tentang Hukum Laut Ketiga di\n                    New York pada tanggal 30 April 1982 dan telah ditandatangani oleh\n                    Negara Republik Indonesia bersama-sama seratus delapan belas\n                    penandatangan lain di Montego Bay, Jamaica pada tanggal 10 Desember\n                    1982;\n\n                b. bahwa United Nations Convention on the Law of the Sea sebagaimana\n                    dimaksud pada huruf a di atas mengatur rejim-rejim hukum laut, termasuk\n                    rejim hukum Negara Kepulauan secara menyeluruh dan dalam satu paket;\n\n                c. bahwa rejim hukum Negara Kepulauan mempunyai arti dan peranan\n                    penting untuk memantapkan kedudukan Indonesia sebagai Negara\n                    Kepulauan dalam rangka implementasi Wawasan Nusantara sesuai\n                    amanat Majelis Permusyawaratan Rakyat Republik Indonesia;\n\n                d. bahwa berdasarkan pertimbangan tersebut di atas dipandang perlu untuk\n                    mengesahkan United Nations Convention on the Law of the Sea tersebut\n                    dengan Undang-undang;",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1299283802509308,
+            "t": 0.3166729211807251,
+            "r": 0.9182469844818115,
+            "b": 0.5811462998390198
+          },
+          "page": 0
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "a0d9be2b-415d-4ff7-9c7f-c84af40a61e1"
+    },
+    {
+      "text": "Mengingat: Pasal 5 ayat (1), Pasal 11, dan Pasal 20 ayat (1) Undang-Undang Dasar 1945;",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.13148179650306702,
+            "t": 0.5970821380615234,
+            "r": 0.9149668216705322,
+            "b": 0.6303410530090332
+          },
+          "page": 0
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "f26b99ac-0d45-4592-9185-e52904a7b78d"
+    },
+    {
+      "text": "Dengan persetujuan\nDEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.28381970524787903,
+            "t": 0.6504505276679993,
+            "r": 0.764083743095398,
+            "b": 0.6837206482887268
+          },
+          "page": 0
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "f05e8ee5-2a26-42d4-9a92-bc4da08c06b5"
+    },
+    {
+      "text": "MEMUTUSKAN :",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.44656461477279663,
+            "t": 0.6893897652626038,
+            "r": 0.5986848473548889,
+            "b": 0.7085222601890564
+          },
+          "page": 0
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "6fc65aa8-e9d1-4c9e-a297-d2b160bacec2"
+    },
+    {
+      "text": "Menetapkan   :  UNDANG-UNDANG   TENTANG   PENGESAHAN   UNITED   NATIONS CONVENTION ON THE LAW OF THE SEA (KONVENSI PERSERIKATAN BANGSA-BANGSA TENTANG HUKUM LAUT).",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1319640576839447,
+            "t": 0.7402792572975159,
+            "r": 0.9148335456848145,
+            "b": 0.7863169312477112
+          },
+          "page": 0
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "4d9785aa-c367-45ee-bf6b-0b0ab454c741"
+    },
+    {
+      "text": "Pasal 1",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4826796352863312,
+            "t": 0.793481171131134,
+            "r": 0.5640559196472168,
+            "b": 0.8113178610801697
+          },
+          "page": 0
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "81ff992d-46db-4768-99cc-344d59fc7b3b"
+    },
+    {
+      "text": "Mengesahkan United Nations Convention the Law of the Sea (Konvensi Perserikatan Bangsa-Bangsa tentang Hukum Laut), yang salinan naskah aslinya dalam bahasa inggeris dilampirkan pada Undang-undang ini.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1319206953048706,
+            "t": 0.8190333843231201,
+            "r": 0.915459156036377,
+            "b": 0.8636622428894043
+          },
+          "page": 0
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "c257b8b3-c65a-4498-aa36-4c465452df1e"
+    },
+    {
+      "text": "**Pasal 2**\n\nUndang-undang ini mulai berlaku pada tanggal diundangkan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.13349196314811707,
+            "t": 0.8717336058616638,
+            "r": 0.6305503845214844,
+            "b": 0.9164878726005554
+          },
+          "page": 0
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "2cc4f11d-dc69-4d5e-87aa-662a6dedfd83"
+    },
+    {
+      "text": "Summary : This image displays a simple emblem consisting of a black five-pointed star centered within a circular laurel wreath, rendered in black and white.\n\nlogo:  \nDesign Elements :  \n  • Central black five-pointed star.  \n  • Surrounding circular laurel wreath, composed of stylized leaves.  \n  • Wreath is open at the bottom, with a small decorative bow or knot at the base.  \n  • Entire design is monochrome (black on white background).  \n  • No visible text, company name, or tagline.  \n  • Symmetrical, with the star perfectly centered within the wreath.\n\nDimensions & Placement :  \n  • Star and wreath are proportionally balanced; star occupies the center, wreath forms a complete circle around it.  \n  • Bow/knot at the bottom provides a visual anchor.\n\nAnalysis :  \n  • The emblem uses classic iconography (star and laurel) often associated with achievement, honor, or authority.  \n  • Absence of text or color suggests a generic or formal symbol, possibly for institutional or governmental use.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.44785192608833313,
+            "t": 0.03698189929127693,
+            "r": 0.5988382697105408,
+            "b": 0.12089341878890991
+          },
+          "page": 1
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "bb6c4991-12a0-472f-95ed-355476f60dfb"
+    },
+    {
+      "text": "PRESIDEN\nREPUBLIK INDONESIA\n- 2 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4367627799510956,
+            "t": 0.12829838693141937,
+            "r": 0.6122112274169922,
+            "b": 0.17289356887340546
+          },
+          "page": 1
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "d13d889e-9253-47b3-abf0-8d0177e5b43d"
+    },
+    {
+      "text": "Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.13050982356071472,
+            "t": 0.18863986432552338,
+            "r": 0.9156160354614258,
+            "b": 0.22139404714107513
+          },
+          "page": 1
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "d37f2c69-9fcd-4e95-9831-68022378d612"
+    },
+    {
+      "text": "Disahkan di Jakarta\npada tanggal 31 Desember 1985\nPRESIDEN REPUBLIK INDONESIA\nTTD\nSOEHARTO",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.5944359302520752,
+            "t": 0.2413829118013382,
+            "r": 0.9000893831253052,
+            "b": 0.31222963333129883
+          },
+          "page": 1
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "80809c40-9804-4a46-975f-1091513cf1f4"
+    },
+    {
+      "text": "Diundangkan di Jakarta\npada tanggal 31 Desember 1985\nMENTERI/SEKRETARIS NEGARA\nREPUBLIK INDONESIA\nTTD\nSUDHARMONO, S.H.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.13126270473003387,
+            "t": 0.31824785470962524,
+            "r": 0.4293825030326843,
+            "b": 0.4023119807243347
+          },
+          "page": 1
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "f32296d7-c064-4fe8-be6c-097fe3a5626c"
+    },
+    {
+      "text": "LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1985 NOMOR 76",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2207595705986023,
+            "t": 0.4340292811393738,
+            "r": 0.8260658383369446,
+            "b": 0.45618873834609985
+          },
+          "page": 1
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "1ebec939-bb58-4464-b1d6-69c49d1f46ad"
+    },
+    {
+      "text": "Summary : This image displays the official seal of the President of the Republic of Indonesia, featuring a central black star encircled by a wreath, with the text \"PRESIDEN REPUBLIK INDONESIA\" below.\n\nlogo: President of the Republic of Indonesia\n\n# Graphic Elements :\n  • Central black five-pointed star.\n  • Star is surrounded by a circular wreath composed of stylized rice and cotton branches.\n  • Wreath is open at the bottom, tied with a ribbon.\n\n# Text :\n  • \"PRESIDEN\" (uppercase, sans-serif font).\n  • \"REPUBLIK INDONESIA\" (uppercase, sans-serif font).\n  • Text is centered below the emblem.\n\n# Layout & Dimensions :\n  • Emblem is centered above the text.\n  • Black-and-white colour scheme.\n  • No additional decorative elements or background.\n\n# Analysis :\n  • The seal uses national symbols (star, rice, cotton) to represent authority and prosperity.\n  • The design is formal and official, suitable for presidential documents and insignia.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.43598130345344543,
+            "t": 0.03794855251908302,
+            "r": 0.611171305179596,
+            "b": 0.15683718025684357
+          },
+          "page": 2
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "24f5f6f9-c609-430f-88bb-b2e8e294f7af"
+    },
+    {
+      "text": "PENJELASAN\nATAS\nUNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 17 TAHUN 1985\nTENTANG\nPENGESAHAN UNITED NATIONS CONVENTION\nON THE LAW OF THE SEA\n(KONVENSI PERSERIKATAN BANGSA-BANGSA TENTANG\nHUKUM LAUT)",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.26343250274658203,
+            "t": 0.16561660170555115,
+            "r": 0.7833657264709473,
+            "b": 0.2847219705581665
+          },
+          "page": 2
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "7e2afb18-fe6e-4b4d-9f05-e3b360cf35df"
+    },
+    {
+      "text": "I.\tUMUM\n\nUsaha masyarakat internasional untuk mengatur masalah kelautan melalui Konperensi Perserikatan Bangsa-Bangsa (PBB) tentang Hukum Laut yang Ketiga telah berhasil mewujudkan United Nations Convention on the Law of the Sea (konvensi Perserikatan Bangsa-Bangsa tentang Hukum Laut) yang telah ditandatangani oleh 117 (seratus tujuh belas) negara peserta termasuk Indonesia dan 2 satuan bukan negara di Montego Bay, Jamaica, pada tanggal 10 Desember 1982.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.13089561462402344,
+            "t": 0.3175184726715088,
+            "r": 0.9156111478805542,
+            "b": 0.42626953125
+          },
+          "page": 2
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "d94b5f35-914e-4130-81aa-e92114577f9f"
+    },
+    {
+      "text": "Dibandingkan dengan Konvensi-konvensi Jenewa 1958 tentang Hukum Laut, Konvensi Perserikatan Bangsa-Bangsa tentang Hukum Laut tersebut mengatur rejim-rejim hukum laut secara lengkap dan menyeluruh, yang rejim-rejimnya satu sama lainnya tidak dapat dipisahkan.\nDitinjau dari isinya, Konvensi Perserikatan Bangsa-Bangsa tentang Hukum Laut tersebut :\na. Sebagian merupakan kodifikasi ketentuan-ketentuan hukum laut yang sudah ada, misalnya kebebasan-kebebasan di Laut Lepas dan hak lintas damai di Laut Teritorial;\nb. Sebagian merupakan pengembangan hukum laut yang sudah ada, misalnya ketentuan mengenai lebar Laut Teritorial menjadi maksimum 12 mil laut dan kriteria Landas Kontinen.\n   Menurut Konvensi Jenewa 1958 tentang Hukum Laut kriteria bagi penentuan lebar landas kontinen adalah kedalaman air dua ratus meter atau kriteria kemampuan eksploitasi. Kini dasarnya adalah kriteria kelanjutan alamiah wilayah daratan sesuatu Negara hingga pinggiran luar tepian kontinnennya (Natural prolongation of its land territory to the outer edge of the continental margin) atau kriteria jarak 200 mil laut, dihitung dari garis dasar untuk mengukur lebar laut Teritorial jika pinggiran luar tepian kontinen tidak mencapai jarak 200 mil laut tersebut;\nc. Sebagian melahirkan rejim-rejim hukum baru, seperti asas Negara Kepulauan, Zona Ekonomi Eksklusif dan penambangan di Dasar Laut Internasional.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.17791306972503662,
+            "t": 0.43451476097106934,
+            "r": 0.9167728424072266,
+            "b": 0.6792101860046387
+          },
+          "page": 2
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "d82f487a-b8f8-4f58-996d-7f24311978cb"
+    },
+    {
+      "text": "Bagi Bangsa dan Negara Republik Indonesia, Konvensi ini mempunyai arti yang penting karena untuk pertama kalinya asas Negara Kepulauan yang selama dua puluh lima tahun secara terus menerus diperjuangkan oleh Indonesia, telah berhasil memperoleh pengakuan resmi masyarakat internasional. Pengakuan resmi asas Negara Kepulauan ini merupakan hal yang penting dalam rangka mewujudkan satu kesatuan wilayah sesuai dengan Deklarasi Djuanda 13 Desember 1957, dan Wawasan Nusantara sebagaimana termaktub dalam Ketetapan Majelis Permusyawaratan Rakyat tentang Garis-garis Besar Haluan Negara, yang menjadi dasar perwujudan bagi kepulauan Indonesia sebagai satu kesatuan politik, ekonomi, sosial budaya dan pertahanan keamanan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1785888671875,
+            "t": 0.6868257522583008,
+            "r": 0.9145704507827759,
+            "b": 0.8048305511474609
+          },
+          "page": 2
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "99516145-9325-41a8-aeaf-ffb657680529"
+    },
+    {
+      "text": "Yang dimaksud dengan \"Negara Kepulauan\" menurut Konvensi ini adalah suatu negara yang seluruhnya terdiri dari satu atau lebih gugusan kepulauan dan dapat mencakup pulau-pulau lain.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1791456937789917,
+            "t": 0.8119259476661682,
+            "r": 0.9138134717941284,
+            "b": 0.8552821278572083
+          },
+          "page": 2
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "1b1ff8a7-b7af-4eb8-b714-4df470f52b22"
+    },
+    {
+      "text": "Konvensi menentukan pula bahwa gugusan kepulauan berarti suatu gugusan pulau-pulau termasuk bagian pulau, perairan diantara gugusan pulau-pulau tersebut dan lain-lain wujud alamiah yang hubungannya satu sama lainnya demikian eratnya sehingga gugusan pulau-pulau, perairan dan wujud alamiah lainnya tersebut merupakan suatu kesatuan geografi dan politik yang hakiki, atau secara historis telah dianggap sebagai satu kesatuan demikian.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1788797378540039,
+            "t": 0.8628525733947754,
+            "r": 0.9149177074432373,
+            "b": 0.9436119794845581
+          },
+          "page": 2
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "c904bed6-c2e0-44c9-9019-dafa6cb5403e"
+    },
+    {
+      "text": "Summary : This image displays a black five-pointed star centered within a circular wreath composed of stylized leaves, with a small decorative element at the bottom center of the wreath.\n\nlogo:  \nDesign Elements :  \n  • Central black five-pointed star.  \n  • Surrounding circular wreath made of stylized leaves.  \n  • Small decorative motif at the bottom center of the wreath.  \n  • All elements rendered in solid black on a white background.  \n\nDimensions & Placement :  \n  • Star is centered within the wreath.  \n  • Wreath forms a nearly complete circle around the star, with a gap at the bottom for the decorative element.  \n  • No text, company name, or tagline visible.  \n\nAnalysis :  \n  • The logo uses classic heraldic elements (star and laurel wreath) to convey themes of achievement, honor, or authority.  \n  • Absence of text or color suggests a generic or formal emblem rather than a commercial brand.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4497379660606384,
+            "t": 0.037490133196115494,
+            "r": 0.5962744355201721,
+            "b": 0.12068741023540497
+          },
+          "page": 3
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "958091dd-0b73-4eaf-90ad-1be37e8c6b57"
+    },
+    {
+      "text": "PRESIDEN\nREPUBLIK INDONESIA\n- 2 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4364960789680481,
+            "t": 0.1286238729953766,
+            "r": 0.6115911602973938,
+            "b": 0.17064741253852844
+          },
+          "page": 3
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "8824b077-49f2-4869-994e-24c155819ca0"
+    },
+    {
+      "text": "- Negara Kepulauan dapat menarik garis dasar/pangkal lurus kepulauan yang menghubungkan titik-titik terluar pulau-pulau dan karang kering terluar kepulauan itu, dengan ketentuan bahwa :\n  - a. di dalam garis dasar/pangkal demikian termasuk pulau-pulau utama dan suatu daerah dimana perbandingan antara daerah perairan dan daerah daratan, termasuk atol, adalah antara satu berbanding satu (1 : 1) dan sembilan berbanding satu (9 : 1);\n  - b. panjang garis dasar/pangkal demikian tidak boleh melebihi 100 mil laut, kecuali bahwa hingga 3 % dari jumlah seluruh garis dasar/pangkal yang mengelilingi setiap kepulauan dapat melebihi kepanjangan tersebut, hingga pada suatu kepanjangan maksimum 125 mil laut;\n  - c. penarikan garis dasar/pangkal demikian tidak boleh menyimpang dari konfigurasi umum Negara Kepulauan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.17635157704353333,
+            "t": 0.1879674196243286,
+            "r": 0.9160852432250977,
+            "b": 0.34646695852279663
+          },
+          "page": 3
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "f53be01f-3420-4db3-a1f6-07eecccb2d01"
+    },
+    {
+      "text": "Negara Kepulauan berkewajiban menetapkan garis-garis dasar/ pangkal kepulauan pada peta dengan skala yang cukup untuk menetapkan posisinya. Peta atau daftar koordinat geografi demikian harus diumumkan sebagaimana mestinya dan satu salinan dari setiap peta atau daftar demikian harus didepositkan pada Sekretaris Jenderal Perserikatan Bangsa-Bangsa.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.17824724316596985,
+            "t": 0.35307055711746216,
+            "r": 0.9151663780212402,
+            "b": 0.42120683193206787
+          },
+          "page": 3
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "d9f305b3-00f1-429b-ac41-3c689aa2dd7d"
+    },
+    {
+      "text": "Dengan diakuinya asas Negara Kepulauan, maka perairan yang dahulu merupakan bagian dari Laut Lepas kini menjadi \"perairan kepulauan\" yang berarti menjadi wilayah perairan Republik Indonesia.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.17908167839050293,
+            "t": 0.4277791976928711,
+            "r": 0.9141532182693481,
+            "b": 0.47235268354415894
+          },
+          "page": 3
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "e1fb8a32-54a6-4f90-8d3e-3300c0c47de0"
+    },
+    {
+      "text": "Disamping ketentuan-ketentuan sebagaimana dimaksudkan di muka, syarat-syarat yang penting bagi pengakuan internasional atas asas Negara Kepulauan adalah ketentuan-ketentuan sebagaimana diuraikan di bawah ini.\nDalam \"perairan kepulauan\" berlaku hak lintas damai (right of innocent passage) bagi kapal-kapal negara lain. Namun demikian Negara Kepulauan dapat menangguhkan untuk sementara waktu hak lintas damai tersebut pada bagian-bagian tertentu dari \"perairan kepulauannya\" apabila di anggap perlu untuk melindungi kepentingan keamanannya. Negara Kepulauan dapat menetapkan alur laut kepulauan dan rute penerbangan di atas alur laut tersebut.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.17911085486412048,
+            "t": 0.47848808765411377,
+            "r": 0.9149702787399292,
+            "b": 0.5967710018157959
+          },
+          "page": 3
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "1efc18cf-e5c5-40c8-b768-6cfc825abf47"
+    },
+    {
+      "text": "Kapal asing dan pesawat udara asing menikmati hak lintas alur laut kepulauan melalui alur laut dan rute penerbangan tersebut untuk transit dari suatu bagian Laut Lepas atau Zona Ekonomi Eksklusif ke bagian lain dari Laut Lepas atau Zona Ekonomi Eksklusif. Alur laut kepulauan dan rute penerbangan tersebut ditetapkan dengan menarik garis poros. Kapal dan pesawat udara asing yang melakukan lintas transit melalui alur laut dan rute penerbangan tersebut tidak boleh berlayar atau terbang melampaui 25 mil laut sisi kiri dan sisi kanan garis poros tersebut.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1795332133769989,
+            "t": 0.6039767861366272,
+            "r": 0.9142987728118896,
+            "b": 0.6971990466117859
+          },
+          "page": 3
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "74a7e59d-4d7e-407f-a73c-c446e5216d3c"
+    },
+    {
+      "text": "Sekalipun kapal dan pesawat udara asing menikmati hak lintas alur laut kepulauan melalui alur laut dan rute penerbangan tersebut, namun hal ini di bidang lain daripada pelayaran dan penerbangan tidak boleh mengurangi kedaulatan Negara Kepulauan atas air serta ruang udara di atasnya, dasar laut dan tanah di bawahnya dan sumber kekayaan di dalamnya.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.17968076467514038,
+            "t": 0.7046940922737122,
+            "r": 0.9134117960929871,
+            "b": 0.7722931504249573
+          },
+          "page": 3
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "a53eff24-ca51-4c84-90a0-89fcecaba404"
+    },
+    {
+      "text": "Dengan demikian hak lintas alur laut kepulauan melalui rute penerbangan yang diatur dalam Konvensi ini hanyalah mencakup hak lintas penerbangan melewati udara di atas alur laut tanpa mempengaruhi kedaulatan negara untuk mengatur penerbangan di atas wilayahnya sesuai dengan Konvensi Chicago 1944 tentang Penerbangan Sipil ataupun kedaulatan negara kepulauan atas wilayah udara lainnya di atas perairan Nusantara.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.17999106645584106,
+            "t": 0.7792515158653259,
+            "r": 0.9137335419654846,
+            "b": 0.8480626940727234
+          },
+          "page": 3
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "cb601047-9d8d-45a4-b153-199ec0faa494"
+    },
+    {
+      "text": "Sesuai dengan ketentuan Konvensi, disamping harus menghormati perjanjian-perjanjian internasional yang sudah ada, Negara Kepulauan berkewajiban pula menghormati hak-hak tradisional penangkapan ikan dan kegiatan lain yang sah dari negara-negara tetangga yang langsung berdampingan, serta kabel laut yang telah ada di bagian tertentu perairan kepulauan yang dahulunya merupakan Laut Lepas. Hak-hak tradisional dan kegiatan lain",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1797635853290558,
+            "t": 0.8552469611167908,
+            "r": 0.9138280153274536,
+            "b": 0.9249147772789001
+          },
+          "page": 3
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "03e76e24-85f5-41af-a8a6-df3431a0bce7"
+    },
+    {
+      "text": "Summary : This image is a black-and-white logo featuring a solid five-pointed star centered within a circular laurel wreath.\n\nlogo:  \nMain Elements :  \n  • Central solid black five-pointed star.  \n  • Surrounding circular laurel wreath composed of stylized leaves.  \n  • Small decorative element at the bottom center of the wreath, resembling a bow or knot.\n\nDesign Details :  \n  • All elements are rendered in black on a white background.  \n  • The laurel wreath is symmetrical and encircles the star completely.  \n  • No text, company name, or tagline is present.\n\nDimensions & Placement :  \n  • Star is centered within the wreath.  \n  • Wreath forms a nearly perfect circle around the star.  \n  • Decorative element is positioned at the bottom center of the wreath.\n\nAnalysis :  \n  • The logo uses classic symbols of achievement (star) and honor (laurel wreath).  \n  • The absence of text or additional graphics suggests a generic or institutional emblem, possibly for an award, certification, or official insignia.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4498536288738251,
+            "t": 0.037356674671173096,
+            "r": 0.5962765216827393,
+            "b": 0.12077957391738892
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "102190d2-1592-4d5c-a739-58634910ea4a"
+    },
+    {
+      "text": "PRESIDEN\nREPUBLIK INDONESIA\n- 3 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4364643692970276,
+            "t": 0.12842579185962677,
+            "r": 0.6118889451026917,
+            "b": 0.17169247567653656
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "cffaca65-29e8-4325-af30-8a0100ba9ea5"
+    },
+    {
+      "text": "yang sah tersebut tidak boleh dialihkan kepada atau dibagi dengan negara ketiga atau warganegaranya.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.17831110954284668,
+            "t": 0.1896519809961319,
+            "r": 0.9142647981643677,
+            "b": 0.22083868086338043
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "4b68d822-18b0-4353-b3d2-71dddb4115d7"
+    },
+    {
+      "text": "Konvensi Perserikatan Bangsa-Bangsa tentang Hukum Laut ini mengatur pula rejim-rejim hukum sebagai berikut:",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.17952999472618103,
+            "t": 0.22753654420375824,
+            "r": 0.9141149520874023,
+            "b": 0.25871726870536804
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "7518a700-c959-4262-a0ab-4f1fb852d9b7"
+    },
+    {
+      "text": "1. Laut Teritorial dan Zona Tambahan\n   a. Laut Teritorial\nKonperensi-konperensi Perserikatan Bangsa-Bangsa tentang Hukum Laut yang pertama (1958) dan kedua (1960) di Jenewa tidak dapat memecahkan masalah lebar Laut Teritorial karena pada waktu itu praktek negara menunjukkan keanekaragaman dalam masalah lebar Laut Teritorial, yaitu dari 3 mil laut hingga 200 mil laut.\nKonperensi Perserikatan Bangsa-Bangsa tentang Hukum Laut Ketiga pada akhirnya berhasil menentukan lebar Laut Teritorial maksimal 12 mil laut sebagai bagian dari keseluruhan paket rejim-rejim hukum laut, khususnya :\n1). zona Ekonomi Eksklusif yang lebarnya tidak melebihi 200 mil laut dihitung dari garis dasar/pangkal darimana lebar Laut Teritorial diukur dimana berlaku kebebasan pelayaran;\n2). kebebasan transit kapal-kapal asing melalui Selat yang digunakan untuk pelayaran internasional;\n3). hak akses negara tanpa pantai ke dan dari laut dan kebebasan transit;\n4). tetap dihormati hak lintas laut damai melalui Laut Teritorial.\n\nRejim Laut Teritorial memuat ketentuan sebagai berikut :\n1). Negara pantai mempunyai kedaulatan penuh atas Laut Teritorial, ruang udara di atasnya, dasar laut dan tanah di bawahnya serta kekayaan alam yang terkandung di dalamnya.\n2). Dalam Laut Teritorial berlaku hak lintas laut damai bagi kendaraan-kendaraan air asing. Kendaraan air asing yang menyelenggarakan lintas laut damai di Laut Teritorial tidak boleh melakukan ancaman atau penggunaan kekerasan terhadap kedaulatan, keutuhan wilayah atau kemerdekaan politik negara pantai serta tidak boleh melakukan kegiatan survey atau penelitian, mengganggu sistem komunikasi, melakukan pencemaran dan melakukan kegiatan lain yang tidak ada hubungan langsung dengan lintas laut damai. Pelayaran lintas laut damai tersebut harus dilakukan secara terus menerus, langsung serta secepatnya, sedangkan berhenti dan membuang jangkar hanya dapat dilakukan bagi keperluan navigasi yang normal atau kerena keadaan memaksa (force majeure) atau dalam keadaan bahaya atau untuk tujuan memberikan bantuan pada orang, kapal atau pesawat udara yang berada dalam keadaan bahaya.\n3). Negara pantai berhak membuat peraturan tentang lintas laut damai yang berkenaan dengan keselamatan pelayaran dan pengaturan lintas laut, perlindungan alat bantuan serta fasilitas navigasi, perlindungan kabel dan pipa bawah laut, konservasi kekayaan alam hayati, pencegahan terhadap pelanggaran atas peraturan perikanan, pelestarian lingkungan hidup dan pencegahan, pengurangan dan pengendalian pencemaran, penelitian ilmiah kelautan dan survei hidrogradi dan pencegahan pelanggaran peraturan bea cukai, fiskal, imigrasi dan kesehatan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18026995658874512,
+            "t": 0.2666994035243988,
+            "r": 0.9182506799697876,
+            "b": 0.8293704986572266
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "c56f33af-e05c-4519-9800-3f6d817cadb2"
+    },
+    {
+      "text": "b.  Zona Tambahan\nJika dalam Konvensi Jenewa 1958 lebar Zona Tambahan pada lebar Laut Territorial diukur, maka Konvensi PBB tentang Hukum Laut 1982 kini menentukan bahwa, dengan ditentukannya lebar Laut Teritorial maksimal 12 mil laut, lebar Zona Tambahan adalah maksimal 24 mil laut diukur dari garis dasar laut Teritorial.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.20822077989578247,
+            "t": 0.8333315849304199,
+            "r": 0.9187031388282776,
+            "b": 0.9165177345275879
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "fa73bc11-20b8-46cd-a6f6-baaee2fb7e36"
+    },
+    {
+      "text": "Summary : This is a black-and-white logo featuring a five-pointed star encircled by a laurel wreath.\n\nlogo:\n  Main Elements :\n    • Central solid black five-pointed star.\n    • Surrounding laurel wreath, open at the bottom, with stylized leaves.\n    • Small decorative bow or knot at the base of the wreath.\n  Design Details :\n    • Monochrome (black on white).\n    • Symmetrical composition, with the star perfectly centered within the wreath.\n    • No visible text, company name, or tagline.\n    • No additional graphic elements or background patterns.\n    • The laurel wreath is composed of two branches meeting at the bottom center.\n    • The image is squarely cropped with ample white space around the logo.\n  Dimensions & Placement :\n    • Star and wreath are centrally placed.\n    • Wreath forms a near-complete circle, open at the bottom.\n\nAnalysis :\n    • The use of a star and laurel wreath suggests themes of achievement, excellence, or authority, but no specific organization or brand is identified due to the absence of text or unique marks.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4494539201259613,
+            "t": 0.037546198815107346,
+            "r": 0.59650719165802,
+            "b": 0.12074925005435944
+          },
+          "page": 5
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "d2448bc0-cb78-4d13-a6bd-583fa1bf12eb"
+    },
+    {
+      "text": "PRESIDEN\nREPUBLIK INDONESIA\n- 4 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.43658187985420227,
+            "t": 0.1285565048456192,
+            "r": 0.611883282661438,
+            "b": 0.17033608257770538
+          },
+          "page": 5
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "ca5a6ca6-9ed6-4647-b133-7644f0d2216b"
+    },
+    {
+      "text": "Di Zona Tambahan negara pantai dapat melaksanakan pengawasan dan pengendalian yang perlu, untuk :\n1).  mencegah pelanggaran terhadap peraturan perundang-undangannya di bidang bea cukai, fiskal, keimigrasian dan kesehatan yang berlaku di wilayah darat dan Laut Teritorial negara pantai;\n2).  menindak pelanggaran-pelanggaran atas peraturan perundang-undangan tersebut yang dilakukan di wilayah darat dan Laut Teritorial negara pantai.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.24492090940475464,
+            "t": 0.1873568892478943,
+            "r": 0.9179012179374695,
+            "b": 0.28486505150794983
+          },
+          "page": 5
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "3be8fb42-c726-427f-8f95-a3915902614a"
+    },
+    {
+      "text": "2. Selat yang digunakan untuk pelayaran internasional\nPenetapan lebar Laut Teritorial maksimal 12 mil laut membawa akibat bahwa perairan dalam Selat yang semula merupakan bagian dari Laut Lepas berubah menjadi bagian dari Laut Teritorial negara-negara selat yang mengelilinginya.\nBerhubungan dengan itu, tetap terjaminnya fungsi Selat sebagai jalur pelayaran internasional merupakan syarat bagi diterimanya penetapan lebar Laut Teritorial maksimal 12 mil laut. Oleh karena itu, dengan tidak mengurangi pelaksanaan kedaulatan dan yuridiksi negara-negara pantai dibidang lain daripada lintas laut dan lintas udara, kendaraan air asing dan pesawat udara asing mempunyai hak lintas laut/udara melalui suatu selat yang digunakan untuk pelayaran internasional.\nNegara-negara selat, dengan memperhatikan ketentuan-ketentuan Konvensi, dapat membuat peraturan perundang-undangan mengenai lintas laut transit melalui selat tersebut yang bertalian dengan :\na. keselamatan pelayaran dan pengaturan lintas laut;\nb. pencegahan, pengurangan dan pengendalian pencemaran;\nc. pencegahan penangkapan ikan, termasuk penyimpanan alat penangkapan ikan dalam palka;\nd. memuat atau membongkar komoditi, mata uang atau orang-orang, bertentangan dengan peraturan perundang-undangan bea cukai, fiskal, imigrasi dan kesehatan.\n\n3. Zona Ekonomi Eksklusif\nDi Zona Ekonomi Eksklusif, negara pantai mempunyai:\na. hak berdaulat untuk tujuan eksplorasi, eksploitasi, pengelolaan dan konservasi sumber kekayaan alam baik hayati maupun non hayati di ruang air dan kegiatan-kegiatan lainnya untuk eksplorasi dan eksploitasi ekonomi zona tersebut seperti pembangkitan tenaga dari air, arus dan angin;\nb. yuridiksi yang berkaitan dengan pembuatan dan penggunaan pulau-pulau buatan, instalasi-instalasi dan bangunan-bangunan lainnya, penelitian ilmiah dan perlindungan serta pelestarian lingkungan laut;\nc. kewajiban untuk menghormati kebebasan pelayaran dan penerbangan internasional, pemasangan kabel atau pipa bawah laut menurut prinsip hukum internasional yang berlaku di Zona Ekonomi Eksklusif;\nd. kewajiban untuk memberikan kesempatan terutama kepada negara tidak berpantai atau negara yang secara geografis tidak beruntung untuk turut serta memanfaatkan surplus dari jumlah tangkapan ikan yang diperbolehkan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1761484444141388,
+            "t": 0.29092004895210266,
+            "r": 0.9198367595672607,
+            "b": 0.7369425296783447
+          },
+          "page": 5
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "124e96e4-f363-42f9-88bb-18ccfb35c6dc"
+    },
+    {
+      "text": "Masalah Zona Ekonomi Eksklusif yang lebarnya tidak melebihi 200 mil laut tersebut erat kaitannya dengan masalah penetapan lebar Laut Teritorial maksimal 12 mil laut, karena :\na. beberapa negara pantai, yang menganut lebar Laut Teritorial 200 mil laut, baru dapat menerima penetapan lebar Laut Teritorial maksimal 12 mil laut dengan adanya rejim Zona Ekonomi Eksklusif yang lebarnya tidak melebihi 200 mil laut.\nb. pada sisi lain :\n    1). negara-negara tanpa pantai dan negara-negara yang secara geografis tidak beruntung baru dapat menerima penetapan lebar Laut Teritorial maksimal 12 mil laut dan Zona Ekonomi Eksklusif yang lebarnya tidak melebihi 200 mil laut dengan ketentuan bahwa mereka memperoleh kesempatan untuk turut serta memanfaatkan surplus dari jumlah tangkapan yang diperbolehkan.\n    2). mereka mempunyai hak transit ke dan dari laut melalui wilayah negara pantai/negara transit.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.20752236247062683,
+            "t": 0.7440599203109741,
+            "r": 0.9192160367965698,
+            "b": 0.9384675025939941
+          },
+          "page": 5
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "e7751a69-4d4b-4f00-a7a4-7a71d7dbcc43"
+    },
+    {
+      "text": "Summary : This image displays a simple black star encircled by a laurel wreath, commonly used as a logo or emblem.\n\nlogo:  \nMain Elements :  \n  • Central solid black five-pointed star.  \n  • Surrounding symmetrical laurel wreath, open at the top and meeting at the bottom center.  \n  • Wreath composed of stylized leaf shapes, with a small decorative knot or bow at the base.\n\nDesign Details :  \n  • Black-and-white colour scheme.  \n  • No text, company name, or tagline present.  \n  • Circular overall composition, with the star centered within the wreath.\n\nDimensions & Placement :  \n  • Star is proportionally sized to fit snugly within the inner circle of the wreath.  \n  • Wreath forms a nearly complete circle, open only at the top.\n\nAnalysis :  \n  • The use of a star and laurel wreath suggests themes of achievement, excellence, or authority, typical of award emblems, military insignia, or institutional logos.  \n  • The absence of text or additional symbols makes the logo generic and versatile for various contexts.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.44960838556289673,
+            "t": 0.037507314234972,
+            "r": 0.5964053273200989,
+            "b": 0.12089313566684723
+          },
+          "page": 6
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "8be7daef-7160-4f98-8da4-6ca51db43a84"
+    },
+    {
+      "text": "PRESIDEN\nREPUBLIK INDONESIA\n- 5 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4366690218448639,
+            "t": 0.12863337993621826,
+            "r": 0.6114017963409424,
+            "b": 0.17100590467453003
+          },
+          "page": 6
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "7678d9bd-39bf-470d-b91d-f708f09db8cb"
+    },
+    {
+      "text": "c.\tnegara-negara maritim baru dapat menerima rejim Zona Ekonomi Eksklusif jika negara pantai tetap menghormati kebebasan palayaran/penerbangan melalui Zona Ekonomi Eksklusif.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.20940932631492615,
+            "t": 0.1899752914905548,
+            "r": 0.9153532981872559,
+            "b": 0.23332244157791138
+          },
+          "page": 6
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "6aef0a1a-ec58-4b9b-8777-dafb214070e4"
+    },
+    {
+      "text": "4. Landas Kontinen\nBerbeda dengan Konvensi Jenewa 1958 tentang Landas Kontinen yang menetapkan lebar Landas Kontinen berdasarkan pada kriteria kedalaman atau kriteria kemampuan eksploitasi, maka Konvensi 1982 ini mendasarkannya pada berbagai kriteria :\na.  jarak sampai 200 mil laut jika tepian luar kontinen tidak mencapai jarak 200 mil laut tersebut;\nb.  kelanjutan alamiah wilayah daratan di bawah laut hingga tepian luar kontinen yang lebarnya tidak boleh melebihi 350 mil laut yang diukur dari garis dasar Laut Teritorial jika di luar 200 mil laut masih terdapat daerah dasar laut yang merupakan kelanjutan alamiah dari wilayah daratan dan jika memenuhi kriteria kedalaman sedimentasi yang ditetapkan dalam konvensi; atau\nc.  tidak boleh melebihi l00 mil laut dari garis kedalaman (isobath) 2500 meter.\n\nKriteria kelanjutan alamiah wilayah daratan di bawah laut hingga tepian luar kontinen yang ditentukan dalam Konvensi ini pada akhirnya dapat diterima negara-negara bukan negara pantai, khususnya negara-negara tanpa pantai atau negara-negara yang geografis tidak beruntung setelah Konvensi juga menentukan bahwa negara pantai mempunyai kewajiban untuk memberikan pembayaran atau kontribusi dalam natura yang berkenaan dengan eksploitasi sumber kekayaan non-hayati Landas Kontinen di luar 200 mil laut. Pembayaran atau kontribusi tersebut harus dilakukan melalui Otorita Dasar Laut Internasional yang akan membagikannya kepada negara peserta Konvensi didasarkan pada kriteria pembagian yang adil dengan memperhatikan kepentingan serta kebutuhan negara-negara berkembang, khususnya negara-negara yang perkembangannya masih paling rendah dan negara-negara tanpa pantai.\nSekalipun Landas Kontinen pada mulanya termasuk dalam rezim Zona Ekonomi Eksklusif, namun dalam Konvensi ini Landas Kontinen diatur dalam Bab tersendiri. Hal ini berkaitan dengan diterimanya kriteria kelanjutan alamiah wilayah daratan hingga pinggiran luar tepian kontinen, yang memungkinkan lebar landas Kontinen melebihi lebar Zona Ekonomi Eksklusif.\n\n5. Laut Lepas\nBerbeda dengan Konvensi Jenewa 1958 tentang Laut Lepas yang menetapkan Laut Lepas dimulai dari batas terluar Laut Teritorial, Konvensi ini menetapkan bahwa Laut Lepas tidak mencakup Zona Ekonomi Eksklusif, laut teritorial perairan pedalaman dan perairan kepulauan.\nKecuali perbedaan-perbedaan tersebut di atas, pada dasarnya tidak terdapat perbedaan antara Konvensi Jenewa 1958 tentang Laut Lepas dan Konvensi Perserikatan Bangsa-Bangsa tentang Hukum Laut mengenai hak-hak dan kebebasan-kebebasan di Laut Lepas.\nKebebasan-kebebasan tersebut harus dilaksanakan oleh setiap negara dengan mengindahkan hak negara lain dalam melaksanakan kebebasan di Laut Lepas. Di samping mengatur hak-hak kebebasan-kebebasan di Laut Lepas, Konvensi ini juga mengatur masalah konservasi dan pengelolaan sumber kekayaan hayati di Laut Lepas yang dahulu diatur dalam Konvensi Jenewa 1958 tentang Perikanan dan konservasi sumber kekayaan hayati di Laut Lepas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.17733898758888245,
+            "t": 0.2406592071056366,
+            "r": 0.9194954633712769,
+            "b": 0.8252408504486084
+          },
+          "page": 6
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "3f87241b-4555-4f8a-87b0-79b9414416bc"
+    },
+    {
+      "text": "6. Rejim Pulau\nRejim Pulau diatur dalam Bab tersendiri dalam Konvensi ini yang dihubungkan dengan masalah Laut Teritorial, Zona Ekonomi Eksklusif dan Landas Kontinen.\nKonvensi menentukan bahwa pulau/karang mempunyai Laut Teritorial, Zona Ekonomi Eksklusif dan Landas Kontinen dengan ketentuan bahwa pulau/karang yang tidak dapat mendukung habitat manusia atau kehidupan ekonominya sendiri, tidak mempunyai Zona Ekonomi Eksklusif atau Landas Kontinen sendiri dan hanya berhak mempunyai Laut Teritorial saja.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.17830166220664978,
+            "t": 0.8321219086647034,
+            "r": 0.9162464141845703,
+            "b": 0.9393376708030701
+          },
+          "page": 6
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "6c868a48-45d9-48a0-b8d9-80207222f7d6"
+    },
+    {
+      "text": "Summary : This image displays a simple black star encircled by a laurel wreath, commonly used as a logo or emblem.\n\nlogo:  \nMain Elements :  \n  • Central solid black five-pointed star.  \n  • Surrounding symmetrical laurel wreath, open at the bottom.  \n  • Wreath composed of stylized leaf shapes, with a small bow or knot at the base.\n\nDesign Details :  \n  • Black-and-white colour scheme.  \n  • No visible text, company name, or tagline.  \n  • Circular composition, with the star centered within the wreath.\n\nDimensions & Placement :  \n  • Star is centrally placed, occupying most of the inner space.  \n  • Wreath forms a near-complete circle, open at the bottom center.\n\nAnalysis :  \n  • The emblem conveys themes of achievement, honor, or authority, typical of awards, military insignia, or institutional logos.  \n  • The absence of text or additional symbols makes it a generic, versatile mark.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.44876667857170105,
+            "t": 0.03751355782151222,
+            "r": 0.5970674157142639,
+            "b": 0.12109747529029846
+          },
+          "page": 7
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "e8206390-1d85-498b-a17a-0d7981d330cc"
+    },
+    {
+      "text": "PRESIDEN\nREPUBLIK INDONESIA\n- 6 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4361625909805298,
+            "t": 0.12832337617874146,
+            "r": 0.6119465827941895,
+            "b": 0.17071685194969177
+          },
+          "page": 7
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "062d06a1-a738-4556-b8f4-68f158191b6e"
+    },
+    {
+      "text": "7. Rejim Laut tertutup/setengah tertutup\nPenetapan lebar Laut Teritorial maksimal 12 mil laut dan Zona Ekonomi Eksklusif yang lebarnya tidak melebihi 200 mil diukur dari garis dasar Laut Teritorial, mengakibatkan bahwa perairan Laut tertutup/setengah tertutup yang dahulunya merupakan Laut Lepas menjadi Laut Teritorial atau Zona Ekonomi Eksklusif negara-negara di sekitar atau berbatasan dengan laut tertutup/setengah tertutup tersebut. Rejim laut tertutup/setengah tertutup diatur dalam satu Bab tersendiri dalam Konvensi ini.\nKonvensi menganjurkan antara lain agar negara-negara yang berbatasan dengan Laut tertutup/setengah tertutup mengadakan kerjasama mengenai pengelolaan, konservasi sumber kekayaan alam hayati dan perlindungan serta pelestarian lingkungan laut tersebut.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.17789804935455322,
+            "t": 0.20245277881622314,
+            "r": 0.9175333976745605,
+            "b": 0.35786235332489014
+          },
+          "page": 7
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "108d7567-3f1e-4de4-987d-f810a6e6174e"
+    },
+    {
+      "text": "8.  Rejim akses negara tidak berpantai ke dan dari laut serta kebebasan transit\nJika dalam Konvensi Jenewa 1958 tentang Laut Lepas masalah hak akses negara tanpa pantai diatur dalam salah satu pasal, Konvensi ini mengatur masalah rejim akses negara tanpa pantai ke dan dari laut serta kebebasan transit melalui negara transit secara lebih terperinci dalam satu Bab tersendiri.\nRejim ini berkaitan dengan hak negara-negara tersebut untuk ikut memanfaatkan sumber kekayaan alam yang terkandung dalam Zona Ekonomi Eksklusif dan Kawasan dasar laut internasional.\nSesuai ketentuan-ketentuan dalam Konvensi, pelaksanaan hak akses negara tidak berpantai serta kebebasan transit melalui wilayah negara transit dan di Zona Ekonomi Eksklusif perlu diatur dengan perjanjian bilateral subregional dan regional.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1786392331123352,
+            "t": 0.36727583408355713,
+            "r": 0.9165951609611511,
+            "b": 0.5117083191871643
+          },
+          "page": 7
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "96ecaa05-cd10-46e7-a5b9-5b8bc734b4e4"
+    },
+    {
+      "text": "9. Kawasan Dasar laut Internasional\nKawasan Dasar Laut Internasional adalah dasar laut/ samudera yang terletak di luar Landas Kontinen dan berada di bawah Laut Lepas (lihat juga uraian dalam butir 4 dan butir 5).\nKonvensi menetapkan bahwa Kawasan Dasar Laut Internasional dan kekayaan alam yang terkandung di dasar laut dan tanah dibawahnya merupakan warisan bersama umat manusia.\nTidak ada satu negarapun boleh menuntut atau melaksanakan kedaulatan atau hak berdaulat atas bagian dari Kawasan Dasar Laut Internasional atau kekayaan alam yang terdapat di dalamnya.\nDemikian pula tidak satu negarapun atau badan hukum atau orang boleh melaksanakan pemilikan atas salah satu bagian dari kawasan tersebut semua kegiatan di Kawasan Dasar Laut Internasional dilaksanakan untuk kepentingan umat manusia secara keseluruhan, maka pengelolaannya dilaksanakan oleh suatu badan internasional, yaitu Otorita Dasar Laut Internasional (International Seabed Authority). Adapun pengelolaannya didasarkan pada suatu sistem, yaitu sistem paralel, yakni selama Perusahaan (Enterprise) sebagai wahana otorita belum dapat beroperasi secara penuh, negara-negara peserta Konvensi termasuk perusahaan negara dan swastanya dapat melakukan penambangan di Kawasan Dasar Laut Internasional tersebut berdasarkan suatu hubungan kerja atau asosiasi dengan Otorita. Konvensi Perserikatan Bangsa-Bangsa tentang Hukum Laut ketiga dengan suatu resolusi yaitu Resolusi I, menetapkan pula pembentukan Komisi Persiapan (Preparatory Commission) yang tugasnya adalah untuk mempersiapkan antara lain pembentukan Otorita Dasar Laut Internasional dan Pengadilan Internasional untuk Hukum Laut.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.17907485365867615,
+            "t": 0.5196347832679749,
+            "r": 0.916583776473999,
+            "b": 0.8263227343559265
+          },
+          "page": 7
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "d2d83d54-42de-4ddf-b6ed-061f7f4cd9b3"
+    },
+    {
+      "text": "10. Perlindungan dan pemeliharaan lingkungan Laut\nWalaupun perlahan-lahan akan tetapi pada akhirnya tumbuh kesadaran bahwa, sekalipun laut itu sangat luas tetapi sumber-sumber kekayaan yang terkandung di dalamnya tidak tanpa batas kelestarian. Penangkapan hidup jenis ikan selalu mengandung sesuatu resiko bahwa kelangsungan hidup jenis ikan tersebut dapat terancam dengan kepunahan.\nPengembangan teknologi di bidang perikanan, yang memungkinkan penangkapan ikan dalam skala besar, dapat mengakibatkan tidak hanya kepunahan jenis-jenis ikan",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18098971247673035,
+            "t": 0.8338711857795715,
+            "r": 0.9162135124206543,
+            "b": 0.9422814249992371
+          },
+          "page": 7
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "be9de736-c559-4989-acad-90ed2ed308ec"
+    },
+    {
+      "text": "Summary : This image displays a simple emblem consisting of a black five-pointed star centered within a circular laurel wreath, rendered in black and white.\n\nlogo: \n  Elements : \n    • Central solid black five-pointed star.\n    • Surrounding circular laurel wreath, composed of stylized leaves, open at the bottom with a small bow or knot.\n    • No visible text, company name, or tagline.\n    • Monochrome (black on white background).\n  Dimensions & Placement : \n    • Star is centered within the wreath.\n    • Wreath forms a nearly complete circle, open at the bottom.\n    • Symmetrical, with the star and wreath aligned on the vertical axis.\n  Analysis : \n    • The use of a star and laurel wreath is a common motif in insignias, medals, and logos symbolizing achievement, authority, or honor. The absence of text or additional symbols suggests a generic or placeholder emblem.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4493022561073303,
+            "t": 0.03738045319914818,
+            "r": 0.5967954993247986,
+            "b": 0.12077505886554718
+          },
+          "page": 8
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "e53039eb-d88e-4193-9abf-2f53800f9250"
+    },
+    {
+      "text": "PRESIDEN\nREPUBLIK INDONESIA\n- 7 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.43689414858818054,
+            "t": 0.12854407727718353,
+            "r": 0.6113419532775879,
+            "b": 0.1708626002073288
+          },
+          "page": 8
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "6809b90e-3def-41b9-9d3b-f32f89074a7d"
+    },
+    {
+      "text": "akan tetapi juga kemunduran besar bagi perusahaan-perusahaan yang tergantung dari penangkapan jenis jenis ikan tersebut.\nDi samping itu tumbuh kesadaran, dalam arti keresahan, mengenai kelestarian lingkungan hidup, yang pada akhirnya menggerakkan Perserikatan Bangsa-Bangsa untuk menyelenggarakan Koperensi mengenai Lingkungan Hidup di Stockholm dalam tahun 1972 Pembuangan limbah secara tidak terkendali ke dalam lautan membawa akibat kerusakan yang parah pada lingkungan laut.\nDemikian pula, pencemaran yang diakibatkan oleh kecelakaan tangker-tangker raksasa, seperti Torrey Canyon dalam tahun 1967 dan Amoco Caditz dalam tahun 1978, membawa kerusakan yang sangat parah pada lingkungan hidup.\nBerdasarkan kenyataan-kenyataan sebagaimana tersebut di atas, Konvensi menentukan bahwa setiap negara mempunyai kewajiban untuk melindungi dan melestarikan lingkungan laut. Di samping itu Konvensi juga menentukan bahwa setiap negara mempunyai hak berdaulat untuk memanfaatkan sumber-sumber kekayaan alamnya sesuai dengan kewajibannya untuk melindungi dan melestarikan lingkungan laut.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2089422643184662,
+            "t": 0.1886560469865799,
+            "r": 0.917410135269165,
+            "b": 0.3953658938407898
+          },
+          "page": 8
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "eb722b1a-e5f4-41a1-8e39-43de8b99ab5d"
+    },
+    {
+      "text": "11. Penelitian ilmiah kelautan\nKonvensi menentukan bahwa kedaulatan negara pantai mencakup pula pengaturan penelitian ilmiah kelautan di Laut Teritorial atau Perairan Kepulauan. Hal tersebut berarti bahwa setiap penelitian ilmiah kelautan yang dilaksanakan dalam Laut Teritorial/Perairan Kepulauan hanya dapat dilaksanakan dengan seizin negara pantai. Konvensi menetapkan pula bahwa negara pantai mempunyai yurisdiksi untuk penelitian ilmiah kelautan di Zona Ekonomi Eksklusif dan Landas Kontinen.\nPenelitian ilmiah oleh negara asing atau organisasi internasional sepanjang tidak bertentangan dengan ketentuan-ketentuan sebagaimana diatur dalam Konvensi supaya diizinkan oleh negara pantai. Untuk penelitian ilmiah kelautan yang dilakukan di Laut Lapas berlaku kebebasan penelitian dengan ketentuan bahwa penelitian ilmiah yang dilakukan di Landas Kontinen tunduk pada rejim penelitian Landas Kontinen. Demikian juga bagi penelitian ilmiah di Kawasan Dasar Laut Internasional berlaku prinsip kebebasan penelitian ilmiah yang tunduk pada rejim Kawasan Dasar Laut Internasional.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1800280213356018,
+            "t": 0.4166751801967621,
+            "r": 0.9174712300300598,
+            "b": 0.6111509799957275
+          },
+          "page": 8
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "3287da7f-9ac5-4045-a5af-14a8293ac523"
+    },
+    {
+      "text": "12. Pengembangan dan Alih Teknologi\na. Negara-negara, secara langsung atau melalui organisasi internasional yang berwenang, harus mengadakan kerjasama sesuai dengan kemampuan masing-masing untuk secara aktif memajukan pengembangan dan pengalihan ilmu pengetahuan dan teknologi kelautan;\nb. Semua negara wajib memajukan pengembangan kemampuan ilmiah dan teknologi kelautan negara-negara yang memerlukan bantuan teknik dalam bidang tersebut, khususnya negara-negara berkembang, termasuk negara-negara tanpa pantai dan yang secara geografis tidak beruntung, yang memerlukan bantuan di bidang eksplorasi dan eksploitasi, konservasi dan pengelolaan sumber-sumber kekayaan laut, perlindungan dan pelestarian lingkungan laut, penelitian ilmiah kelautan, dengan tujuan untuk mempercepat pembangunan sosial dan ekonomi negara- negara berkembang.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1803813874721527,
+            "t": 0.6197755336761475,
+            "r": 0.915524959564209,
+            "b": 0.7891610860824585
+          },
+          "page": 8
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "7552b625-87b5-41ce-9568-b44282b3b390"
+    },
+    {
+      "text": "13. Penyelesaian Sengketa\nKonvensi menentukan bahwa setiap Negara Peserta Konvensi harus menyelesaikan suatu sengketa mengenai penafsiran dan penerapan Konvensi melalui jalan damai sesuai dengan ketentuan Pasal 2 ayat 3 Piagam Perserikatan Bangsa-Bangsa.\nKonvensi ini mengatur sistem penyelesaian sengketa, dimana negara-negara peserta berkewajiban untuk tunduk pada salah satu daripada lembaga penyelesaian sengketa sebagai berikut : Mahkamah Internasional (I.C.J.), Pengadilan Internasional untuk Hukum Laut, Arbitrasi Umum atau Arbitrasi Khusus.\nKonvensi 1982 ini membentuk Pengadilan Internasional untuk Hukum Laut sebagai mahkamah tetap (standing tribunal) dan Arbitrasi Umum serta Arbitrasi Khusus sebagai mahkamah ad hoc (ad hoc Tribunal). Setiap sengketa mengenai penafsiran",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.18097347021102905,
+            "t": 0.7964838743209839,
+            "r": 0.9169368147850037,
+            "b": 0.9428694248199463
+          },
+          "page": 8
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "cacfa66d-23c1-44dd-a138-8e1f2a820709"
+    },
+    {
+      "text": "Summary : This image displays a simple black star encircled by a laurel wreath, commonly used as a logo or emblem.\n\nlogo:  \nGraphic Elements :  \n  • Central solid black five-pointed star.  \n  • Surrounding symmetrical laurel wreath, composed of stylized leaves, forming a near-complete circle around the star.  \n  • Small bow or knot at the bottom center of the wreath, connecting the two sides.  \n  • No visible text, company name, or tagline present.  \nDimensions & Placement :  \n  • Star is centered within the wreath.  \n  • Wreath is evenly spaced around the star, with the bow at the bottom.  \n  • Black-and-white color scheme; no additional colors or shading.  \nAnalysis :  \n  • The emblem conveys a sense of achievement, honor, or authority, typical of insignia or award logos.  \n  • The absence of text or branding suggests it is a generic or symbolic mark rather than a commercial logo.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4479857385158539,
+            "t": 0.03687231242656708,
+            "r": 0.598731517791748,
+            "b": 0.12107640504837036
+          },
+          "page": 9
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "622f5285-3eff-4f79-b69e-048339656b04"
+    },
+    {
+      "text": "PRESIDEN\nREPUBLIK INDONESIA\n- 8 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4363744854927063,
+            "t": 0.12827426195144653,
+            "r": 0.6122083067893982,
+            "b": 0.17175835371017456
+          },
+          "page": 9
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "6bb80bcb-2ee4-4f5a-a846-d95aa29529b1"
+    },
+    {
+      "text": "dan penerapan Konvensi dapat diajukan untuk diselesaikan oleh salah satu dari ke empat macam lembaga penyelesaian sengketa tersebut di atas, kecuali sengketa mengenai penafsiran dan penerapan Bab XI Konvensi mengenai Kawasan Dasar Laut Internasional beserta lampiran-lampiran Konvensi yang bertalian dengan masalah Kawasan Dasar Laut Internasional, yang merupakan yurisdiksi mutlak Kamar Sengketa Dasar Laut. Sejalan dengan masalah persiapan pembentukan organ-organ Otorita Dasar Laut Internasional, maka pembentukan Pengadilan-Internasional untuk Hukum Laut beserta Kamar-kamar di dalamnya harus dipersiapkan pula oleh Komisi Persiapan sesuai dengan ketentuan Resolusi I yang diambil oleh Konperensi PBB tentang Hukum Laut Ketiga, agar dapat segera berfungsi setelah Konvensi mulai berlaku.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.20927968621253967,
+            "t": 0.18863090872764587,
+            "r": 0.9159623384475708,
+            "b": 0.3330502212047577
+          },
+          "page": 9
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "30396c84-a129-49b8-8d62-95197c00a455"
+    },
+    {
+      "text": "14. Ketentuan Penutup\nSebagaimana lazimnya, konvensi memuat ketentuan-ketentuan penutup yang mengatur masalah-masalah prosedural seperti penandatanganan, pengesahan dan konfirmasi formal, aksesi dan berlakunya Konvensi, amandemen, depositori dan lain-lainnya. Beberapa ketentuan penutup yang penting yang terdapat pada Konvensi ini antara lain adalah :\na.  Konvensi mulai berlaku 12 bulan setelah tercapai pengesahan oleh 60 negara;\nb.  Konvensi ini menggantikan (prevail) Konvensi-konvensi Jenewa 1958 mengenai Hukum Laut bagi para pihaknya;\nc.  Konvensi ini tidak membenarkan negara-negara mengadakan persyaratan (reservation) terhadap ketentuan-ketentuan dalam Konvensi pada waktu mengesahkan karena seluruh ketentuan Konvensi ini merupakan satu paket yang ketentuan-ketentuannya sangat erat hubungannya satu dengan yang lain, dan oleh karena itu hanya dapat disahkan sebagai satu kebulatan yang utuh.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.178462415933609,
+            "t": 0.3406919240951538,
+            "r": 0.9179518222808838,
+            "b": 0.5259137153625488
+          },
+          "page": 9
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "036135f4-3412-4930-829e-bc1aa5dd0c4d"
+    },
+    {
+      "text": "II.     Pasal DEMI PASAL\n\n        Pasal 1\n        Cukup jelas\n\n        Pasal 2\n        Cukup jelas",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.13257741928100586,
+            "t": 0.5425224304199219,
+            "r": 0.35096806287765503,
+            "b": 0.6427640914916992
+          },
+          "page": 9
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "02c74540-f7ba-4b06-b770-b60568cd23fd"
+    },
+    {
+      "text": "TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1985 NOMOR 3319",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.16044655442237854,
+            "t": 0.6731113195419312,
+            "r": 0.8875613212585449,
+            "b": 0.6956959962844849
+          },
+          "page": 9
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "8edb6496-3fbf-49c2-b4d3-196218d45358"
+    }
+  ]
+}

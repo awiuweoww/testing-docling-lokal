@@ -1,0 +1,2756 @@
+{
+  "chunks": [
+    {
+      "text": "UNDANG-UNDANG REPUBLIK INDONESIA\n\nNOMOR 43 TAHUN 2008\n\nTENTANG\n\nWILAYAH NEGARA",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2848375737667084,
+            "t": 0.22698110342025757,
+            "r": 0.7160903215408325,
+            "b": 0.3271653652191162
+          },
+          "page": 0
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "eb488dc0-fb02-4096-88be-edb9b92c5d42"
+    },
+    {
+      "text": "DENGAN RAHMAT TUHAN YANG MAHA ESA",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2768387496471405,
+            "t": 0.35724174976348877,
+            "r": 0.7252190113067627,
+            "b": 0.37915563583374023
+          },
+          "page": 0
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "5a5f2b16-b673-425a-9463-5f39a23fe951"
+    },
+    {
+      "text": "PRESIDEN REPUBLIK INDONESIA,\n\nMenimbang   :   a. bahwa Negara Kesatuan Republik Indonesia sebagai negara kepulauan yang berciri nusantara mempunyai kedaulatan atas wilayahnya serta memiliki hak-hak berdaulat di luar wilayah kedaulatannya dan kewenangan tertentu lainnya untuk dikelola dan dimanfaatkan sebesar-besarnya bagi kesejahteraan dan kemakmuran rakyat Indonesia sebagaimana diamanatkan dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;\n\nb. bahwa pengaturan mengenai wilayah negara meliputi wilayah daratan, perairan pedalaman, perairan kepulauan dan laut teritorial beserta dasar laut, dan tanah di bawahnya, serta ruang udara di atasnya, termasuk seluruh sumber kekayaan yang terkandung di dalamnya;\n\nc. bahwa pengaturan wilayah negara sebagaimana dimaksud dalam huruf b dilakukan untuk memberikan kepastian hukum dan kejelasan kepada warga negara mengenai wilayah negara;\n\nd. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu membentuk Undang-Undang tentang Wilayah Negara;",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.09943169355392456,
+            "t": 0.39948487281799316,
+            "r": 0.9052248597145081,
+            "b": 0.7972266674041748
+          },
+          "page": 0
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "809d1a97-9ed3-4242-947f-006b2b32779f"
+    },
+    {
+      "text": "Mengingat    :   Pasal 20, Pasal 21, dan Pasal 25A Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.10017430782318115,
+            "t": 0.8167262077331543,
+            "r": 0.9007290601730347,
+            "b": 0.8535195589065552
+          },
+          "page": 0
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "e596f12e-943f-46e0-9a08-2f9efaa7f394"
+    },
+    {
+      "text": "Dengan . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7607837915420532,
+            "t": 0.8796824216842651,
+            "r": 0.8841365575790405,
+            "b": 0.8999428749084473
+          },
+          "page": 0
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "f4eedb68-2a17-4ec6-995f-73ed5c41abb7"
+    },
+    {
+      "text": "- 2 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.46461406350135803,
+            "t": 0.18110673129558563,
+            "r": 0.5249770879745483,
+            "b": 0.20247481763362885
+          },
+          "page": 1
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "aa9a3ee6-d986-4f5f-ae77-091e48d58896"
+    },
+    {
+      "text": "Dengan Persetujuan Bersama",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.3466697633266449,
+            "t": 0.20931431651115417,
+            "r": 0.657245397567749,
+            "b": 0.23180299997329712
+          },
+          "page": 1
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "fbf1d256-d15b-4b7e-aed9-2dc61eb6ecda"
+    },
+    {
+      "text": "DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA\ndan\nPRESIDEN REPUBLIK INDONESIA",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.22446858882904053,
+            "t": 0.23767414689064026,
+            "r": 0.777780294418335,
+            "b": 0.3056831657886505
+          },
+          "page": 1
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "557abffd-f22b-44b5-b38d-6f9dcd52e01c"
+    },
+    {
+      "text": "MEMUTUSKAN:",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4141533374786377,
+            "t": 0.3213045299053192,
+            "r": 0.5886274576187134,
+            "b": 0.3458101451396942
+          },
+          "page": 1
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "9c4d54ce-c8cb-43cd-a057-fb6b22079287"
+    },
+    {
+      "text": "Menetapkan    :    UNDANG-UNDANG TENTANG WILAYAH NEGARA.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.09735095500946045,
+            "t": 0.36100876331329346,
+            "r": 0.7724094986915588,
+            "b": 0.3852839469909668
+          },
+          "page": 1
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "4472a678-b972-4e11-bcab-2fcfd071e815"
+    },
+    {
+      "text": "BAB I\nKETENTUAN UMUM",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.46606677770614624,
+            "t": 0.40332168340682983,
+            "r": 0.6819848418235779,
+            "b": 0.4396215081214905
+          },
+          "page": 1
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "3fffcb41-1ef9-42f9-8d99-0984d1ccfc19"
+    },
+    {
+      "text": "Pasal 1",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.5290963649749756,
+            "t": 0.4494827091693878,
+            "r": 0.62062668800354,
+            "b": 0.46946993470191956
+          },
+          "page": 1
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "766a6048-c701-44bd-89c5-cba78111ad08"
+    },
+    {
+      "text": "Dalam Undang-Undang ini yang dimaksud dengan:\n\n1. Wilayah Negara Kesatuan Republik Indonesia, yang selanjutnya disebut dengan Wilayah Negara, adalah salah satu unsur negara yang merupakan satu kesatuan wilayah daratan, perairan pedalaman, perairan kepulauan dan laut teritorial beserta dasar laut dan tanah di bawahnya, serta ruang udara di atasnya, termasuk seluruh sumber kekayaan yang terkandung di dalamnya.\n2. Wilayah Perairan adalah perairan pedalaman, perairan kepulauan, dan laut teritorial.\n3. Wilayah Yurisdiksi adalah wilayah di luar Wilayah Negara yang terdiri atas Zona Ekonomi Eksklusif, Landas Kontinen, dan Zona Tambahan di mana negara memiliki hak-hak berdaulat dan kewenangan tertentu lainnya sebagaimana diatur dalam peraturan perundang-undangan dan hukum internasional.\n4. Batas Wilayah Negara adalah garis batas yang merupakan pemisah kedaulatan suatu negara yang didasarkan atas hukum internasional.\n5. Batas Wilayah Yurisdiksi adalah garis batas yang merupakan pemisah hak berdaulat dan kewenangan tertentu yang dimiliki oleh negara yang didasarkan atas ketentuan peraturan perundang-undangan dan hukum internasional.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.24237394332885742,
+            "t": 0.47839486598968506,
+            "r": 0.9084522724151611,
+            "b": 0.8685613870620728
+          },
+          "page": 1
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "d47b8e56-2ba2-407c-9df3-cf65a2113279"
+    },
+    {
+      "text": "6. Kawasan . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7437064051628113,
+            "t": 0.8976033329963684,
+            "r": 0.9082606434822083,
+            "b": 0.9195489287376404
+          },
+          "page": 1
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "cddd0fca-10b0-4e95-94ca-bf207be1f6e5"
+    },
+    {
+      "text": "- 3 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.46617159247398376,
+            "t": 0.18126888573169708,
+            "r": 0.5233159065246582,
+            "b": 0.20223738253116608
+          },
+          "page": 2
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "2aaaf2ff-5dad-4e9e-89c4-51c4003684fb"
+    },
+    {
+      "text": "6. Kawasan Perbatasan adalah bagian dari Wilayah Negara yang terletak pada sisi dalam sepanjang batas wilayah Indonesia dengan negara lain, dalam hal Batas Wilayah Negara di darat, Kawasan Perbatasan berada di kecamatan.\n7. Zona Tambahan Indonesia adalah zona yang lebarnya tidak melebihi 24 (dua puluh empat) mil laut yang diukur dari garis pangkal dari mana lebar laut teritorial diukur.\n8. Zona Ekonomi Eksklusif Indonesia adalah suatu area di luar dan berdampingan dengan laut teritorial Indonesia sebagaimana dimaksud dalam Undang-Undang yang mengatur mengenai perairan Indonesia dengan batas terluar 200 (dua ratus) mil laut dari garis pangkal dari mana lebar laut teritorial diukur.\n9. Landas Kontinen Indonesia adalah meliputi dasar laut dan tanah di bawahnya dari area di bawah permukaan laut yang terletak di luar laut teritorial, sepanjang kelanjutan alamiah wilayah daratan hingga pinggiran luar tepi kontinen, atau hingga suatu jarak 200 (dua ratus) mil laut dari garis pangkal dari mana lebar laut teritorial diukur, dalam hal pinggiran luar tepi kontinen tidak mencapai jarak tersebut, hingga paling jauh 350 (tiga ratus lima puluh) mil laut sampai dengan jarak 100 (seratus) mil laut dari garis kedalaman 2.500 (dua ribu lima ratus) meter.\n10. Perjanjian Internasional adalah perjanjian dalam bentuk dan nama tertentu yang diatur dalam hukum internasional yang dibuat secara tertulis serta menimbulkan hak dan kewajiban di bidang hukum publik.\n11. Badan Pengelola adalah badan yang diberi kewenangan oleh Undang-Undang ini di bidang pengelolaan Batas Wilayah Negara dan Kawasan Perbatasan.\n12. Pemerintah Pusat, yang selanjutnya disebut Pemerintah, adalah Presiden Republik Indonesia yang memegang kekuasaan pemerintahan negara Republik Indonesia sebagaimana dimaksud dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.\n13. Pemerintah Daerah adalah gubernur, bupati, atau walikota, dan perangkat daerah sebagai unsur penyelenggara pemerintahan daerah.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2443503439426422,
+            "t": 0.20783200860023499,
+            "r": 0.9075357913970947,
+            "b": 0.8352497816085815
+          },
+          "page": 2
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "1b25732d-cb44-4da1-a3f4-abd50cb80d0a"
+    },
+    {
+      "text": "BAB II . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7725216746330261,
+            "t": 0.8586519956588745,
+            "r": 0.8884831070899963,
+            "b": 0.8810240030288696
+          },
+          "page": 2
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "53cd0a78-29f3-412b-b883-aec70aaa3bfe"
+    },
+    {
+      "text": "$-4-$",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.46838217973709106,
+            "t": 0.18274423480033875,
+            "r": 0.5210896730422974,
+            "b": 0.1991807520389557
+          },
+          "page": 3
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "c2df15e8-d972-43a9-87e6-a4c80aa5eca7"
+    },
+    {
+      "text": "BAB II\nASAS DAN TUJUAN",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4720487594604492,
+            "t": 0.21101243793964386,
+            "r": 0.6762043237686157,
+            "b": 0.24480406939983368
+          },
+          "page": 3
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "40023bd5-eeff-420d-a0bb-7f4f01b075ea"
+    },
+    {
+      "text": "Pasal 2",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.5325226783752441,
+            "t": 0.2564185857772827,
+            "r": 0.6150845289230347,
+            "b": 0.27454036474227905
+          },
+          "page": 3
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "7e4d1c22-38c0-43f0-a527-fc54e68d08ff"
+    },
+    {
+      "text": "Pengaturan Wilayah Negara dilaksanakan berdasarkan asas:\na. kedaulatan;\nb. kebangsaan;\nc. kenusantaraan;\nd. keadilan;\ne. keamanan;\nf. ketertiban dan kepastian hukum;\ng. kerja sama;\nh. kemanfaatan; dan\ni. pengayoman.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2437286376953125,
+            "t": 0.2845107316970825,
+            "r": 0.8479515314102173,
+            "b": 0.5011311769485474
+          },
+          "page": 3
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "94c5133b-0c7f-4658-b148-8ef86ae067b0"
+    },
+    {
+      "text": "Pasal 3",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.5334287285804749,
+            "t": 0.5234362483024597,
+            "r": 0.6147661805152893,
+            "b": 0.542486846446991
+          },
+          "page": 3
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "a9a5bffe-868d-4ee3-817f-9efd9fdccfc3"
+    },
+    {
+      "text": "Pengaturan Wilayah Negara bertujuan:\n\na. menjamin keutuhan Wilayah Negara, kedaulatan negara, dan ketertiban di Kawasan Perbatasan demi kepentingan kesejahteraan segenap bangsa;\n\nb. menegakkan kedaulatan dan hak-hak berdaulat; dan\n\nc. mengatur pengelolaan dan pemanfaatan Wilayah Negara dan Kawasan Perbatasan, termasuk pengawasan batas-batasnya.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.24435201287269592,
+            "t": 0.5536880493164062,
+            "r": 0.9033263921737671,
+            "b": 0.6855486631393433
+          },
+          "page": 3
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "21807c08-582c-4d0c-968b-8a8c58f4a4a2"
+    },
+    {
+      "text": "BAB III\nRUANG LINGKUP WILAYAH NEGARA",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.3876000642776489,
+            "t": 0.7151329517364502,
+            "r": 0.7600090503692627,
+            "b": 0.7502034902572632
+          },
+          "page": 3
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "e35312e5-accb-43de-9ab9-524379743a31"
+    },
+    {
+      "text": "Bagian Kesatu\nUmum\n\nPasal 4",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4986225366592407,
+            "t": 0.7607659697532654,
+            "r": 0.6498938798904419,
+            "b": 0.8234664797782898
+          },
+          "page": 3
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "ae5edfe6-4590-498e-b681-adb6db7eecef"
+    },
+    {
+      "text": "Wilayah Negara meliputi wilayah darat, wilayah perairan, dasar laut, dan tanah di bawahnya serta ruang udara di atasnya, termasuk seluruh sumber kekayaan yang terkandung di dalamnya.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.24601617455482483,
+            "t": 0.8350145816802979,
+            "r": 0.9017164707183838,
+            "b": 0.9007413387298584
+          },
+          "page": 3
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "dbd385bf-fdd1-43da-b806-6dc5a15ae901"
+    },
+    {
+      "text": "Bagian . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7755720019340515,
+            "t": 0.9181334376335144,
+            "r": 0.8913667798042297,
+            "b": 0.9380550980567932
+          },
+          "page": 3
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "63983041-88fb-4dcc-bf38-f11138f9b557"
+    },
+    {
+      "text": "$-5-$",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.46788278222084045,
+            "t": 0.18142125010490417,
+            "r": 0.5208310484886169,
+            "b": 0.20070981979370117
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "be7982b5-351b-480d-958f-d6adac5e427d"
+    },
+    {
+      "text": "Bagian Kedua\nBatas Wilayah",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4991702735424042,
+            "t": 0.21002748608589172,
+            "r": 0.6524620056152344,
+            "b": 0.24641451239585876
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "f9c21d6b-519e-4e93-be4c-3c5404c6b7ce"
+    },
+    {
+      "text": "Pasal 5",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.5312943458557129,
+            "t": 0.25508010387420654,
+            "r": 0.6181067228317261,
+            "b": 0.27523916959762573
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "7148fd34-90cf-4c54-b25e-5f3ccce6b095"
+    },
+    {
+      "text": "Batas Wilayah Negara di darat, perairan, dasar laut dan tanah di bawahnya serta ruang udara di atasnya ditetapkan atas dasar perjanjian bilateral dan/atau trilateral mengenai batas darat, batas laut, dan batas udara serta berdasarkan peraturan perundang-undangan dan hukum internasional.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.24483823776245117,
+            "t": 0.2844712734222412,
+            "r": 0.9044684171676636,
+            "b": 0.36803895235061646
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "18ab8ce0-3758-4b5e-a4c3-0432b734e0d8"
+    },
+    {
+      "text": "Pasal 6",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.5312371850013733,
+            "t": 0.3896302580833435,
+            "r": 0.6180599331855774,
+            "b": 0.4102226495742798
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "085fb4d2-407c-4d52-a662-acf9bd20497c"
+    },
+    {
+      "text": "1) Batas Wilayah Negara sebagaimana dimaksud dalam Pasal 5, meliputi:\n   a. di darat berbatas dengan Wilayah Negara Malaysia, Papua Nugini, dan Timor Leste;\n   b. di laut berbatas dengan Wilayah Negara Malaysia, Papua Nugini, Singapura, dan Timor Leste; dan\n   c. di udara mengikuti batas kedaulatan negara di darat dan di laut, dan batasnya dengan angkasa luar ditetapkan berdasarkan perkembangan hukum internasional.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.24705129861831665,
+            "t": 0.41926464438438416,
+            "r": 0.9050447344779968,
+            "b": 0.5798779726028442
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "9ad716ad-d5c9-45e5-bfcf-28f1028d59bb"
+    },
+    {
+      "text": "(2) Batas Wilayah Negara sebagaimana dimaksud pada ayat (1), termasuk titik-titik koordinatnya ditetapkan berdasarkan perjanjian bilateral dan/atau trilateral.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.24805665016174316,
+            "t": 0.5816603302955627,
+            "r": 0.9015861749649048,
+            "b": 0.6326326727867126
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "e76a44fc-139e-4f74-b681-6eed68f1568c"
+    },
+    {
+      "text": "(3) Dalam hal Wilayah Negara tidak berbatasan dengan negara lain, Indonesia menetapkan Batas Wilayah Negara secara unilateral berdasarkan peraturan perundang-undangan dan hukum internasional.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.24893391132354736,
+            "t": 0.633531391620636,
+            "r": 0.9031760692596436,
+            "b": 0.7001201510429382
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "b71047bf-4d61-4489-8b03-3b0545ca1073"
+    },
+    {
+      "text": "BAB IV\nHAK-HAK BERDAULAT",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.45337560772895813,
+            "t": 0.7148510217666626,
+            "r": 0.6955620646476746,
+            "b": 0.7523362636566162
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "c2b99fc9-ddc9-4fde-a29f-09ac64a31279"
+    },
+    {
+      "text": "Bagian Kesatu\nUmum\n\nPasal 7",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4962078034877777,
+            "t": 0.760678231716156,
+            "r": 0.6516359448432922,
+            "b": 0.8256750702857971
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "8dc3b5a2-f874-441b-920f-c2aee318de9a"
+    },
+    {
+      "text": "Negara Indonesia memiliki hak-hak berdaulat dan hak-hak lain di Wilayah Yurisdiksi yang pelaksanaannya sesuai dengan ketentuan peraturan perundang-undangan dan hukum internasional.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.24512165784835815,
+            "t": 0.8350911736488342,
+            "r": 0.9025039076805115,
+            "b": 0.9011024832725525
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "5210a531-d6fd-4874-96ab-7a85507620ed"
+    },
+    {
+      "text": "Bagian . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7595098614692688,
+            "t": 0.9170805215835571,
+            "r": 0.8782424330711365,
+            "b": 0.9390028715133667
+          },
+          "page": 4
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "a46b53c6-f3f7-409e-9232-b79a15315395"
+    },
+    {
+      "text": "- 6 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4676550328731537,
+            "t": 0.1827155500650406,
+            "r": 0.5212487578392029,
+            "b": 0.2003423124551773
+          },
+          "page": 5
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "392a6b11-58db-49fa-8f0a-9c71b750960c"
+    },
+    {
+      "text": "Bagian Kedua\nBatas Wilayah Yurisdiksi",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.44763413071632385,
+            "t": 0.21083016693592072,
+            "r": 0.701469898223877,
+            "b": 0.24540911614894867
+          },
+          "page": 5
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "7f889d83-f22a-4f57-af97-e781b4bbe54d"
+    },
+    {
+      "text": "Pasal 8",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.5319843888282776,
+            "t": 0.25568389892578125,
+            "r": 0.615574061870575,
+            "b": 0.274452805519104
+          },
+          "page": 5
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "2846049d-ed93-4534-a078-2b88572f68f0"
+    },
+    {
+      "text": "1. Wilayah Yurisdiksi Indonesia berbatas dengan wilayah yurisdiksi Australia, Filipina, India, Malaysia, Papua Nugini, Palau, Thailand, Timor Leste, dan Vietnam.\n2. Batas Wilayah Yurisdiksi sebagaimana dimaksud pada ayat (1) termasuk titik-titik koordinatnya ditetapkan berdasarkan perjanjian bilateral dan/atau trilateral.\n3. Dalam hal Wilayah Yurisdiksi tidak berbatasan dengan negara lain, Indonesia menetapkan Batas Wilayah Yurisdiksinya secara unilateral berdasarkan ketentuan peraturan perundang-undangan dan hukum internasional.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.24621304869651794,
+            "t": 0.2744719684123993,
+            "r": 0.9042526483535767,
+            "b": 0.44743862748146057
+          },
+          "page": 5
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "aafa37ce-9a2b-41a2-b54d-d366d9b202fd"
+    },
+    {
+      "text": "BAB V\nKEWENANGAN",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4934258759021759,
+            "t": 0.4770212173461914,
+            "r": 0.6541668176651001,
+            "b": 0.5104302763938904
+          },
+          "page": 5
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "c01b7fda-6442-4be1-8827-d90450238d4b"
+    },
+    {
+      "text": "Pasal 9\n\nPemerintah dan pemerintah daerah berwenang mengatur pengelolaan dan pemanfaatan Wilayah Negara dan Kawasan Perbatasan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.24563053250312805,
+            "t": 0.5227039456367493,
+            "r": 0.9034258127212524,
+            "b": 0.5950677990913391
+          },
+          "page": 5
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "fd6e0603-e81c-467d-a029-005f415fa056"
+    },
+    {
+      "text": "Pasal 10\n\n(1) Dalam pengelolaan Wilayah Negara dan Kawasan Perbatasan, Pemerintah berwenang:\na. menetapkan kebijakan pengelolaan dan pemanfaatan Wilayah Negara dan Kawasan Perbatasan;\nb. mengadakan perundingan dengan negara lain mengenai penetapan Batas Wilayah Negara sesuai dengan ketentuan peraturan perundang-undangan dan hukum internasional;\nc. membangun atau membuat tanda Batas Wilayah Negara;\nd. melakukan pendataan dan pemberian nama pulau dan kepulauan serta unsur geografis lainnya;\ne. memberikan izin kepada penerbangan internasional untuk melintasi wilayah udara teritorial pada jalur yang telah ditentukan dalam peraturan perundang-undangan;",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.24719497561454773,
+            "t": 0.6191049218177795,
+            "r": 0.9047908782958984,
+            "b": 0.8766173720359802
+          },
+          "page": 5
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "f191e63c-4c53-4b09-9ba7-fff18f6171d0"
+    },
+    {
+      "text": "f. memberikan . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7009844779968262,
+            "t": 0.8960277438163757,
+            "r": 0.8923554420471191,
+            "b": 0.9177312254905701
+          },
+          "page": 5
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "22c7ba75-448f-432f-9b13-7898a7101307"
+    },
+    {
+      "text": "$-7-$",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4649447798728943,
+            "t": 0.18082264065742493,
+            "r": 0.523907482624054,
+            "b": 0.20221468806266785
+          },
+          "page": 6
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "e6f77baf-c5ba-4439-8624-0a860681da5f"
+    },
+    {
+      "text": "- f. memberikan izin lintas damai kepada kapal-kapal asing untuk melintasi laut teritorial dan perairan kepulauan pada jalur yang telah ditentukan dalam peraturan perundang-undangan;\n- g. melaksanakan pengawasan di zona tambahan yang diperlukan untuk mencegah pelanggaran dan menghukum pelanggar peraturan perundang-undangan di bidang bea cukai, fiskal, imigrasi, atau saniter di dalam Wilayah Negara atau laut teritorial;\n- h. menetapkan wilayah udara yang dilarang dilintasi oleh penerbangan internasional untuk pertahanan dan keamanan;\n- i. membuat dan memperbarui peta Wilayah Negara dan menyampaikannya kepada Dewan Perwakilan Rakyat sekurang-kurangnya setiap 5 (lima) tahun sekali; dan\n- j. menjaga keutuhan, kedaulatan, dan keamanan Wilayah Negara serta Kawasan Perbatasan.\n\n(2) Dalam rangka melaksanakan ketentuan sebagaimana dimaksud pada ayat (1), Pemerintah berkewajiban menetapkan biaya pembangunan Kawasan Perbatasan.\n\n(3) Dalam rangka menjalankan kewenangannya, Pemerintah dapat menugasi pemerintah daerah untuk menjalankan kewenangannya dalam rangka tugas pembantuan sesuai dengan peraturan perundang-undangan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.24573105573654175,
+            "t": 0.2079075127840042,
+            "r": 0.9093632102012634,
+            "b": 0.6189389228820801
+          },
+          "page": 6
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "07714f1e-3414-4c6a-a390-1189accb8dbf"
+    },
+    {
+      "text": "Pasal 11\n\n(1) Dalam pengelolaan Wilayah Negara dan Kawasan Perbatasan, Pemerintah Provinsi berwenang:\na. melaksanakan kebijakan Pemerintah dan menetapkan kebijakan lainnya dalam rangka otonomi daerah dan tugas pembantuan;\nb. melakukan koordinasi pembangunan di Kawasan Perbatasan;\nc. melakukan pembangunan Kawasan Perbatasan antar-pemerintah daerah dan/atau antara pemerintah daerah dengan pihak ketiga; dan\nd. melakukan pengawasan pelaksanaan pembangunan Kawasan Perbatasan yang dilaksanakan Pemerintah Kabupaten/Kota.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2433045506477356,
+            "t": 0.6392431259155273,
+            "r": 0.9079074263572693,
+            "b": 0.8950017690658569
+          },
+          "page": 6
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "afb3d8ab-28af-42ca-87df-bc076c4df015"
+    },
+    {
+      "text": "(2) Dalam . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7443704605102539,
+            "t": 0.9055274128913879,
+            "r": 0.8984661102294922,
+            "b": 0.931293785572052
+          },
+          "page": 6
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "156c5b78-95af-4031-a7a8-59b3e088c7fd"
+    },
+    {
+      "text": "$-8-$",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.46837982535362244,
+            "t": 0.1819962114095688,
+            "r": 0.5208097100257874,
+            "b": 0.20072819292545319
+          },
+          "page": 7
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "73d6d3df-8d40-459a-a40f-64a416788e90"
+    },
+    {
+      "text": "(2) Dalam rangka melaksanakan ketentuan sebagaimana dimaksud pada ayat (1), Pemerintah Provinsi berkewajiban menetapkan biaya pembangunan Kawasan Perbatasan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2463856339454651,
+            "t": 0.20810745656490326,
+            "r": 0.9028447270393372,
+            "b": 0.26233720779418945
+          },
+          "page": 7
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "1ad0ca43-8f9b-49a8-8d6f-8ddc3a1c7735"
+    },
+    {
+      "text": "Pasal 12\n\n(1) Dalam pengelolaan Wilayah Negara dan Kawasan Perbatasan, Pemerintah Kabupaten/Kota berwenang:\n  a. melaksanakan kebijakan Pemerintah dan menetapkan kebijakan lainnya dalam rangka otonomi daerah dan tugas pembantuan;\n  b. menjaga dan memelihara tanda batas;\n  c. melakukan koordinasi dalam rangka pelaksanaan tugas pembangunan di Kawasan Perbatasan di wilayahnya; dan\n  d. melakukan pembangunan Kawasan Perbatasan antar-pemerintah daerah dan/atau antara pemerintah daerah dengan pihak ketiga.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.24859362840652466,
+            "t": 0.2839292287826538,
+            "r": 0.9054663777351379,
+            "b": 0.5077829957008362
+          },
+          "page": 7
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "6a4ebd3d-baa2-42b1-9cc8-aeed49184df6"
+    },
+    {
+      "text": "(2) Dalam rangka melaksanakan ketentuan sebagaimana dimaksud pada ayat (1), Pemerintah Kabupaten/Kota berkewajiban menetapkan biaya pembangunan Kawasan Perbatasan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.24747112393379211,
+            "t": 0.5106817483901978,
+            "r": 0.9038450717926025,
+            "b": 0.5781552791595459
+          },
+          "page": 7
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "680c0fb0-af96-4e16-8510-bb6b32156706"
+    },
+    {
+      "text": "Pasal 13",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.5247567892074585,
+            "t": 0.5992311835289001,
+            "r": 0.6243749856948853,
+            "b": 0.6203728318214417
+          },
+          "page": 7
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "6c26280a-d551-4090-aa57-84eace073fc3"
+    },
+    {
+      "text": "Pelaksanaan kewenangan sebagaimana dimaksud dalam Pasal 10, Pasal 11, dan Pasal 12 diatur lebih lanjut dengan Peraturan Pemerintah.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.24623173475265503,
+            "t": 0.6221291422843933,
+            "r": 0.9024949669837952,
+            "b": 0.6733847260475159
+          },
+          "page": 7
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "ee462504-91f7-46ee-b95f-5bcd63cca6d9"
+    },
+    {
+      "text": "BAB VI\nKELEMBAGAAN",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.48805081844329834,
+            "t": 0.6971765756607056,
+            "r": 0.6599171161651611,
+            "b": 0.7343508005142212
+          },
+          "page": 7
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "60c2084e-1d11-48db-ab64-96f5b072b626"
+    },
+    {
+      "text": "Pasal 14",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.5263068675994873,
+            "t": 0.7434173822402954,
+            "r": 0.6243592500686646,
+            "b": 0.7629592418670654
+          },
+          "page": 7
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "54bcb95f-6e99-4155-ba6b-384feca1dae8"
+    },
+    {
+      "text": "(1) Untuk mengelola Batas Wilayah Negara dan mengelola Kawasan Perbatasan pada tingkat pusat dan daerah, Pemerintah dan pemerintah daerah membentuk Badan Pengelola nasional dan Badan Pengelola daerah.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2474079430103302,
+            "t": 0.7701178193092346,
+            "r": 0.9026107788085938,
+            "b": 0.8368906378746033
+          },
+          "page": 7
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "76943c6c-295a-4c58-a0a0-e5632fb05d47"
+    },
+    {
+      "text": "(2) Badan Pengelola sebagaimana dimaksud pada ayat (1) dipimpin oleh seorang kepala badan yang bertanggung jawab kepada Presiden atau kepala daerah sesuai dengan kewenangannya.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2488555908203125,
+            "t": 0.8380697965621948,
+            "r": 0.9029619693756104,
+            "b": 0.9053224325180054
+          },
+          "page": 7
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "806e0749-e4a4-4e29-ba61-18fce1fb0de4"
+    },
+    {
+      "text": "(3) Keanggotaan . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.6868966817855835,
+            "t": 0.9158089756965637,
+            "r": 0.8925542831420898,
+            "b": 0.9406457543373108
+          },
+          "page": 7
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "dac1f636-0fe5-4f5e-b6ab-bce9dc15cd81"
+    },
+    {
+      "text": "$-9-$",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4649359881877899,
+            "t": 0.18121212720870972,
+            "r": 0.5236932039260864,
+            "b": 0.2014228105545044
+          },
+          "page": 8
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "5017c341-f5f8-4291-b7a9-fa7a34449aaf"
+    },
+    {
+      "text": "(3) Keanggotaan Badan Pengelola berasal dari unsur Pemerintah dan pemerintah daerah yang terkait dengan perbatasan Wilayah Negara.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.24595719575881958,
+            "t": 0.2075646072626114,
+            "r": 0.9033258557319641,
+            "b": 0.2624609172344208
+          },
+          "page": 8
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "57046472-2220-482e-aae1-7f0c09a51bba"
+    },
+    {
+      "text": "Pasal 15",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.5249321460723877,
+            "t": 0.2754538059234619,
+            "r": 0.624660849571228,
+            "b": 0.29634517431259155
+          },
+          "page": 8
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "6ae058d4-7bb3-491a-b216-1882684229af"
+    },
+    {
+      "text": "(1) Badan Pengelola bertugas:\n  a. menetapkan kebijakan program pembangunan perbatasan;\n  b. menetapkan rencana kebutuhan anggaran;\n  c. mengoordinasikan pelaksanaan; dan\n  d. melaksanakan evaluasi dan pengawasan.\n\n(2) Pelaksana teknis pembangunan dilakukan oleh instansi teknis sesuai dengan tugas pokok dan fungsinya.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2452145516872406,
+            "t": 0.29914602637290955,
+            "r": 0.9028377532958984,
+            "b": 0.43408700823783875
+          },
+          "page": 8
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "8003178b-c316-492f-804c-8afcaf8a6948"
+    },
+    {
+      "text": "Pasal 16\nHubungan kerja antara Badan Pengelola nasional dan Badan Pengelola daerah merupakan hubungan koordinatif.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.24549302458763123,
+            "t": 0.4482397437095642,
+            "r": 0.9025301933288574,
+            "b": 0.5071609020233154
+          },
+          "page": 8
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "bcc718e6-f25b-4acb-97f7-99f840ae1fa8"
+    },
+    {
+      "text": "Pasal 17",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.525992751121521,
+            "t": 0.5147762894630432,
+            "r": 0.6239825487136841,
+            "b": 0.5341405272483826
+          },
+          "page": 8
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "1cf24f57-d64a-4fe1-8629-dfe5a7876e6c"
+    },
+    {
+      "text": "Dalam melaksanakan tugasnya, Badan Pengelola dibantu oleh sekretariat tetap yang berkedudukan di kementerian yang tugas dan tanggung jawabnya di bidang pemerintahan dalam negeri.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.24640092253684998,
+            "t": 0.5365673303604126,
+            "r": 0.9027101993560791,
+            "b": 0.5893305540084839
+          },
+          "page": 8
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "a8cbaff1-5822-4ea8-bdcb-5ee8b88045df"
+    },
+    {
+      "text": "Pasal 18\n\n(1) Ketentuan lebih lanjut mengenai kedudukan, tugas, fungsi, dan susunan organisasi, serta tata kerja Badan Pengelola dan sekretariat tetap di tingkat pusat diatur dengan Peraturan Presiden.\n\n(2) Ketentuan lebih lanjut mengenai kedudukan, tugas, fungsi, dan susunan organisasi, serta tata kerja Badan Pengelola di tingkat daerah diatur dengan peraturan daerah.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.24576249718666077,
+            "t": 0.6121537685394287,
+            "r": 0.9031827449798584,
+            "b": 0.750373125076294
+          },
+          "page": 8
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "35fca9fa-b88f-420a-b001-7ebd2bf38c05"
+    },
+    {
+      "text": "BAB VII\nPERAN SERTA MASYARAKAT",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.42341649532318115,
+            "t": 0.7657489776611328,
+            "r": 0.7250185012817383,
+            "b": 0.8019298315048218
+          },
+          "page": 8
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "cd648610-80ea-47eb-8e3b-93c4c4b51a48"
+    },
+    {
+      "text": "Pasal 19",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.525206983089447,
+            "t": 0.8123670816421509,
+            "r": 0.623697817325592,
+            "b": 0.8317457437515259
+          },
+          "page": 8
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "59948f20-e99f-4ef2-aa97-7869f3fa7877"
+    },
+    {
+      "text": "1. Peran serta masyarakat dalam pengelolaan Kawasan Perbatasan dilakukan dalam bentuk:\n   a. mengembangkan pembangunan Kawasan Perbatasan; dan",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.24573978781700134,
+            "t": 0.838453471660614,
+            "r": 0.9025086164474487,
+            "b": 0.8991650938987732
+          },
+          "page": 8
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "22eaa0d2-c7f3-4208-a27f-6f3520f54e14"
+    },
+    {
+      "text": "b. menjaga . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7577581405639648,
+            "t": 0.9116465449333191,
+            "r": 0.91808021068573,
+            "b": 0.934389054775238
+          },
+          "page": 8
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "93108a7e-136b-41df-9587-8c90efe17add"
+    },
+    {
+      "text": "- 10 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.46676915884017944,
+            "t": 0.18182125687599182,
+            "r": 0.5346468091011047,
+            "b": 0.20174986124038696
+          },
+          "page": 9
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "47287d44-afab-43c0-bcec-cfa5ecbb2193"
+    },
+    {
+      "text": "b. menjaga serta mempertahankan Kawasan Perbatasan.\n\n(2) Untuk melaksanakan ketentuan sebagaimana dimaksud pada ayat (1), Pemerintah dapat melibatkan masyarakat untuk ikut berperan serta dalam pengelolaan Kawasan Perbatasan.\n\n(3) Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.24628221988677979,
+            "t": 0.20882514119148254,
+            "r": 0.904840350151062,
+            "b": 0.3344900906085968
+          },
+          "page": 9
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "b646f7ca-30d6-4d4c-be49-f10d46cb9032"
+    },
+    {
+      "text": "BAB VIII\nLARANGAN",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.5120507478713989,
+            "t": 0.3491935729980469,
+            "r": 0.6359622478485107,
+            "b": 0.3844906687736511
+          },
+          "page": 9
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "43cc004b-8a8f-4126-a8eb-2ab5dff0c5d7"
+    },
+    {
+      "text": "Pasal 20",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.5263941884040833,
+            "t": 0.3948204517364502,
+            "r": 0.6243311762809753,
+            "b": 0.4139636754989624
+          },
+          "page": 9
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "5bb06bb6-3346-4efb-a9cb-f5b8542e743e"
+    },
+    {
+      "text": "(1) Setiap orang dilarang melakukan upaya menghilangkan, merusak, mengubah, atau memindahkan tanda-tanda batas negara, atau melakukan pengurangan luas Wilayah Negara.\n\n(2) Setiap orang dilarang menghilangkan, merusak, mengubah, memindahkan tanda-tanda batas atau melakukan tindakan lain yang mengakibatkan tanda-tanda batas tersebut tidak berfungsi.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2457626760005951,
+            "t": 0.42902058362960815,
+            "r": 0.9047932624816895,
+            "b": 0.5493339896202087
+          },
+          "page": 9
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "3c064e86-8e13-4f37-8323-3ddf27abd6e0"
+    },
+    {
+      "text": "BAB IX  \nKETENTUAN PIDANA",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.46338772773742676,
+            "t": 0.5649810433387756,
+            "r": 0.684693455696106,
+            "b": 0.5984304547309875
+          },
+          "page": 9
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "38ee2f25-deb1-40e3-bf87-8ab0dfb6a50d"
+    },
+    {
+      "text": "Pasal 21\n\n(1) Setiap orang yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 20 ayat (1) dipidana dengan pidana penjara paling singkat 2 (dua) tahun dan paling lama 10 (sepuluh) tahun dan pidana denda paling sedikit Rp2.000.000.000,00 (dua miliar rupiah) dan paling banyak Rp10.000.000.000,00 (sepuluh miliar rupiah).\n\n(2) Setiap orang yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 20 ayat (2) dipidana dengan pidana penjara paling singkat 3 (tiga) tahun dan paling lama 15 (lima belas) tahun dan pidana denda paling sedikit Rp5.000.000.000,00 (lima miliar rupiah) dan paling banyak Rp20.000.000.000,00 (dua puluh miliar rupiah).\n\n(3) Dalam hal pelanggaran ketentuan sebagaimana dimaksud dalam Pasal 20 ayat (1) dan ayat (2) dilakukan oleh korporasi, dipidana dengan pidana denda ditambah 1/3 (sepertiga) dari jumlah denda sebagaimana dimaksud pada ayat (1) atau ayat (2).",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.24666756391525269,
+            "t": 0.6035350561141968,
+            "r": 0.9045118689537048,
+            "b": 0.8977274894714355
+          },
+          "page": 9
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "f894083d-4787-4774-b7bb-cd0c56034626"
+    },
+    {
+      "text": "(4) Selain . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7612521052360535,
+            "t": 0.9255891442298889,
+            "r": 0.901378333568573,
+            "b": 0.9494937062263489
+          },
+          "page": 9
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "44af43de-eae8-4a99-ade0-adbc7a65014f"
+    },
+    {
+      "text": "- 11 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.46681252121925354,
+            "t": 0.18242311477661133,
+            "r": 0.5346717238426208,
+            "b": 0.20134344696998596
+          },
+          "page": 10
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "e71a18c1-f717-445d-b471-7df3a56c7cbd"
+    },
+    {
+      "text": "(4) Selain pidana denda sebagaimana dimaksud pada ayat (3), korporasi dijatuhi pidana tambahan berupa pencabutan izin usaha.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.24707037210464478,
+            "t": 0.20836888253688812,
+            "r": 0.9017826914787292,
+            "b": 0.2620651125907898
+          },
+          "page": 10
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "00b2e67f-1130-4cbf-8eb0-b06e71ee557f"
+    },
+    {
+      "text": "BAB X\nKETENTUAN LAIN-LAIN\nPasal 22",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4523530900478363,
+            "t": 0.27697309851646423,
+            "r": 0.6957642436027527,
+            "b": 0.3313489854335785
+          },
+          "page": 10
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "057f25ee-5d15-4627-a103-4908f63df7ca"
+    },
+    {
+      "text": "Negara Indonesia berhak melakukan pengelolaan dan pemanfaatan kekayaan alam dan lingkungan laut di laut bebas serta dasar laut internasional yang dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan dan hukum internasional.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.24540936946868896,
+            "t": 0.3343106508255005,
+            "r": 0.9025119543075562,
+            "b": 0.41544437408447266
+          },
+          "page": 10
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "f88cdca0-1d30-4a3d-b141-34df4c9e3b90"
+    },
+    {
+      "text": "BAB XI\nKETENTUAN PERALIHAN\nPasal 23",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.44416382908821106,
+            "t": 0.4405056834220886,
+            "r": 0.7038843631744385,
+            "b": 0.49581044912338257
+          },
+          "page": 10
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "9403b34d-315c-4190-8c5a-4ba282dd887a"
+    },
+    {
+      "text": "Pada saat berlakunya Undang-Undang ini, semua peraturan\nperundang-undangan yang berkaitan dengan Batas Wilayah\nNegara dan Batas Wilayah Yurisdiksi tetap berlaku sepanjang\ntidak bertentangan atau belum diganti dengan yang baru\nberdasarkan Undang-Undang ini.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2469569742679596,
+            "t": 0.49884331226348877,
+            "r": 0.9017658233642578,
+            "b": 0.578228235244751
+          },
+          "page": 10
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "ab7444c9-73e3-4b4e-b681-74ddaaef3abd"
+    },
+    {
+      "text": "BAB XII\nKETENTUAN PENUTUP\nPasal  24",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4545787572860718,
+            "t": 0.6043900847434998,
+            "r": 0.6934158802032471,
+            "b": 0.6582476496696472
+          },
+          "page": 10
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "7c865aa1-6cd0-4f74-b52d-308d878040a6"
+    },
+    {
+      "text": "Badan Pengelola sebagaimana dimaksud dalam Pasal 14 dan Pasal 15 harus sudah terbentuk dalam waktu paling lambat 6 (enam) bulan setelah Undang-Undang ini diundangkan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.24727052450180054,
+            "t": 0.6625230312347412,
+            "r": 0.9006633162498474,
+            "b": 0.7134554386138916
+          },
+          "page": 10
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "d33aeaca-63cb-4ddb-9f2f-86828b2ab801"
+    },
+    {
+      "text": "Pasal 25  \nPerjanjian internasional sebagai hasil perundingan mengenai Batas Wilayah Negara serta Batas Wilayah Yurisdiksi di laut menjadi bagian yang tidak terpisahkan dari Undang-Undang ini.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.24818465113639832,
+            "t": 0.738680362701416,
+            "r": 0.9003788232803345,
+            "b": 0.8118646144866943
+          },
+          "page": 10
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "b5b6d476-2189-4a98-859a-113afa570954"
+    },
+    {
+      "text": "Pasal 26",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.527143657207489,
+            "t": 0.8360087871551514,
+            "r": 0.6207394003868103,
+            "b": 0.8534690141677856
+          },
+          "page": 10
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "d70b8106-8af2-4b8d-bff9-d710fe56c416"
+    },
+    {
+      "text": "Undang-Undang ini mulai berlaku pada tanggal diundangkan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2487354278564453,
+            "t": 0.8582412600517273,
+            "r": 0.8597105741500854,
+            "b": 0.8770132660865784
+          },
+          "page": 10
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "7ea37cde-4a2e-4a24-8853-721c95e765ee"
+    },
+    {
+      "text": "Agar . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.8043250441551208,
+            "t": 0.9176546335220337,
+            "r": 0.8977528214454651,
+            "b": 0.938562273979187
+          },
+          "page": 10
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "ba8bffc1-a459-4bc6-84d0-f1bd7bca851f"
+    },
+    {
+      "text": "- 12 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4666089117527008,
+            "t": 0.18144428730010986,
+            "r": 0.535183310508728,
+            "b": 0.2025189995765686
+          },
+          "page": 11
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "a0ff6225-1d6b-45da-a38c-68e08f4afa3a"
+    },
+    {
+      "text": "Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-Undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.24401065707206726,
+            "t": 0.20988349616527557,
+            "r": 0.9040154218673706,
+            "b": 0.2677571773529053
+          },
+          "page": 11
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "381235e8-c99c-470d-9ad8-740b8cb503f4"
+    },
+    {
+      "text": "Disahkan di Jakarta\npada tanggal 13 November 2008\nPRESIDEN REPUBLIK INDONESIA,",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4875127375125885,
+            "t": 0.2825556993484497,
+            "r": 0.8410452604293823,
+            "b": 0.3435896039009094
+          },
+          "page": 11
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "3695cc83-281c-4779-8c6a-74b26b233bbb"
+    },
+    {
+      "text": "ttd.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.6484400033950806,
+            "t": 0.35708704590797424,
+            "r": 0.6967974901199341,
+            "b": 0.37702837586402893
+          },
+          "page": 11
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "86a97255-ba40-4ea5-86ba-70e3b95d64eb"
+    },
+    {
+      "text": "DR. H. SUSILO BAMBANG YUDHOYONO",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4871863126754761,
+            "t": 0.39221036434173584,
+            "r": 0.8964856863021851,
+            "b": 0.4155612587928772
+          },
+          "page": 11
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "24cf2da1-16c7-451b-8313-a1f08313f3b5"
+    },
+    {
+      "text": "Diundangkan di Jakarta\npada tanggal 14 November 2008\nMENTERI HUKUM DAN HAK ASASI MANUSIA\nREPUBLIK INDONESIA,",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1000790148973465,
+            "t": 0.42900705337524414,
+            "r": 0.5592021942138672,
+            "b": 0.508327066898346
+          },
+          "page": 11
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "a7b4d42a-3e82-4a42-a392-c76920719bf2"
+    },
+    {
+      "text": "ttd.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.3023534119129181,
+            "t": 0.5237991213798523,
+            "r": 0.34627702832221985,
+            "b": 0.54196697473526
+          },
+          "page": 11
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "af7065b0-3a94-45ef-b391-480a55537196"
+    },
+    {
+      "text": "ANDI MATTALATTA",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2178249955177307,
+            "t": 0.5588797926902771,
+            "r": 0.424346923828125,
+            "b": 0.5803295969963074
+          },
+          "page": 11
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "e77823a1-eaae-430a-8142-133e921219ed"
+    },
+    {
+      "text": "LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2008 NOMOR 177",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.10003072023391724,
+            "t": 0.5938488841056824,
+            "r": 0.8091843128204346,
+            "b": 0.6174095273017883
+          },
+          "page": 11
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "16acc899-ffc4-484d-8845-e8c13a484ad4"
+    },
+    {
+      "text": "PENJELASAN\nATAS\nUNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 43 TAHUN 2008\nTENTANG\nWILAYAH NEGARA",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.25672447681427,
+            "t": 0.20923581719398499,
+            "r": 0.6881819367408752,
+            "b": 0.34474238753318787
+          },
+          "page": 12
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "f48fcf01-5b05-4e02-9094-0ab7ef5f6db7"
+    },
+    {
+      "text": "I. UMUM\n\nNegara Kesatuan Republik Indonesia sebagai negara kepulauan yang berciri nusantara mempunyai kedaulatan atas wilayah serta memiliki hak-hak berdaulat di luar wilayah kedaulatannya untuk dikelola dan dimanfaatkan sebesar-besarnya bagi kemakmuran rakyat Indonesia sebagaimana diamanatkan dalam pembukaan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.09910309314727783,
+            "t": 0.39061251282691956,
+            "r": 0.9025195837020874,
+            "b": 0.5065566897392273
+          },
+          "page": 12
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "098aeb65-5a4b-493c-881a-82a5484c1e63"
+    },
+    {
+      "text": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 Pasal 25A mengamanatkan bahwa Negara Kesatuan Republik Indonesia adalah sebuah negara kepulauan yang berciri Nusantara dengan wilayah yang batas-batas dan hak-haknya ditetapkan dengan undang-undang.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.12581294775009155,
+            "t": 0.5092787146568298,
+            "r": 0.9012818932533264,
+            "b": 0.5742005705833435
+          },
+          "page": 12
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "ac818120-3338-4c10-956e-37e44adeae23"
+    },
+    {
+      "text": "- a. pengaturan suatu Pemerintahan negara Indonesia yang melindungi segenap bangsa Indonesia dan seluruh tumpah darah Indonesia;\n- b. pemanfaatan bumi, air, dan udara serta kekayaan alam yang terkandung di dalamnya untuk sebesar-besarnya kemakmuran rakyat;\n- c. desentralisasi pemerintahan kepada daerah-daerah besar dan kecil yang bersifat otonom dalam bingkai Negara Kesatuan Republik Indonesia; dan\n- d. kesejahteraan sosial bagi seluruh rakyat Indonesia.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.12555992603302002,
+            "t": 0.5760203003883362,
+            "r": 0.9028511047363281,
+            "b": 0.7320534586906433
+          },
+          "page": 12
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "c679b085-3b86-4480-bcb5-ebc0fe379bb1"
+    },
+    {
+      "text": "Dalam rangka mengejawantahkan maksud Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 tersebut diperlukan pengaturan-pengaturan kewilayahan secara nasional, antara lain pengaturan mengenai:\n\na.  perairan;\nb.  daratan/tanah;\nc.  udara;\nd.  ruang; dan\ne.  sumber kekayaan alam dan lingkungannya.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1254355013370514,
+            "t": 0.7344999313354492,
+            "r": 0.9008053541183472,
+            "b": 0.8791873455047607
+          },
+          "page": 12
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "561e2baa-75f7-44f0-9ec3-6f68e5db5dd7"
+    },
+    {
+      "text": "Mengingat . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7458525896072388,
+            "t": 0.8978430032730103,
+            "r": 0.8953495025634766,
+            "b": 0.9201340675354004
+          },
+          "page": 12
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "07176852-ad6b-4666-bff3-dfb42f36d601"
+    },
+    {
+      "text": "- 2 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4649025499820709,
+            "t": 0.18056589365005493,
+            "r": 0.5242688059806824,
+            "b": 0.20332956314086914
+          },
+          "page": 13
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "e63150ae-bd90-4a96-92d1-96f75bdd74d5"
+    },
+    {
+      "text": "Mengingat sisi terluar dari wilayah negara atau yang dikenal dengan Kawasan Perbatasan merupakan kawasan strategis dalam menjaga integritas Wilayah Negara, maka diperlukan juga pengaturan secara khusus.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.12507373094558716,
+            "t": 0.2097577601671219,
+            "r": 0.9019282460212708,
+            "b": 0.2600357234477997
+          },
+          "page": 13
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "9b3431b3-87bf-4519-b747-55f388e94f86"
+    },
+    {
+      "text": "Pengaturan batas-batas Wilayah Negara dimaksudkan untuk memberikan kepastian hukum mengenai ruang lingkup wilayah negara, kewenangan pengelolaan Wilayah Negara, dan hak–hak berdaulat.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.12556591629981995,
+            "t": 0.2624704837799072,
+            "r": 0.902096152305603,
+            "b": 0.3120635151863098
+          },
+          "page": 13
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "57df788e-ecb4-4e4d-bc68-b0e937e384a9"
+    },
+    {
+      "text": "Negara berkepentingan untuk ikut mengatur pengelolaan dan pemanfaatan di laut bebas dan dasar laut internasional sesuai dengan hukum internasional. Pemanfaatan di laut bebas dan di dasar laut meliputi pengelolaan kekayaan alam, perlindungan lingkungan laut dan keselamatan navigasi.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.12559688091278076,
+            "t": 0.31397902965545654,
+            "r": 0.9022042751312256,
+            "b": 0.3787853717803955
+          },
+          "page": 13
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "41a15923-bbfd-4f20-807f-ec2312f87ff0"
+    },
+    {
+      "text": "Pengelolaan Wilayah Negara dilakukan dengan pendekatan kesejahteraan, keamanan dan kelestarian lingkungan secara bersama-sama. Pendekatan kesejahteraan dalam arti upaya-upaya pengelolaan Wilayah Negara hendaknya memberikan manfaat sebesar-besarnya bagi peningkatan kesejahteraan masyarakat yang tinggal di Kawasan Perbatasan. Pendekatan keamanan dalam arti pengelolaan Wilayah Negara untuk menjamin keutuhan wilayah dan kedaulatan negara serta perlindungan segenap bangsa. Sedangkan pendekatan kelestarian lingkungan dalam arti pembangunan Kawasan Perbatasan yang memperhatikan aspek kelestarian lingkungan yang merupakan wujud dari pembangunan yang berkelanjutan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1255882978439331,
+            "t": 0.38074177503585815,
+            "r": 0.9032227993011475,
+            "b": 0.5357376933097839
+          },
+          "page": 13
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "7cfaab3b-e956-40bd-865a-d16a4dedc3cd"
+    },
+    {
+      "text": "Peran Pemerintah dan Pemerintah Daerah menjadi sangat penting terkait dengan pelaksanaan fungsi-fungsi pemerintahan sesuai dengan prinsip otonomi daerah dalam mengelola pembangunan Kawasan Perbatasan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.12568500638008118,
+            "t": 0.5373814105987549,
+            "r": 0.9035507440567017,
+            "b": 0.5866600275039673
+          },
+          "page": 13
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "9faee849-b824-4daa-9bb1-f8cc15cf34c6"
+    },
+    {
+      "text": "- a. Undang-Undang Nomor 2 Tahun 1971 tentang Perjanjian antara Republik Indonesia dan Malaysia tentang Penetapan Garis Batas Laut Wilayah kedua Negara di Selat Malaka;\n- b. Undang-Undang Nomor 1 Tahun 1973 tentang Landas Kontinen Indonesia;\n- c. Undang-Undang Nomor 6 Tahun 1973 tentang Perjanjian Antara Indonesia dan Australia Mengenai Garis-Garis Batas Tertentu Antara Indonesia dan Papua New Guinea;\n- d. Undang-Undang Nomor 7 Tahun 1973 tentang Perjanjian antara Republik Indonesia dan Republik Singapura mengenai garis Batas laut Wilayah kedua Negara di Selat Singapura;\n- e. Undang-Undang Nomor 5 Tahun 1983 tentang Zona Ekonomi Eksklusif Indonesia;\n- f. Undang-Undang Nomor 17 Tahun 1985 tentang Pengesahan *United Nations Convention on the Law of the Sea* (Konvensi Perserikatan Bangsa-Bangsa Tentang Hukum Laut);\n- g. Undang-Undang Nomor 6 Tahun 1996 tentang Perairan Indonesia;",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.12540417909622192,
+            "t": 0.5896989703178406,
+            "r": 0.9051677584648132,
+            "b": 0.9111194014549255
+          },
+          "page": 13
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "924d9e9d-d850-4fe0-83b7-57b3bdad3cf7"
+    },
+    {
+      "text": "h. Undang-Undang . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.6706189513206482,
+            "t": 0.925806999206543,
+            "r": 0.907466471195221,
+            "b": 0.9498722553253174
+          },
+          "page": 13
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "2d43344c-2ebf-4013-a9f7-df1d62ca4344"
+    },
+    {
+      "text": "- 3 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4654460549354553,
+            "t": 0.1809605211019516,
+            "r": 0.5247569680213928,
+            "b": 0.2022288590669632
+          },
+          "page": 14
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "62775ba9-e7bb-4af3-ae42-f88f885636e7"
+    },
+    {
+      "text": "- h. Undang-Undang Nomor 18 Tahun 2007 tentang Pengesahan Persetujuan Antara Pemerintah Republik Indonesia Dan Pemerintah Republik Sosialis Vietnam tentang Penetapan Batas Landas Kontinen Tahun 2003;\n- i. Keputusan Presiden Nomor 89 Tahun 1969 tentang Persetujuan Antara Pemerintah Republik Indonesia dan Pemerintah Malaysia tentang Penetapan Garis Batas Landas Kontinen Antara Kedua Negara;\n- j. Keputusan Presiden Nomor 42 Tahun 1971 tentang Persetujuan Antara Pemerintah Republik Indonesia dan Pemerintah Commonwealth Australia tentang Penetapan Batas-Batas Dasar Laut Tertentu;\n- k. Keputusan Presiden Nomor 20 Tahun 1972 tentang Persetujuan Antara Pemerintah Republik Indonesia, Pemerintah Malaysia dan Pemerintah Kerajaan Thailand tentang Penetapan Garis-Garis Batas Landas Kontinen di Bagian Utara Selat Malaka;\n- l. Keputusan Presiden Nomor 21 Tahun 1972 tentang Persetujuan Antara Pemerintah Republik Indonesia dan Pemerintah Kerajaan Thailand tentang Penetapan Suatu Garis Batas Landas Kontinen di Bagian Utara Selat Malaka dan Laut Andaman;\n- m. Keputusan Presiden Nomor 66 Tahun 1972 tentang Persetujuan Bersama Antara Pemerintah Republik Indonesia dan Pemerintah Commonwealth Australia tentang Penetapan Garis Batas Dasar Laut di Daerah Laut Timor dan Laut Arafura;\n- n. Keputusan Presiden Nomor 51 Tahun 1974 tentang Persetujuan Antara Pemerintah Republik Indonesia dan Pemerintah Republik India tentang Penetapan Batas Landas Kontinen Antara Kedua Negara;\n- o. Keputusan Presiden Nomor 1 Tahun 1977 tentang Persetujuan Antara Pemerintah Republik Indonesia dan Pemerintah Kerajaan Thailand tentang Penetapan Garis Batas dasar Laut Antara Kedua Negara di Laut Andaman;\n- p. Keputusan Presiden Nomor 26 Tahun 1977 tentang Persetujuan Antara Pemerintah Republik Indonesia dan Pemerintah Republik India tentang Garis Batas Landas Kontinen Tahun 1974 Antara Kedua Negara di Laut Andaman dan Samudera Hindia;\n- q. Keputusan Presiden Nomor 24 Tahun 1978 tentang Persetujuan Bersama Antara Pemerintah Republik Indonesia dan Pemerintah Republik India, dan Pemerintah Kerajaan Thailand tentang Penetapan Titik Pertemuan Tiga Garis Batas dan Penetapan Garis Batas Ketiga Negara di Laut Andaman; dan\n- r. Keputusan Presiden Nomor 21 Tahun 1982 tentang Persetujuan Antara Pemerintah Republik Indonesia dan Pemerintah Papua Nugini tentang Batas-Batas Maritim Antara Pemerintah RI dan Papua Nugini dan Kerjasama tentang Masalah-Masalah Yang Bersangkutan Sebagai Hasil Perundingan Antara Delegasi Pemerintah RI dan Delegasi Pemerintah Papua Nugini.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.12312635779380798,
+            "t": 0.2080916464328766,
+            "r": 0.9091118574142456,
+            "b": 0.9139736890792847
+          },
+          "page": 14
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "10f8bcfd-4bf4-4b03-b8d4-7075d39cd28b"
+    },
+    {
+      "text": "Mengingat . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7445765733718872,
+            "t": 0.9273844361305237,
+            "r": 0.897426962852478,
+            "b": 0.948571503162384
+          },
+          "page": 14
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "d2b16a67-2a2b-45a6-98e2-b84c8601e8ba"
+    },
+    {
+      "text": "$-4-$",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4651012420654297,
+            "t": 0.18226094543933868,
+            "r": 0.524803102016449,
+            "b": 0.20150257647037506
+          },
+          "page": 15
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "33e8d7b5-4691-4585-90c9-5a8d56435482"
+    },
+    {
+      "text": "Mengingat Kawasan Perbatasan merupakan kawasan strategis dalam menjaga keutuhan Wilayah Negara maka diperlukan pengaturan secara tersendiri dalam Undang-Undang.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.12415054440498352,
+            "t": 0.20990386605262756,
+            "r": 0.9026192426681519,
+            "b": 0.25970137119293213
+          },
+          "page": 15
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "ccf3c719-bf7e-4080-925e-4bab09410719"
+    },
+    {
+      "text": "Pengaturan Batas Wilayah Negara dimaksudkan untuk memberikan kepastian hukum mengenai Wilayah Negara, kewenangan pengelolaan Wilayah Negara, dan hak–hak berdaulat.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.12434402108192444,
+            "t": 0.26256781816482544,
+            "r": 0.9036376476287842,
+            "b": 0.31199848651885986
+          },
+          "page": 15
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "7dcdae24-b747-4144-b12d-3a7c6249cf53"
+    },
+    {
+      "text": "Hal-hal pokok yang diatur dalam undang-undang ini, yakni:\n\n1. Ruang lingkup Wilayah Negara yang meliputi wilayah daratan, wilayah perairan pedalaman, perairan kepulauan, laut teritorial, dasar laut, dan tanah di bawahnya, serta ruang udara di atasnya termasuk seluruh sumber kekayaan yang terkandung di dalamnya.\n2. Hak-hak berdaulat Negara Republik Indonesia di Zona Ekonomi Eksklusif dan Landas Kontinen serta hak pengawasan di Zona Tambahan.\n3. Kewenangan Pemerintah melakukan pengaturan pengelolaan dan pemanfaatan wilayah negara serta Kawasan Perbatasan.\n4. Kelembagaan yang diberi kewenangan untuk melakukan penanganan Kawasan Perbatasan. Unsur keanggotaan kelembagaan ini berasal dari unsur Pemerintah dan Pemerintah Daerah mengingat posisi strategis wilayah perbatasan terkait dalam hal seperti kedaulatan negara, keutuhan wilayah, penegakan hukum dan kesejahteraan rakyat.\n5. Keikutsertaan masyarakat dalam menjaga dan mempertahankan Wilayah Negara termasuk Kawasan Perbatasan.\n6. Larangan dan sanksi bagi setiap orang yang melakukan pelanggaran terkait dengan Wilayah Negara dan batas-batasnya.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.12250441312789917,
+            "t": 0.31360191106796265,
+            "r": 0.9078893065452576,
+            "b": 0.6301935911178589
+          },
+          "page": 15
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "773d73e6-508d-4e59-b411-d47eb34627e4"
+    },
+    {
+      "text": "II. PASAL DEMI PASAL",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.10007808357477188,
+            "t": 0.650007426738739,
+            "r": 0.340577095746994,
+            "b": 0.6721596121788025
+          },
+          "page": 15
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "16f30b60-4ca1-4137-9317-e7791c609fac"
+    },
+    {
+      "text": "Pasal 1\nCukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.12940454483032227,
+            "t": 0.6883187890052795,
+            "r": 0.31029945611953735,
+            "b": 0.7251436114311218
+          },
+          "page": 15
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "9b36e066-9922-4171-a8d9-66ecf77c4582"
+    },
+    {
+      "text": "Pasal 2\n    Huruf a\n        Yang dimaksud dengan “asas kedaulatan” adalah pengelolaan Wilayah Negara harus senantiasa memperhatikan kedaulatan Wilayah Negara demi tetap terjaganya keutuhan Wilayah Negara Kesatuan Republik Indonesia.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.12898382544517517,
+            "t": 0.7407902479171753,
+            "r": 0.9034581184387207,
+            "b": 0.8369314670562744
+          },
+          "page": 15
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "c51dbfeb-20dd-4d26-82f3-360aac09921b"
+    },
+    {
+      "text": "Huruf b\n    Yang dimaksud dengan “asas kebangsaan” adalah pengelolaan\nWilayah Negara harus mencerminkan sifat dan watak bangsa",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.17171511054039001,
+            "t": 0.8466167449951172,
+            "r": 0.9026857614517212,
+            "b": 0.9001603126525879
+          },
+          "page": 15
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "d90f47e4-02a9-410c-acef-d27eb8bea7bc"
+    },
+    {
+      "text": "Indonesia  . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7437138557434082,
+            "t": 0.9265179634094238,
+            "r": 0.8978215456008911,
+            "b": 0.9478287696838379
+          },
+          "page": 15
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "ee7f2270-2906-4ae4-b42d-b930b4dd4c70"
+    },
+    {
+      "text": "- 5 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.46600285172462463,
+            "t": 0.18052180111408234,
+            "r": 0.524445116519928,
+            "b": 0.20200498402118683
+          },
+          "page": 16
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "c31b160b-8852-4ef8-809e-fcdc91daeaab"
+    },
+    {
+      "text": "Indonesia yang pluralistik atau kebhinnekaan dengan tetap menjaga prinsip Negara Kesatuan Republik Indonesia.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2151142656803131,
+            "t": 0.20903392136096954,
+            "r": 0.9021651744842529,
+            "b": 0.24685882031917572
+          },
+          "page": 16
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "0053d3ef-bcdb-46f0-95a9-1130505f3ddd"
+    },
+    {
+      "text": "Huruf c\n    Yang dimaksud dengan “asas kenusantaraan” adalah pengelolaan Wilayah Negara harus senantiasa memperhatikan kepentingan seluruh Wilayah Negara Indonesia.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1734808385372162,
+            "t": 0.2549828588962555,
+            "r": 0.9022268056869507,
+            "b": 0.32216861844062805
+          },
+          "page": 16
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "867a38b5-efee-4c1d-94c8-4cb2a07c79a8"
+    },
+    {
+      "text": "Huruf d\n    Yang dimaksud dengan “asas keadilan” adalah pengelolaan Wilayah Negara harus mencerminkan keadilan secara proporsional bagi setiap warga negara tanpa kecuali.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1731085181236267,
+            "t": 0.32981953024864197,
+            "r": 0.9028040766716003,
+            "b": 0.39803919196128845
+          },
+          "page": 16
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "1d9cef4d-01d9-48d5-9d9c-3aef05c8b311"
+    },
+    {
+      "text": "Huruf e\n    Yang dimaksud dengan \"asas keamanan\" adalah suatu kondisi dinamis masyarakat sebagai salah satu prasyarat terselenggaranya proses pembangunan nasional dalam rangka tercapainya tujuan nasional.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1728590428829193,
+            "t": 0.405782550573349,
+            "r": 0.9028831720352173,
+            "b": 0.4876185953617096
+          },
+          "page": 16
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "b1a7f514-c1b0-4c38-ada6-a36da3ea4089"
+    },
+    {
+      "text": "Huruf f  \n      Yang dimaksud dengan “asas ketertiban dan kepastian hukum” adalah pengelolaan Wilayah Negara harus menjamin terciptanya ketertiban dan kepastian hukum.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.17221158742904663,
+            "t": 0.4958803951740265,
+            "r": 0.9028683304786682,
+            "b": 0.5638641119003296
+          },
+          "page": 16
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "c5aedda0-470d-4a9d-b812-ac6265e25314"
+    },
+    {
+      "text": "Huruf g\n    Yang dimaksud dengan “asas kerja sama” adalah pengelolaan Wilayah Negara harus dilakukan melalui kerja sama dari berbagai pemangku kepentingan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.17229223251342773,
+            "t": 0.5706185102462769,
+            "r": 0.9016563892364502,
+            "b": 0.6399552822113037
+          },
+          "page": 16
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "2655f109-3551-41eb-a0ba-c14c0af1a8e2"
+    },
+    {
+      "text": "Huruf h\n    Yang dimaksud dengan “asas kemanfaatan” adalah pengelolaan Wilayah Negara harus memberikan manfaat yang sebesar-besarnya bagi seluruh rakyat Indonesia.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.17308390140533447,
+            "t": 0.6462953686714172,
+            "r": 0.90203857421875,
+            "b": 0.7142331004142761
+          },
+          "page": 16
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "bd91f1c8-a4ff-42f7-8d9f-7cd0e9f0d8b9"
+    },
+    {
+      "text": "Huruf i  \n    Yang dimaksud dengan “asas pengayoman” adalah pengelolaan Wilayah Negara harus mengayomi kepentingan seluruh warga negara khususnya masyarakat di Kawasan Perbatasan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.17309746146202087,
+            "t": 0.7214834094047546,
+            "r": 0.9018094539642334,
+            "b": 0.7897847294807434
+          },
+          "page": 16
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "a5b10be6-d2fd-432d-bb40-6931b327b3cc"
+    },
+    {
+      "text": "Pasal 3\nCukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1299586296081543,
+            "t": 0.7960758209228516,
+            "r": 0.3103092610836029,
+            "b": 0.835445761680603
+          },
+          "page": 16
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "14580a63-d5c3-4725-ad71-9adb9465a71d"
+    },
+    {
+      "text": "Pasal 4  \nCukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.12964150309562683,
+            "t": 0.8413653373718262,
+            "r": 0.3097367584705353,
+            "b": 0.881794810295105
+          },
+          "page": 16
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "9bca1f8a-8120-49a3-b055-d097929d69b3"
+    },
+    {
+      "text": "Pasal 5\n      Cukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.12851381301879883,
+            "t": 0.8867380619049072,
+            "r": 0.311474084854126,
+            "b": 0.9260690212249756
+          },
+          "page": 16
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "143c7489-0a18-4ae0-97ea-5775a70f5214"
+    },
+    {
+      "text": "Pasal 6 . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7631896138191223,
+            "t": 0.9104430675506592,
+            "r": 0.8868270516395569,
+            "b": 0.9322769641876221
+          },
+          "page": 16
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "9f3283e7-19bb-4cbc-bf5a-38cdc1a08020"
+    },
+    {
+      "text": "- 6 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.467438668012619,
+            "t": 0.18214687705039978,
+            "r": 0.5236331820487976,
+            "b": 0.20226675271987915
+          },
+          "page": 17
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "ac8373c3-909c-409f-a8aa-63c06dc08836"
+    },
+    {
+      "text": "Pasal 6  \nAyat (1)  \nHuruf a\n\nBatas Wilayah Negara di darat dalam ketentuan ini adalah batas-batas yang disepakati oleh Pemerintah Hindia Belanda dan Pemerintah Inggris di Kalimantan dan Papua, dan Pemerintah Portugis di Pulau Timor yang selanjutnya menjadi wilayah Indonesia berdasarkan prinsip *uti possidetis juris* yang berlaku dalam hukum internasional. Berdasarkan prinsip tersebut, negara yang merdeka mewarisi wilayah bekas negara penjajahnya.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.12762296199798584,
+            "t": 0.22303059697151184,
+            "r": 0.9045238494873047,
+            "b": 0.409236878156662
+          },
+          "page": 17
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "5c4dfed6-3f77-437e-a204-92bb7639b58f"
+    },
+    {
+      "text": "Batas darat antara Indonesia dan Malaysia ditetapkan atas dasar Konvensi Hindia Belanda dan Inggris Tahun 1891, Tahun 1915, dan Tahun 1928.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.25865453481674194,
+            "t": 0.4110233187675476,
+            "r": 0.9036443829536438,
+            "b": 0.45996201038360596
+          },
+          "page": 17
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "29a9d029-6594-4394-b1c6-0b733268acb6"
+    },
+    {
+      "text": "Batas darat antara Indonesia dan Timor Leste ditetapkan atas dasar Konvensi tentang Penetapan Batas Hindia Belanda dan Portugal Tahun 1904 dan Keputusan *Permanent Court of Arbitration* (PCA) Tahun 1914.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2602974772453308,
+            "t": 0.4623766541481018,
+            "r": 0.905788004398346,
+            "b": 0.5267876386642456
+          },
+          "page": 17
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "156f10d5-1c1b-4952-8cfc-95e0a7fb4cb2"
+    },
+    {
+      "text": "Batas darat antara Indonesia dan Papua Nugini ditetapkan atas dasar Perjanjian Batas Hindia Belanda dan Inggris Tahun 1895.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2613787353038788,
+            "t": 0.5288671255111694,
+            "r": 0.9035516977310181,
+            "b": 0.5653910636901855
+          },
+          "page": 17
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "438b1130-71a3-4b2e-a664-560d73cdfc63"
+    },
+    {
+      "text": "Huruf b  \n    Ketentuan ini dimaksudkan hanya untuk batas-batas laut wilayah (*territorial water*).",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.21790891885757446,
+            "t": 0.5733156204223633,
+            "r": 0.9025879502296448,
+            "b": 0.6253474950790405
+          },
+          "page": 17
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "ac0e63d3-4b8d-4c71-8ebd-8768410a3e9a"
+    },
+    {
+      "text": "Huruf c\nCukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.21736463904380798,
+            "t": 0.633097231388092,
+            "r": 0.39862480759620667,
+            "b": 0.6707802414894104
+          },
+          "page": 17
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "25fba30e-cc8b-42ab-982a-170763079075"
+    },
+    {
+      "text": "Ayat (2)\n     Cukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1734776496887207,
+            "t": 0.6779702305793762,
+            "r": 0.3551928997039795,
+            "b": 0.7169609665870667
+          },
+          "page": 17
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "5853e91d-dc15-4a30-ae4f-8a8532937044"
+    },
+    {
+      "text": "Ayat (3)",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.17268455028533936,
+            "t": 0.7303779721260071,
+            "r": 0.26227062940597534,
+            "b": 0.7519565224647522
+          },
+          "page": 17
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "98f1ac3e-9e5c-4232-b2bf-740087f53e0e"
+    },
+    {
+      "text": "Penetapan Batas Wilayah Negara dilakukan melalui perjanjian bilateral dan/atau trilateral apabila terdapat dua atau tiga negara yang menyatakan pengakuan atas wilayah yang sama ataupun adanya kemungkinan tumpang-tindih pengakuan atas wilayah yang sama.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.21707218885421753,
+            "t": 0.7534974813461304,
+            "r": 0.9026774764060974,
+            "b": 0.8295135498046875
+          },
+          "page": 17
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "5414ad47-e33e-46b2-92c6-d6a6a6222ac0"
+    },
+    {
+      "text": "Penetapan Batas Wilayah Negara dilakukan secara unilateral apabila tidak terdapat pengakuan atas wilayah yang sama ataupun tidak adanya kemungkinan tumpang-tindih pengakuan atas wilayah yang sama.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2183176875114441,
+            "t": 0.8293561339378357,
+            "r": 0.9031831622123718,
+            "b": 0.8921915888786316
+          },
+          "page": 17
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "6efcb9df-f3db-495b-b4c6-17311584a6b7"
+    },
+    {
+      "text": "Pasal 7 . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7725998163223267,
+            "t": 0.9069368243217468,
+            "r": 0.8958836793899536,
+            "b": 0.9281757473945618
+          },
+          "page": 17
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "025afc18-01c7-4f48-9126-0d93d4a4739b"
+    },
+    {
+      "text": "$-7-$",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.46494001150131226,
+            "t": 0.18059448897838593,
+            "r": 0.5261709094047546,
+            "b": 0.20259620249271393
+          },
+          "page": 18
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "88bc7305-d59e-4aba-85ae-7d806e215654"
+    },
+    {
+      "text": "Pasal 7\n    Yang dimaksud dengan “hak-hak lain” seperti pencarian dan penguasaan harta karun dan riset kelautan.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.12713465094566345,
+            "t": 0.2083890438079834,
+            "r": 0.9029964208602905,
+            "b": 0.26289114356040955
+          },
+          "page": 18
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "c901be1d-183e-4367-95d7-51a9e603f6fb"
+    },
+    {
+      "text": "Pasal 8\n    Ayat (1)\n        Ketentuan ini dimaksudkan untuk batas-batas hak berdaulat atau Wilayah Yurisdiksi di Zona Tambahan, Zona Ekonomi Eksklusif, dan Landas Kontinen.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.12695878744125366,
+            "t": 0.2827177345752716,
+            "r": 0.9057615399360657,
+            "b": 0.36787286400794983
+          },
+          "page": 18
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "aa8bb801-fa9f-4953-848c-f2b72103ecfa"
+    },
+    {
+      "text": "Ayat (2)\n     Cukup jelas.\n\nAyat (3)\n     Cukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.16548922657966614,
+            "t": 0.37333521246910095,
+            "r": 0.3887801468372345,
+            "b": 0.4624796211719513
+          },
+          "page": 18
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "5d565d99-3b83-41bd-8c54-95c2afa2a0c5"
+    },
+    {
+      "text": "Pasal 9  \nCukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.1265280544757843,
+            "t": 0.4767407178878784,
+            "r": 0.31955596804618835,
+            "b": 0.5222917795181274
+          },
+          "page": 18
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "397085c6-1361-4b15-b210-3582f2852649"
+    },
+    {
+      "text": "Pasal 10\nAyat (1)\n  Huruf a\n    Cukup jelas.\n\n  Huruf b\n    Cukup jelas.\n\n  Huruf c\n    Pembangunan dan pembuatan tanda batas wilayah negara tersebut dilakukan sesuai kesepakatan dengan negara yang berbatasan.\n\n  Huruf d\n    Cukup jelas.\n\n  Huruf e\n    Cukup jelas.\n\n  Huruf f\n    Cukup jelas.\n\n  Huruf g\n    Cukup jelas.\n\nHuruf h . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.12458187341690063,
+            "t": 0.5385363698005676,
+            "r": 0.908319890499115,
+            "b": 0.9218828082084656
+          },
+          "page": 18
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "9aa342f2-f3f9-435d-9a02-9fd33ca53298"
+    },
+    {
+      "text": "- 8 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.46701955795288086,
+            "t": 0.1804717630147934,
+            "r": 0.5233555436134338,
+            "b": 0.20332010090351105
+          },
+          "page": 19
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "56694426-283e-4b92-984c-efa424585bb6"
+    },
+    {
+      "text": "Huruf h  \n    Cukup jelas.\n\nHuruf i  \n    Cukup jelas.\n\nHuruf j  \n    Cukup jelas.\n\nAyat (2)  \n    Cukup jelas.\n\nAyat (3)  \n    Cukup jelas\n\nPasal 11  \nAyat (1)  \n    Huruf a  \n        Cukup jelas.\n\n    Huruf b  \n        Cukup jelas.\n\n    Huruf c  \n        Yang dimaksud dengan ketentuan ini adalah pembangunan Kawasan Perbatasan yang bersifat lintas kabupaten atau lintas provinsi dan/atau melibatkan investasi swasta.\n\n    Huruf d  \n        Cukup jelas.\n\nAyat (2)  \n    Cukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.12438830733299255,
+            "t": 0.21909141540527344,
+            "r": 0.9031389951705933,
+            "b": 0.7281126976013184
+          },
+          "page": 19
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "79e7d1d2-b8ac-4ffc-97ca-63e2bf25e08d"
+    },
+    {
+      "text": "Pasal 12\n    Ayat (1)\n        Huruf a\n            Cukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.12662704288959503,
+            "t": 0.7423408031463623,
+            "r": 0.40383970737457275,
+            "b": 0.8188769817352295
+          },
+          "page": 19
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "bc144a94-2205-40bc-8db9-74ccbfd573ed"
+    },
+    {
+      "text": "Huruf b  \n    Yang dimaksud dengan “menjaga dan memelihara tanda batas” tidak termasuk melakukan rekonstruksi atau memindahkan tanda batas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.2143132984638214,
+            "t": 0.8255593776702881,
+            "r": 0.9057811498641968,
+            "b": 0.8966424465179443
+          },
+          "page": 19
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "5de212e8-04d2-4078-a7a8-84c300a93bc3"
+    },
+    {
+      "text": "Huruf c . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7713834643363953,
+            "t": 0.9243740439414978,
+            "r": 0.9026362299919128,
+            "b": 0.9490229487419128
+          },
+          "page": 19
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "f8f1be3c-4f5d-4a59-b437-dcd0c050e94f"
+    },
+    {
+      "text": "$-9-$",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.4673490822315216,
+            "t": 0.1819203943014145,
+            "r": 0.5223620533943176,
+            "b": 0.2009272426366806
+          },
+          "page": 20
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "3445f9fc-a8f2-4abf-9b6f-979322991e0a"
+    },
+    {
+      "text": "Huruf c\nCukup jelas.\n\nHuruf d\nYang dimaksud dengan ketentuan ini adalah pembangunan Kawasan Perbatasan yang bersifat lintas kabupaten atau lintas provinsi dan/atau melibatkan investasi swasta.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.21219894289970398,
+            "t": 0.20813697576522827,
+            "r": 0.9032618999481201,
+            "b": 0.3227481245994568
+          },
+          "page": 20
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "35d41639-b1c3-4979-b80e-96c862e297a0"
+    },
+    {
+      "text": "Ayat (2)\nCukup jelas.\n\nPasal 13\nCukup jelas.\n\nPasal 14\n  Ayat (1)\n    Badan Pengelola di tingkat daerah hanya dibentuk di daerah provinsi, kabupaten/kota yang memiliki Kawasan Perbatasan antarnegara.\n  Ayat (2)\n    Cukup jelas.\n  Ayat (3)\n    Cukup jelas.\n\nPasal 15\nCukup jelas.\n\nPasal 16\nCukup jelas.\n\nPasal 17\nCukup jelas.\n\nPasal 18\nCukup jelas.\n\nPasal 19\nCukup jelas.\n\nPasal 20\nCukup jelas.\n\nPasal 21\nCukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.11909979581832886,
+            "t": 0.328869104385376,
+            "r": 0.9041224122047424,
+            "b": 0.9205886125564575
+          },
+          "page": 20
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "26a04934-c4a3-4cf5-b038-7ebc44db05da"
+    },
+    {
+      "text": "Pasal 22 . . .",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.7737836241722107,
+            "t": 0.916253387928009,
+            "r": 0.908886730670929,
+            "b": 0.9397018551826477
+          },
+          "page": 20
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "ab706b9c-7e65-4b45-a2a5-5a8de1577f71"
+    },
+    {
+      "text": "- 10 -",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.466866135597229,
+            "t": 0.18046538531780243,
+            "r": 0.5366322994232178,
+            "b": 0.20355956256389618
+          },
+          "page": 21
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "66cbf336-3134-4d8d-bc50-836ce249dd99"
+    },
+    {
+      "text": "Pasal 22\nCukup jelas.\n\nPasal 23\nCukup jelas.\n\nPasal 24\nCukup jelas.\n\nPasal 25\nCukup jelas.\n\nPasal 26\nCukup jelas.",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.12166822701692581,
+            "t": 0.2208763062953949,
+            "r": 0.3353120684623718,
+            "b": 0.44441714882850647
+          },
+          "page": 21
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "77e938f4-13ed-41b7-8f68-b28f27eac617"
+    },
+    {
+      "text": "TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 4925",
+      "grounding": [
+        {
+          "box": {
+            "l": 0.09777712821960449,
+            "t": 0.4625236690044403,
+            "r": 0.7430211305618286,
+            "b": 0.48930296301841736
+          },
+          "page": 21
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "549b4e0d-56bf-4d34-80c4-b195506e0e90"
+    }
+  ]
+}
