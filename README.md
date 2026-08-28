@@ -16,6 +16,7 @@ Dokumentasi lengkap mengenai perancangan, implementasi, optimasi, dan pengujian 
 - [5. Hasil Pengujian & Evaluasi Komparatif](#5-hasil-pengujian--evaluasi-komparatif)
   - [5.1. Kasus Uji 1: Dokumen Teks Kompleks (`UU Nomor 4 Tahun 2009`)](#51-kasus-uji-1-dokumen-teks-kompleks-uu-nomor-4-tahun-2009)
   - [5.2. Kasus Uji 2: Dokumen Arsip Scan (`UU Nomor 5 Tahun 1983`)](#52-kasus-uji-2-dokumen-arsip-scan-uu-nomor-5-tahun-1983)
+  - [5.3. Glosarium & Panduan Membaca Metrik / Label Tabel Evaluasi](#53-glosarium--panduan-membaca-metrik--label-tabel-evaluasi)
 - [6. Analisis Teknis & Pembahasan Mendalam](#6-analisis-teknis--pembahasan-mendalam)
   - [6.1. Fenomena Caption Gambar Sintetis Landing.AI vs Docling](#61-fenomena-caption-gambar-sintetis-landingai-vs-docling)
   - [6.2. Keandalan OCR Docling pada Dokumen Scan & Buram](#62-keandalan-ocr-docling-pada-dokumen-scan--buram)
@@ -978,31 +979,49 @@ if __name__ == "__main__":
 
 ## 5. Hasil Pengujian & Evaluasi Komparatif
 
-Pengujian dilakukan menggunakan berkas referensi asli hasil ekspor Landing.AI.
+Pengujian dilakukan menggunakan berkas referensi asli hasil ekspor Landing.AI untuk memverifikasi apakah struktur JSON, tingkat pemotongan (*chunking*), dan akurasi ekstraksi teks Docling sudah selaras dengan standar target.
 
 ### 5.1. Kasus Uji 1: Dokumen Teks Kompleks (`UU Nomor 4 Tahun 2009`)
 * **Karakteristik Dokumen**: 87 halaman, dokumen digital regulasi mineral dan batubara, struktur hierarki Bab, Bagian, Paragraf, Pasal, dan Ayat.
 
-| Parameter Evaluasi | Sebelum Optimasi | Setelah Optimasi Docling Pipeline | Referensi Landing.AI |
-|---|---|---|---|
-| **Total Chunks** | 1.359 (+721) | **696 (+58)** | 638 |
-| **Marginalia Chunks** | 360 | **85** | 92 |
-| **Text Chunks** | 999 | **611** | 546 |
-| **Global Text Similarity** | 67.34% *(Cukup)* | **82.05% *(Baik / Selaras)*** | 100% |
-| **Word-Level Similarity** | ~60% | **95.31%** | 100% |
-| **Status Kesimpulan** | *Perlu Penyesuaian* | **🎉 SUDAH SESUAI & SELARAS** | Valid |
+| Parameter Evaluasi | Sebelum Optimasi | Setelah Optimasi Docling Pipeline | Referensi Landing.AI | Penjelasan Singkat Parameter |
+|---|---|---|---|---|
+| **Total Chunks** | 1.359 (+721) | **696 (+58)** | 638 | Jumlah keseluruhan potongan blok data (teks, catatan tepi, tabel). Nilai mendekati referensi menandakan dokumen tidak terlalu terpotong-potong. |
+| **Marginalia Chunks** | 360 | **85** | 92 | Potongan elemen tepi halaman (seperti nomor halaman `- 2 -` & header dekoratif) agar terpisah dari naskah hukum utama. |
+| **Text Chunks** | 999 | **611** | 546 | Potongan blok narasi utama (isi pasal, ayat, klausul hukum, dan tabel data). |
+| **Global Text Similarity** | 67.34% *(Cukup)* | **82.05% *(Baik / Selaras)*** | 100% | Kemiripan sekuensial urutan teks/karakter utuh dari awal hingga akhir dokumen (*reading order & sequence matching*). |
+| **Word-Level Similarity** | ~60% | **95.31%** | 100% | Persentase kecocokan kata (*vocabulary/token*) tanpa terpengaruh perbedaan minor spasi atau pergantian baris. |
+| **Status Kesimpulan** | *Perlu Penyesuaian* | **🎉 SUDAH SESUAI & SELARAS** | Valid | Penilaian kelayakan format JSON untuk langsung diproses ke tahap Graph RAG. |
 
 ---
 
 ### 5.2. Kasus Uji 2: Dokumen Arsip Scan (`UU Nomor 5 Tahun 1983`)
 * **Karakteristik Dokumen**: 17 halaman dokumen arsip fotokopi tahun 1983, font ketikan mesin lama (*typewriter font*), memuat 17 lambang bintang/garuda di setiap halaman.
 
-| Parameter Evaluasi | Hasil Docling Pipeline | Referensi Landing.AI | Keterangan Evaluasi |
+| Parameter Evaluasi | Hasil Docling Pipeline | Referensi Landing.AI | Keterangan & Penjelasan Parameter |
 |---|---|---|---|
-| **Deteksi Figure/Gambar** | **17 dari 17** | **17 dari 17** | **100% Exact Match** (Koordinat BBox identik pada level piksel) |
-| **Text Chunks** | **135** | **138** | Selisih hanya 3 chunk |
-| **Total Karakter Teks Asli** | **32.546 karakter** | **32.577 karakter** | **99.9% Teks Hukum Terbaca Utuh** |
-| **Handling OCR** | RapidOCR PP-OCRv6 | Vision API Cloud | Bebas biaya token API |
+| **Deteksi Figure/Gambar** | **17 dari 17** | **17 dari 17** | **100% Exact Match**: Koordinat *Bounding Box* (`l, t, r, b`) gambar/logo terdeteksi presisi pada level piksel. |
+| **Text Chunks** | **135** | **138** | **Selisih 3 chunk**: Jumlah pemotongan paragraf teks naskah scan hampir identik dengan acuan. |
+| **Total Karakter Teks Asli** | **32.546 karakter** | **32.577 karakter** | **99.9% Teks Hukum Terbaca Utuh**: Mengukur akurasi pembacaan huruf naskah hukum asli (di luar teks deskripsi sintetis AI pada gambar). |
+| **Handling OCR** | RapidOCR PP-OCRv6 | Vision API Cloud | **Bebas Biaya**: OCR lokal offline berkecepatan tinggi tanpa konsumsi token API cloud berbayar. |
+
+---
+
+### 5.3. Glosarium & Panduan Membaca Metrik / Label Tabel Evaluasi
+
+Untuk memudahkan pemahaman terhadap istilah dan metrik teknis pada tabel evaluasi di atas, berikut adalah penjelasan rinci mengenai setiap parameter:
+
+| Label Parameter | Apa yang Diukur? | Mengapa Parameter Ini Penting? | Standar Nilai Ideal |
+|---|---|---|---|
+| **Word-Level Similarity** | Persentase kecocokan perbendaharaan kata (*vocabulary / token overlap*) antara teks hasil Docling dan teks referensi acuan. | Memastikan tidak ada kata, istilah hukum, atau kalimat penting yang terpotong/hilang selama ekstraksi, tanpa terdistorsi oleh perbedaan karakter spasi ganda atau pemenggalan baris (*line-breaks*). | **≥ 90%** (Menunjukkan hampir 100% isi kata berhasil diekstrak utuh). |
+| **Global Text Similarity** | Kemiripan sekuensial seluruh teks dokumen menggunakan algoritma *SequenceMatcher* (Levenshtein / Ratcliff-Obershelp). | Menguji apakah alur urutan bacaan (*reading order*) dari atas ke bawah dan antar halaman mengalir dengan benar sesuai tata letak naskah asli. | **≥ 75%** (*Tinggi / Selaras*). Nilai >80% sudah sangat ideal untuk dokumen hukum panjang. |
+| **Total Chunks** | Jumlah total objek blok data (`chunk`) yang dihasilkan di dalam array JSON `chunks`. | Menentukan apakah dokumen terpotong terlalu kasar (menggumpal) atau terlalu halus (terpecah-pecah). Granularitas yang tepat sangat krusial untuk akurasi pencarian vektor di Graph RAG. | Mendekati jumlah chunk referensi Landing.AI (toleransi selisih ±10%). |
+| **Text Chunks** | Jumlah potongan blok yang bertipe `"text"`. | Memastikan bagian utama dokumen (judul, batang tubuh undang-undang, pasal, ayat, tabel) teridentifikasi secara tepat sebagai konten yang harus di-indeks ke Graph RAG. | Proporsional dengan jumlah pasal dan paragraf dokumen. |
+| **Marginalia Chunks** | Jumlah potongan elemen pelengkap tepi/margin bertipe `"marginalia"`. | Menjaga agar nomor halaman (seperti `- 2 -`, `- 87 -`) terpisah dari narasi hukum utama agar tidak mencemari hasil *embedding* semantic search. | Sesuai dengan jumlah halaman dokumen yang memiliki penomoran. |
+| **Deteksi Figure/Gambar** | Keberhasilan mendeteksi elemen gambar visual (`figure`) beserta koordinat normalisasi *Bounding Box* (`l, t, r, b`). | Memastikan logo garuda, stempel instansi, diagram, atau tanda tangan tidak terlewat dan posisinya tepat pada halaman yang bersangkutan. | **100%** (*Exact Match*). |
+| **Total Karakter Teks Asli** | Jumlah karakter huruf dan angka naskah asli dokumen (mengecualikan teks buatan AI sintetis). | Mengukur daya tangkap engine OCR terhadap naskah dokumen arsip/kuno secara objektif tanpa bias dari teks karangan LLM. | Mendekati 100% dari total karakter dokumen acuan. |
+| **Handling OCR** | Teknologi *Optical Character Recognition* yang digunakan untuk membaca teks gambar/scan. | Menunjukkan efisiensi arsitektur—Docling berjalan lokal/on-premise via model neural network ringan (RapidOCR / PP-OCRv6) tanpa ketergantungan API eksternal. | Akurat, berbiaya Rp0, dan aman untuk privasi dokumen instansi. |
+| **Status Kesimpulan** | Status penilaian akhir terhadap kepatuhan skema dan kualitas ekstraksi. | Menjadi penanda instan bagi engineer apakah file JSON hasil pipeline sudah siap dimasukkan ke pipeline embedding & Knowledge Graph. | **🎉 SUDAH SESUAI & SELARAS**. |
 
 ---
 
