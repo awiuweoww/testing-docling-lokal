@@ -1,0 +1,1 @@
+"data_bencana_2024", "data_bencana_2025" | ForEach-Object { $f = $_; Get-ChildItem -Path $f -Filter *.pdf | ForEach-Object { mineru -p $_.FullName -o "output/$f" -b vlm-engine } }
